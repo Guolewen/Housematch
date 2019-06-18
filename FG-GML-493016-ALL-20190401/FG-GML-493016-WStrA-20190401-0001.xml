@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0401</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<WStrA gml:id="K28_4707011790_1">
+<fid>20190306-47103-11817-s-5199</fid>
+<lfSpanFr gml:id="K28_4707011790_1-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_1-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_1-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.827391755 130.844031606
+32.827396712 130.844102198
+32.827396367 130.844114374
+32.827396740 130.844124521
+32.827399098 130.844135091
+32.827412214 130.844167538
+32.827461624 130.844262415
+32.827539275 130.844245756
+32.827651644 130.844171178
+32.827663264 130.844160477
+32.827784269 130.844075887
+32.828137356 130.843815402
+32.828520001 130.843538522
+32.828817507 130.843326517
+32.828851742 130.843300395
+32.828865521 130.843285417
+32.828875252 130.843278671
+32.828879219 130.843278023
+32.828883818 130.843278015
+32.828887246 130.84327865
+32.828898171 130.843145545
+32.829093329 130.843009553
+32.829072691 130.842948814
+32.829076833 130.842871796
+32.829079339 130.842856091
+32.829057111 130.842821844
+32.828996588 130.842738959
+32.828875473 130.842807424
+32.828779662 130.842846792
+32.828637169 130.842911129
+32.828563414 130.842920017
+32.828477727 130.842906283
+32.828146814 130.842798240
+32.82791465 130.842979157
+32.827748882 130.843107619
+32.827671748 130.843371252
+32.827598658 130.843536699
+32.827598594 130.843572501
+32.827551705 130.843720406
+32.827505131 130.843831142
+32.827406912 130.843965251
+32.827391755 130.844031606
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>ダム</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_2">
+<fid>20190306-47088-11790-s-6364</fid>
+<lfSpanFr gml:id="K28_4707011790_2-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_2-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_2-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.753497992 130.804766782
+32.753489726 130.80481507
+32.753491592 130.804855406
+32.753503119 130.804902445
+32.753513802 130.804929315
+32.753547218 130.804960831
+32.753736903 130.805042272
+32.753759745 130.805059404
+32.753785046 130.805091899
+32.753801431 130.805132204
+32.753809811 130.805185972
+32.753806039 130.805254175
+32.753795112 130.805359959
+32.753782415 130.805430209
+32.753745538 130.805550562
+32.7537061 130.805647871
+32.753642336 130.805759745
+32.753614057 130.805783925
+32.753935554 130.805787496
+32.753983030 130.805697961
+32.754020946 130.805607487
+32.754062541 130.805505051
+32.754080374 130.805432762
+32.754088751 130.805368178
+32.754089304 130.805201906
+32.754084268 130.805146966
+32.754083525 130.805138846
+32.754027537 130.804973871
+32.753976823 130.804895329
+32.753883919 130.804824882
+32.75371874 130.804787037
+32.753695934 130.804793276
+32.753692085 130.804811641
+32.753683334 130.804809098
+32.753687093 130.804790948
+32.753615031 130.804785876
+32.753562340 130.804769449
+32.753497992 130.804766782
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>ダム</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_3">
+<fid>20190306-47106-11805-s-7277</fid>
+<lfSpanFr gml:id="K28_4707011790_3-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_3-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_3-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.794269574 130.850354434
+32.794112117 130.850351815
+32.793994976 130.850353719
+32.794000127 130.850363106
+32.794020462 130.850400121
+32.794038141 130.850402868
+32.794050906 130.850444486
+32.794072824 130.850523778
+32.794133403 130.850732837
+32.794133062 130.850749386
+32.794127412 130.850775874
+32.794120758 130.850792114
+32.794110040 130.850803236
+32.794123136 130.850820084
+32.794219482 130.850772945
+32.794329041 130.850689802
+32.794344535 130.850675042
+32.794372099 130.850648944
+32.794364602 130.850639561
+32.794326498 130.850523354
+32.794269574 130.850354434
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>ダム</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_4">
+<fid>20190306-47070-11817-s-20886</fid>
+<lfSpanFr gml:id="K28_4707011790_4-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_4-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_4-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.829111104 130.756723906
+32.829107869 130.756818025
+32.829099086 130.756892389
+32.829086952 130.756954917
+32.829075505 130.757004401
+32.829064312 130.757045554
+32.829052211 130.757082874
+32.829024402 130.757153765
+32.829005291 130.757204018
+32.828973693 130.757274075
+32.829028943 130.757305006
+32.829042033 130.757312234
+32.829051556 130.757293944
+32.829074542 130.757246991
+32.829091066 130.757211379
+32.829098508 130.757189451
+32.829114645 130.757140168
+32.829122691 130.757108744
+32.829136390 130.757058292
+32.829147854 130.757017342
+32.829156606 130.756977905
+32.829167955 130.756924576
+32.829174008 130.756883758
+32.829178617 130.756842506
+32.829181677 130.756797851
+32.829183214 130.756753306
+32.829183961 130.756720182
+32.829181617 130.756720296
+32.829111104 130.756723906
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>透過水制</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_5">
+<fid>20190306-47073-11817-s-15127</fid>
+<lfSpanFr gml:id="K28_4707011790_5-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_5-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_5-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_5-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.829616726 130.762280272
+32.829545899 130.762308349
+32.829493189 130.762327075
+32.829440559 130.762345480
+32.829390727 130.762364956
+32.829342968 130.762383882
+32.829307026 130.762399892
+32.829271164 130.762415261
+32.829230257 130.762433005
+32.829213768 130.762440526
+32.829189534 130.762452873
+32.829192354 130.762465790
+32.829195891 130.762476782
+32.829220516 130.762479921
+32.829254978 130.762486771
+32.829294347 130.762466266
+32.829326412 130.762450907
+32.829375250 130.762430258
+32.829436976 130.762405741
+32.829501681 130.762382498
+32.829548976 130.762361640
+32.829609433 130.762333708
+32.829650879 130.762314906
+32.829689175 130.762299092
+32.829714034 130.762287704
+32.829737012 130.762278350
+32.829753589 130.762270188
+32.829780074 130.762255378
+32.829842981 130.762235332
+32.829873085 130.762227134
+32.829923738 130.762217386
+32.829945281 130.762212522
+32.829982148 130.762204200
+32.83003307 130.762188683
+32.830026055 130.762151200
+32.82986445 130.762191482
+32.829738367 130.762232097
+32.829680436 130.762255750
+32.829616726 130.762280272
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>透過水制</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_6">
+<fid>20190306-47070-11814-s-15523</fid>
+<lfSpanFr gml:id="K28_4707011790_6-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_6-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_6-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_6-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.823905442 130.751079512
+32.823783016 130.750934888
+32.823718392 130.750861054
+32.823648553 130.750795564
+32.823636810 130.750785558
+32.82362709 130.750836210
+32.823658265 130.750872543
+32.82372941 130.750960041
+32.823819052 130.751053137
+32.823903185 130.751141561
+32.823905571 130.751144288
+32.823968352 130.751216142
+32.823996517 130.751230802
+32.824018066 130.751228820
+32.824025084 130.751220897
+32.823914264 130.751089933
+32.823905442 130.751079512
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>透過水制</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_7">
+<fid>20190306-47112-11799-s-1305</fid>
+<lfSpanFr gml:id="K28_4707011790_7-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_7-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_7-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_7-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.778364067 130.868238032
+32.778391683 130.868257316
+32.778551876 130.868369183
+32.778573356 130.868384098
+32.778586581 130.868355680
+32.778556980 130.868336506
+32.778406895 130.868231777
+32.778383791 130.868215583
+32.778364067 130.868238032
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>せき</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_8">
+<fid>20190306-47070-11796-s-13040</fid>
+<lfSpanFr gml:id="K28_4707011790_8-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_8-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_8-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_8-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.772724702 130.751244892
+32.772726354 130.751218735
+32.772700919 130.751216447
+32.772620194 130.751209199
+32.772624915 130.751134146
+32.772596142 130.751131558
+32.772589760 130.751232874
+32.772724702 130.751244892
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_9">
+<fid>20190306-47106-11799-s-1885</fid>
+<lfSpanFr gml:id="K28_4707011790_9-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_9-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_9-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_9-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.781644614 130.852172975
+32.781663912 130.852172410
+32.781702985 130.851925955
+32.781686482 130.851928116
+32.781644614 130.852172975
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>せき</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_10">
+<fid>20190306-47112-11805-s-1351</fid>
+<lfSpanFr gml:id="K28_4707011790_10-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_10-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_10-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_10-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.79523696 130.872514164
+32.795267699 130.872332068
+32.795249751 130.872329744
+32.795214056 130.872515479
+32.79523696 130.872514164
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>せき</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_11">
+<fid>20190306-47109-11799-s-1712</fid>
+<lfSpanFr gml:id="K28_4707011790_11-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_11-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_11-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_11-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.779965559 130.863670811
+32.780110646 130.863661933
+32.780109452 130.863644106
+32.779965901 130.863654262
+32.779965559 130.863670811
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>せき</type>
+</WStrA>
+<WStrA gml:id="K28_4707011790_12">
+<fid>20190306-47109-11799-s-1711</fid>
+<lfSpanFr gml:id="K28_4707011790_12-1">
+<gml:timePosition>2019-03-06</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4707011790_12-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4707011790_12-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4707011790_12-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.779929542 130.863001346
+32.780039102 130.862996580
+32.780036823 130.862975231
+32.779923205 130.862980430
+32.779924666 130.862996123
+32.779929542 130.863001346
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>せき</type>
+</WStrA>
+</Dataset>

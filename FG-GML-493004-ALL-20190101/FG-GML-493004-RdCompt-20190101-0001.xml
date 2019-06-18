@@ -1,0 +1,4161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0101</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<RdCompt gml:id="K24_4701311766_1">
+<fid>47013-11766-s-1198</fid>
+<lfSpanFr gml:id="K24_4701311766_1-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701311766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701311766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691666667 130.598859808
+32.691656490 130.598858165
+32.691589756 130.598846378
+32.691523161 130.598833540
+32.691520190 130.598832772
+32.691515693 130.598830896
+32.691511486 130.598828240
+32.691507666 130.598824866
+32.691504319 130.598820849
+32.691501522 130.598816282
+32.691493274 130.598800436
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701311769_1">
+<fid>47013-11769-s-1162</fid>
+<lfSpanFr gml:id="K24_4701311769_1-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701311769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701311769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694838689 130.600000000
+32.694713351 130.599864242
+32.694709941 130.599859741
+32.694707857 130.599855243
+32.694706518 130.599850371
+32.694705989 130.599845286
+32.694706289 130.599840176
+32.694707409 130.599835227
+32.694709307 130.599830622
+32.694711947 130.599826567
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701311769_2">
+<fid>47013-11769-s-1163</fid>
+<lfSpanFr gml:id="K24_4701311769_2-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701311769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701311769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694693855 130.599806974
+32.694690616 130.599810624
+32.694686789 130.599813258
+32.694682615 130.599814985
+32.694678236 130.599815718
+32.694673821 130.599815428
+32.694669538 130.599814127
+32.694665551 130.599811864
+32.694662058 130.599808670
+32.694520171 130.599655111
+32.694459665 130.599590556
+32.694418779 130.599548014
+32.694384259 130.599513028
+32.694363344 130.599492256
+32.694342246 130.599471695
+32.694320953 130.599451367
+32.694299451 130.599431300
+32.694277727 130.599411518
+32.694255783 130.599392027
+32.694224627 130.599365385
+32.694192619 130.599339087
+32.694160116 130.599313650
+32.694127175 130.599289013
+32.694087503 130.599260955
+32.694052987 130.599237725
+32.694018039 130.599215415
+32.693982691 130.599194007
+32.693946951 130.599173527
+32.693924763 130.599161409
+32.693888427 130.599142324
+32.693851729 130.599124234
+32.693814707 130.599107089
+32.693777374 130.599090916
+32.693754248 130.599081472
+32.693716567 130.599066809
+32.693678611 130.599053175
+32.693640415 130.599040516
+32.693601992 130.599028856
+32.693578238 130.599022202
+32.693539913 130.599012157
+32.693501403 130.599003147
+32.693460761 130.598994793
+32.693433607 130.598989766
+32.693397973 130.598983905
+32.693370762 130.598979909
+32.693343539 130.598976303
+32.693316310 130.598973060
+32.693289081 130.598970148
+32.693261858 130.598967518
+32.693216503 130.598963783
+32.693170177 130.598960606
+32.693164062 130.598959656
+32.693158856 130.598957926
+32.693153889 130.598955395
+32.693149251 130.598952107
+32.693145024 130.598948118
+32.693129670 130.598931534
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701311769_3">
+<fid>47013-11769-s-1164</fid>
+<lfSpanFr gml:id="K24_4701311769_3-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701311769_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701311769_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.693067016 130.598928337
+32.693066744 130.598932033
+32.693065686 130.598936631
+32.693063952 130.598940932
+32.693061599 130.598944800
+32.693058702 130.598948111
+32.693055352 130.598950758
+32.693051658 130.598952659
+32.693047736 130.598953752
+32.693043712 130.598954018
+32.692188561 130.598916412
+32.692122212 130.598912587
+32.692055908 130.598907784
+32.691989659 130.598902014
+32.691923476 130.598895277
+32.691857373 130.598887515
+32.691790306 130.598878766
+32.691723343 130.598868961
+32.691666667 130.598859808
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701611769_1">
+<fid>47016-11769-s-1139</fid>
+<lfSpanFr gml:id="K24_4701611769_1-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701611769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701611769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.699454805 130.603936518
+32.699453559 130.603942888
+32.699450056 130.603958006
+32.699443123 130.603983230
+32.699441011 130.603994027
+32.699439587 130.604004981
+32.699438880 130.604016031
+32.699438894 130.604027114
+32.699439376 130.604035401
+32.699440394 130.604043429
+32.699442248 130.604051248
+32.699444861 130.604058759
+32.699448197 130.604065856
+32.699452213 130.604072444
+32.699456836 130.604078455
+32.699463180 130.604084663
+32.699470610 130.604090744
+32.699478427 130.604096105
+32.699486568 130.604100739
+32.699520949 130.604116152
+32.699551851 130.604129439
+32.699638137 130.604165097
+32.699816273 130.604234606
+32.699827688 130.604239578
+32.699841213 130.604246300
+32.699854442 130.604253801
+32.699867344 130.604262061
+32.699879887 130.604271061
+32.699892040 130.604280780
+32.699903775 130.604291193
+32.699915063 130.604302276
+32.699925877 130.604314002
+32.699936190 130.604326342
+32.699945936 130.604339209
+32.700000000 130.604412076
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701611769_2">
+<fid>47016-11769-s-1140</fid>
+<lfSpanFr gml:id="K24_4701611769_2-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701611769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701611769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.696068784 130.601285263
+32.696066804 130.601287248
+32.696063017 130.601289931
+32.696058912 130.601291850
+32.696054598 130.601292954
+32.696050189 130.601293214
+32.696045804 130.601292622
+32.696041558 130.601291195
+32.696037565 130.601288970
+32.696033931 130.601286007
+32.696020734 130.601273256
+32.695998138 130.601250863
+32.695940688 130.601192002
+32.695901777 130.601151423
+32.695775182 130.601014280
+32.695772586 130.601010637
+32.695770576 130.601006507
+32.695769219 130.601002020
+32.695768559 130.600997320
+32.695768618 130.600992555
+32.695769392 130.600987879
+32.695770858 130.600983441
+32.695772968 130.600979381
+32.695774358 130.600977545
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701611769_3">
+<fid>47016-11769-s-1141</fid>
+<lfSpanFr gml:id="K24_4701611769_3-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701611769_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701611769_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.695744539 130.600944954
+32.695740974 130.600949079
+32.695737148 130.600951555
+32.695733019 130.600953163
+32.695728706 130.600953807
+32.695724369 130.600953462
+32.695720168 130.600952141
+32.695716237 130.600949915
+32.695706703 130.600940176
+32.694838689 130.600000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701611769_4">
+<fid>47016-11769-s-1142</fid>
+<lfSpanFr gml:id="K24_4701611769_4-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701611769_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701611769_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.699400349 130.603818820
+32.699402777 130.603831454
+32.699404684 130.603845092
+32.699405876 130.603858843
+32.699406348 130.603872655
+32.699406098 130.603886475
+32.699405129 130.603900250
+32.699403442 130.603913929
+32.699401046 130.603927458
+32.699397948 130.603940787
+32.699394166 130.603953851
+32.699389737 130.603966047
+32.699385159 130.603975628
+32.699379896 130.603984701
+32.699373968 130.603993179
+32.699367421 130.604000996
+32.699360269 130.604008064
+32.699356362 130.604011180
+32.699351686 130.604013935
+32.699346734 130.604015902
+32.699341600 130.604017045
+32.699336382 130.604017341
+32.699331179 130.604016785
+32.699326090 130.604015388
+32.699317150 130.604011681
+32.699308580 130.604006908
+32.699275025 130.603985482
+32.699247481 130.603966429
+32.699228777 130.603952937
+32.699201939 130.603932519
+32.699164238 130.603901926
+32.699129077 130.603871790
+32.699094715 130.603840460
+32.699060912 130.603808021
+32.699027538 130.603774699
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701611769_5">
+<fid>47016-11769-s-1143</fid>
+<lfSpanFr gml:id="K24_4701611769_5-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701611769_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701611769_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.697687122 130.602275009
+32.697683300 130.602278985
+32.697679488 130.602281404
+32.697675368 130.602282946
+32.697671075 130.602283531
+32.697666767 130.602283139
+32.697662600 130.602281785
+32.697658728 130.602279517
+32.697655329 130.602276370
+32.697578296 130.602192008
+32.697510622 130.602118351
+32.697469909 130.602075354
+32.697435312 130.602040134
+32.697414213 130.602019346
+32.697392814 130.601998891
+32.697371088 130.601978819
+32.697349009 130.601959188
+32.697326555 130.601940054
+32.697314965 130.601930518
+32.697288276 130.601909441
+32.697263380 130.601890852
+32.697238106 130.601872991
+32.697212469 130.601855867
+32.697186486 130.601839491
+32.697160171 130.601823873
+32.697133540 130.601809022
+32.697106610 130.601794947
+32.697093096 130.601788157
+32.697063113 130.601774124
+32.697037204 130.601762736
+32.697011167 130.601751955
+32.696985030 130.601741717
+32.696953330 130.601729983
+32.696922683 130.601719330
+32.696896364 130.601710523
+32.696843696 130.601693772
+32.696676242 130.601643671
+32.696591971 130.601617046
+32.696551946 130.601603682
+32.696512122 130.601589499
+32.696472512 130.601574502
+32.696433127 130.601558693
+32.696404706 130.601545904
+32.696380243 130.601534232
+32.696342323 130.601515293
+32.696316184 130.601501396
+32.696290349 130.601486726
+32.696264834 130.601471290
+32.696239656 130.601455101
+32.696214830 130.601438167
+32.696190373 130.601420499
+32.696166284 130.601402127
+32.696126548 130.601369870
+32.696120440 130.601364589
+32.696117166 130.601361087
+32.696114415 130.601357004
+32.696112262 130.601352446
+32.696110765 130.601347535
+32.696109963 130.601342401
+32.696109877 130.601337182
+32.696110510 130.601332015
+32.696111845 130.601327039
+32.696112709 130.601325031
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701611769_6">
+<fid>47016-11769-s-1144</fid>
+<lfSpanFr gml:id="K24_4701611769_6-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701611769_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701611769_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.699004192 130.603714888
+32.699001833 130.603717626
+32.698998532 130.603720364
+32.698994878 130.603722371
+32.698990981 130.603723578
+32.698986964 130.603723944
+32.698982956 130.603723458
+32.698979085 130.603722137
+32.698975475 130.603720022
+32.698972254 130.603717163
+32.698926359 130.603668671
+32.697728222 130.602356217
+32.697724833 130.602351693
+32.697722771 130.602347180
+32.697721454 130.602342300
+32.697720949 130.602337211
+32.697721274 130.602332103
+32.697722417 130.602327161
+32.697724336 130.602322568
+32.697726999 130.602318535
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701611772_1">
+<fid>47016-11772-s-1056</fid>
+<lfSpanFr gml:id="K24_4701611772_1-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701611772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701611772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700000000 130.604412076
+32.700089117 130.604532187
+32.700116997 130.604581476
+32.700127223 130.604598786
+32.700138031 130.604615594
+32.700149405 130.604631871
+32.700161311 130.604647603
+32.700176072 130.604665397
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_1">
+<fid>47019-11778-s-1963</fid>
+<lfSpanFr gml:id="K24_4701911778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.723351272 130.610770362
+32.723235692 130.610751768
+32.723208895 130.610747403
+32.723169917 130.610741171
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_2">
+<fid>47019-11778-s-1964</fid>
+<lfSpanFr gml:id="K24_4701911778_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.725000000 130.611053729
+32.724739091 130.611008756
+32.724445929 130.610956471
+32.724289739 130.610928771
+32.724258339 130.610923253
+32.724046668 130.610889178
+32.723947326 130.610872113
+32.723825787 130.610851304
+32.723774535 130.610841924
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_3">
+<fid>47019-11778-s-1965</fid>
+<lfSpanFr gml:id="K24_4701911778_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.723169917 130.610741171
+32.723159902 130.610739721
+32.722979264 130.610709034
+32.722679976 130.610658484
+32.722590197 130.610643192
+32.722467122 130.610620896
+32.722154377 130.610564111
+32.722138856 130.610561405
+32.722141232 130.610542405
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_4">
+<fid>47019-11778-s-1966</fid>
+<lfSpanFr gml:id="K24_4701911778_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.719925144 130.610173953
+32.719922768 130.610192953
+32.719990616 130.610203219
+32.720349461 130.610265668
+32.720645769 130.610314628
+32.720808531 130.610338670
+32.721055933 130.610378561
+32.721380952 130.610438705
+32.721606601 130.610472716
+32.721615443 130.610473958
+32.721617820 130.610455065
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_5">
+<fid>47019-11778-s-1967</fid>
+<lfSpanFr gml:id="K24_4701911778_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.723774535 130.610841924
+32.723606972 130.610811073
+32.723458822 130.610787712
+32.723455574 130.610787193
+32.723453588 130.610786561
+32.723451960 130.610784862
+32.723450871 130.610782839
+32.723450139 130.610779322
+32.723449859 130.610776443
+32.723450383 130.610770786
+32.723450382 130.610770466
+32.723450470 130.610769719
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_6">
+<fid>47019-11778-s-1968</fid>
+<lfSpanFr gml:id="K24_4701911778_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.723351272 130.610770362
+32.723377981 130.610775047
+32.723383299 130.610774170
+32.723387617 130.610770738
+32.723391657 130.610764959
+32.723395188 130.610740620
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_7">
+<fid>47019-11778-s-1969</fid>
+<lfSpanFr gml:id="K24_4701911778_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720662875 130.610885723
+32.720656195 130.610883512
+32.720650231 130.610879591
+32.720644533 130.610874175
+32.720640277 130.610868646
+32.720637285 130.610863537
+32.720634375 130.610855762
+32.720632821 130.610849048
+32.720631797 130.610838811
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_8">
+<fid>47019-11778-s-1970</fid>
+<lfSpanFr gml:id="K24_4701911778_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720767590 130.610402814
+32.720736657 130.610397017
+32.720730614 130.610396831
+32.720725205 130.610397387
+32.720719438 130.610398799
+32.720714304 130.610400742
+32.720709892 130.610403001
+32.720704493 130.610406759
+32.720697929 130.610412974
+32.720692809 130.610419504
+32.720688953 130.610426454
+32.720686268 130.610432868
+32.720683948 130.610440879
+32.720682797 130.610447817
+32.720660952 130.610615082
+32.720658222 130.610636217
+32.720646772 130.610724278
+32.720643953 130.610745840
+32.720631797 130.610838811
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_9">
+<fid>47019-11778-s-1971</fid>
+<lfSpanFr gml:id="K24_4701911778_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718684431 130.609971962
+32.718686506 130.609972380
+32.718694086 130.609973734
+32.719116187 130.610048281
+32.719513750 130.610120588
+32.719869625 130.610184649
+32.719873052 130.610184634
+32.719875934 130.610183448
+32.719877820 130.610180880
+32.719879140 130.610170526
+32.719879139 130.610170206
+32.719879227 130.610169459
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_10">
+<fid>47019-11778-s-1972</fid>
+<lfSpanFr gml:id="K24_4701911778_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720271320 130.613595621
+32.720267788 130.613620067
+32.720266205 130.613632662
+32.720265852 130.613635224
+32.720253699 130.613730116
+32.720251498 130.613746981
+32.720239779 130.613835897
+32.720238193 130.613848066
+32.720237400 130.613854150
+32.720226222 130.613943063
+32.720224109 130.613959821
+32.720212215 130.614050339
+32.720212037 130.614051406
+32.720209833 130.614067524
+32.720197674 130.614160069
+32.720195912 130.614173838
+32.720195559 130.614176187
+32.720183580 130.614268625
+32.720183581 130.614269158
+32.720181642 130.614283675
+32.720170281 130.614371842
+32.720167990 130.614389348
+32.720152308 130.614508898
+32.720152867 130.614514763
+32.720153322 130.614516041
+32.720153596 130.614517214
+32.720154868 130.614520195
+32.720156410 130.614523389
+32.720158404 130.614526475
+32.720159219 130.614527645
+32.720161574 130.614531049
+32.720166730 130.614536041
+32.720169894 130.614538481
+32.720175044 130.614541659
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_11">
+<fid>47019-11778-s-1973</fid>
+<lfSpanFr gml:id="K24_4701911778_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718401860 130.609903530
+32.718416229 130.609913068
+32.718433842 130.609922273
+32.718452081 130.609929555
+32.718684431 130.609971962
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_12">
+<fid>47019-11778-s-2018</fid>
+<lfSpanFr gml:id="K24_4701911778_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720647235 130.610931237
+32.720637044 130.610931281
+32.720632004 130.610934183
+32.720626424 130.610938262
+32.720621305 130.610944898
+32.720616736 130.610954839
+32.720563003 130.611360152
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_13">
+<fid>47019-11778-s-2019</fid>
+<lfSpanFr gml:id="K24_4701911778_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720441789 130.612498095
+32.720433225 130.612499199
+32.720424942 130.612503715
+32.720418917 130.612509182
+32.720414787 130.612514960
+32.720411380 130.612521376
+32.720397198 130.612630253
+32.720367429 130.612860066
+32.720325592 130.613182210
+32.720313788 130.613272834
+32.720307535 130.613321187
+32.720300046 130.613378081
+32.720288644 130.613464411
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_14">
+<fid>47019-11778-s-2020</fid>
+<lfSpanFr gml:id="K24_4701911778_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720169607 130.614591502
+32.720165187 130.614591308
+32.720161219 130.614591324
+32.720157344 130.614591981
+32.720153649 130.614592744
+32.720150410 130.614595106
+32.720147442 130.614597784
+32.720143577 130.614602388
+32.720142052 130.614604743
+32.720140260 130.614608271
+32.720139102 130.614612970
+32.720132043 130.614663674
+32.720121810 130.614737433
+32.720119514 130.614753446
+32.720107599 130.614837455
+32.720105215 130.614853894
+32.720092695 130.614946441
+32.720091284 130.614957115
+32.720090579 130.614962452
+32.720077975 130.615057025
+32.720076037 130.615071649
+32.720064036 130.615157259
+32.720061740 130.615173058
+32.720048589 130.615265820
+32.720046385 130.615282258
+32.720033860 130.615373524
+32.720031655 130.615389536
+32.720018953 130.615481869
+32.720017808 130.615490622
+32.720016837 130.615497667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_15">
+<fid>47019-11778-s-2021</fid>
+<lfSpanFr gml:id="K24_4701911778_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720549441 130.611463670
+32.720540346 130.611533594
+32.720523608 130.611661470
+32.720520174 130.611688262
+32.720511892 130.611751346
+32.720509426 130.611770239
+32.720498063 130.611857660
+32.720470316 130.612070395
+32.720467760 130.612089502
+32.720456221 130.612178310
+32.720453664 130.612197311
+32.720441773 130.612288680
+32.720439217 130.612308000
+32.720424507 130.612421252
+32.720424419 130.612421786
+32.720425793 130.612428821
+32.720427879 130.612432759
+32.720429421 130.612435633
+32.720434128 130.612441266
+32.720438919 130.612445086
+32.720448044 130.612450167
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_16">
+<fid>47019-11778-s-2022</fid>
+<lfSpanFr gml:id="K24_4701911778_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720275879 130.613560943
+32.720271320 130.613595621
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_17">
+<fid>47019-11778-s-2023</fid>
+<lfSpanFr gml:id="K24_4701911778_17-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_17-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_17-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.719996720 130.615643393
+32.719989755 130.615693543
+32.719987726 130.615708381
+32.719975116 130.615801460
+32.719974058 130.615808932
+32.719972735 130.615818859
+32.719960833 130.615907135
+32.719960039 130.615913219
+32.719958541 130.615924215
+32.719946196 130.616015586
+32.719943990 130.616031384
+32.719931729 130.616120408
+32.719929523 130.616136314
+32.719916996 130.616226939
+32.719914792 130.616243484
+32.719902808 130.616334747
+32.719901485 130.616344675
+32.719900780 130.616349799
+32.719885812 130.616438514
+32.719883154 130.616454101
+32.719865210 130.616542829
+32.719864056 130.616548701
+32.719862189 130.616557565
+32.719854282 130.616596323
+32.719852862 130.616603797
+32.719852418 130.616606039
+32.719852071 130.616610521
+32.719851896 130.616612122
+32.719852365 130.616618202
+32.719853367 130.616621504
+32.719854005 130.616623422
+32.719856089 130.616626827
+32.719857721 130.616629700
+32.719860163 130.616632037
+32.719865314 130.616635428
+32.719870100 130.616637648
+32.719874251 130.616638377
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_18">
+<fid>47019-11778-s-2024</fid>
+<lfSpanFr gml:id="K24_4701911778_18-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_18-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_18-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720563003 130.611360152
+32.720564179 130.611367389
+32.720565370 130.611373251
+32.720567282 130.611379323
+32.720570000 130.611383152
+32.720573800 130.611387083
+32.720579757 130.611388871
+32.720586452 130.611390019
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_19">
+<fid>47019-11778-s-2025</fid>
+<lfSpanFr gml:id="K24_4701911778_19-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_19-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_19-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720580194 130.611437518
+32.720571072 130.611438195
+32.720565035 130.611439821
+32.720559456 130.611443686
+32.720554785 130.611449680
+32.720552277 130.611455345
+32.720549441 130.611463670
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_20">
+<fid>47019-11778-s-2026</fid>
+<lfSpanFr gml:id="K24_4701911778_20-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_20-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_20-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720288644 130.613464411
+32.720288682 130.613465182
+32.720290600 130.613472855
+32.720293961 130.613480628
+32.720298126 130.613486051
+32.720302825 130.613489338
+32.720312339 130.613492029
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_21">
+<fid>47019-11778-s-2027</fid>
+<lfSpanFr gml:id="K24_4701911778_21-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_21-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_21-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720275879 130.613560943
+32.720278672 130.613552491
+32.720281631 130.613547037
+32.720284775 130.613543183
+32.720290358 130.613540492
+32.720296397 130.613539399
+32.720306131 130.613539568
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_22">
+<fid>47019-11778-s-2028</fid>
+<lfSpanFr gml:id="K24_4701911778_22-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_22-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_22-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.720016837 130.615497667
+32.720016802 130.615544607
+32.720017734 130.615554524
+32.720020015 130.615563262
+32.720024007 130.615571033
+32.720029520 130.615574743
+32.720034165 130.615575989
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911778_23">
+<fid>47019-11778-s-2029</fid>
+<lfSpanFr gml:id="K24_4701911778_23-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911778_23-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911778_23-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.719996720 130.615643393
+32.720002554 130.615632893
+32.720007497 130.615627538
+32.720012630 130.615625062
+32.720020744 130.615624281
+32.720027551 130.615624869
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_1">
+<fid>47019-11781-s-3340</fid>
+<lfSpanFr gml:id="K24_4701911781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.733333333 130.612851804
+32.733320412 130.612846071
+32.733150182 130.612769344
+32.732960800 130.612681498
+32.732748732 130.612577105
+32.732525293 130.612470202
+32.732315577 130.612369002
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_2">
+<fid>47019-11781-s-3341</fid>
+<lfSpanFr gml:id="K24_4701911781_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732220432 130.612367706
+32.732221150 130.612366742
+32.732228064 130.612356897
+32.732237144 130.612347682
+32.732246243 130.612344548
+32.732254899 130.612344297
+32.732262390 130.612346185
+32.732269973 130.612348713
+32.732315577 130.612369002
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_3">
+<fid>47019-11781-s-3342</fid>
+<lfSpanFr gml:id="K24_4701911781_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730214173 130.611933393
+32.730212775 130.611947909
+32.730214678 130.611950889
+32.730218842 130.611955672
+32.730248886 130.611960449
+32.730315110 130.611970192
+32.730396857 130.611983922
+32.730504336 130.612007143
+32.730622543 130.612029889
+32.730753751 130.612057062
+32.730867812 130.612080148
+32.730946139 130.612096026
+32.731018961 130.612110755
+32.731071658 130.612120876
+32.731117484 130.612125267
+32.731159516 130.612127965
+32.731200634 130.612126187
+32.731214330 130.612122073
+32.731222602 130.612114142
+32.731227680 130.612094062
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_4">
+<fid>47019-11781-s-3343</fid>
+<lfSpanFr gml:id="K24_4701911781_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730003506 130.611903044
+32.730001393 130.611919804
+32.729995179 130.611922818
+32.729984263 130.611921372
+32.729972895 130.611919501
+32.729876080 130.611903382
+32.729775281 130.611881946
+32.729562142 130.611839873
+32.729478562 130.611816763
+32.729417203 130.611805185
+32.729225556 130.611772514
+32.729004842 130.611730473
+32.728794622 130.611699163
+32.728724157 130.611688479
+32.728717739 130.611683812
+32.728713383 130.611674869
+32.728710447 130.611658558
+32.728710446 130.611658238
+32.728710263 130.611657492
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_5">
+<fid>47019-11781-s-3344</fid>
+<lfSpanFr gml:id="K24_4701911781_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731270047 130.612088650
+32.731276853 130.612102064
+32.731282913 130.612107693
+32.731291845 130.612109148
+32.731301031 130.612105267
+32.731343837 130.612095159
+32.731390888 130.612087488
+32.731443706 130.612078617
+32.731480937 130.612073761
+32.731529993 130.612072909
+32.731580771 130.612074822
+32.731628585 130.612080804
+32.731675871 130.612090949
+32.731724420 130.612100981
+32.731815398 130.612125234
+32.731975625 130.612175434
+32.732122313 130.612221532
+32.732144873 130.612226129
+32.732153886 130.612224383
+32.732163160 130.612219648
+32.732165654 130.612209715
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_6">
+<fid>47019-11781-s-3345</fid>
+<lfSpanFr gml:id="K24_4701911781_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.726924033 130.611365220
+32.726923945 130.611365967
+32.726923946 130.611366287
+32.726922554 130.611382403
+32.726919765 130.611384869
+32.726913275 130.611385964
+32.726867446 130.611380722
+32.726649896 130.611341016
+32.726377679 130.611295894
+32.726147591 130.611255922
+32.726139651 130.611254463
+32.726096972 130.611247074
+32.726079648 130.611243948
+32.726071706 130.611242489
+32.726022982 130.611233632
+32.726015041 130.611232279
+32.725970014 130.611224046
+32.725962074 130.611222694
+32.725915875 130.611214252
+32.725907935 130.611212793
+32.725790272 130.611191539
+32.725701307 130.611176562
+32.725693367 130.611175210
+32.725525542 130.611146919
+32.725431524 130.611131536
+32.725423585 130.611130290
+32.725211731 130.611095789
+32.725214190 130.611074654
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_7">
+<fid>47019-11781-s-3346</fid>
+<lfSpanFr gml:id="K24_4701911781_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.725142180 130.611059817
+32.725139981 130.611077857
+32.725000610 130.611053834
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_8">
+<fid>47019-11781-s-3347</fid>
+<lfSpanFr gml:id="K24_4701911781_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730030833 130.611903886
+32.730030669 130.611909222
+32.730030588 130.611912316
+32.730030340 130.611919465
+32.730032788 130.611923722
+32.730041998 130.611927310
+32.730060404 130.611930218
+32.730072584 130.611932193
+32.730120314 130.611939881
+32.730166600 130.611947256
+32.730171736 130.611945847
+32.730176150 130.611944334
+32.730178035 130.611941338
+32.730180672 130.611927958
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_9">
+<fid>47019-11781-s-3358</fid>
+<lfSpanFr gml:id="K24_4701911781_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731999372 130.614538994
+32.732004141 130.614538954
+32.732008850 130.614538064
+32.732013391 130.614536345
+32.732017662 130.614533836
+32.732021565 130.614530594
+32.732025011 130.614526694
+32.732027920 130.614522225
+32.732030227 130.614517288
+32.732031880 130.614511995
+32.732032839 130.614506469
+32.732033082 130.614500835
+32.732030804 130.614430552
+32.732029494 130.614387816
+32.732028429 130.614350388
+32.732027598 130.614318280
+32.732027417 130.614310693
+32.732022419 130.614289493
+32.732021869 130.614262591
+32.732021596 130.614247248
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_10">
+<fid>47019-11781-s-3359</fid>
+<lfSpanFr gml:id="K24_4701911781_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732117262 130.613808887
+32.732115929 130.613808632
+32.732112045 130.613807367
+32.732108413 130.613805305
+32.732105149 130.613802510
+32.732102357 130.613799073
+32.732100127 130.613795103
+32.732098531 130.613790726
+32.732097618 130.613786084
+32.732097418 130.613781323
+32.732101102 130.613671972
+32.732111250 130.613488896
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_11">
+<fid>47019-11781-s-3360</fid>
+<lfSpanFr gml:id="K24_4701911781_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732013510 130.615035756
+32.732017957 130.615036582
+32.732020204 130.615037098
+32.732024754 130.615038786
+32.732029037 130.615041265
+32.732032956 130.615044479
+32.732036421 130.615048355
+32.732039353 130.615052804
+32.732041685 130.615057726
+32.732043363 130.615063006
+32.732044350 130.615068526
+32.732044625 130.615074158
+32.732044310 130.615092620
+32.732043869 130.615113787
+32.732043351 130.615134961
+32.732042760 130.615156142
+32.732041926 130.615182628
+32.732040994 130.615209124
+32.732039973 130.615235630
+32.732038872 130.615262147
+32.732037459 130.615293982
+32.732035959 130.615325832
+32.732034119 130.615363013
+32.732031588 130.615412053
+32.732022297 130.615586508
+32.731998476 130.616033054
+32.731998196 130.616036135
+32.731997128 130.616041633
+32.731995373 130.616046879
+32.731992970 130.616051751
+32.731989973 130.616056140
+32.731986453 130.616059945
+32.731982487 130.616063078
+32.731978168 130.616065469
+32.731973594 130.616067064
+32.731968869 130.616067824
+32.731964101 130.616067734
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_12">
+<fid>47019-11781-s-3361</fid>
+<lfSpanFr gml:id="K24_4701911781_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731962440 130.616115834
+32.731964278 130.616116079
+32.731968954 130.616117184
+32.731973436 130.616119111
+32.731977622 130.616121814
+32.731981415 130.616125232
+32.731984731 130.616129287
+32.731987491 130.616133887
+32.731989635 130.616138927
+32.731991112 130.616144291
+32.731991890 130.616149857
+32.731991950 130.616155498
+32.731964691 130.616666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_13">
+<fid>47019-11781-s-3362</fid>
+<lfSpanFr gml:id="K24_4701911781_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732139751 130.615038027
+32.732134837 130.615037078
+32.732133350 130.615036748
+32.732128774 130.615035159
+32.732124453 130.615032774
+32.732120484 130.615029646
+32.732116960 130.615025846
+32.732113959 130.615021461
+32.732111551 130.615016591
+32.732109791 130.615011348
+32.732108718 130.615005851
+32.732108359 130.615000226
+32.732108356 130.614981346
+32.732108272 130.614959851
+32.732108114 130.614938366
+32.732107821 130.614911525
+32.732107428 130.614884700
+32.732106946 130.614857893
+32.732106384 130.614831102
+32.732105617 130.614798976
+32.732104763 130.614766874
+32.732103612 130.614727252
+32.732102112 130.614679189
+32.732094394 130.614443736
+32.732092899 130.614395840
+32.732091816 130.614358617
+32.732090963 130.614326732
+32.732090265 130.614297956
+32.732089693 130.614271414
+32.732089199 130.614244884
+32.732088792 130.614218367
+32.732088482 130.614191863
+32.732088309 130.614170669
+32.732088207 130.614149485
+32.732088182 130.614128309
+32.732088236 130.614107144
+32.732088378 130.614086006
+32.732088607 130.614064841
+32.732088919 130.614043677
+32.732089313 130.614022506
+32.732089782 130.614001327
+32.732090322 130.613980141
+32.732091090 130.613953649
+32.732091954 130.613927146
+32.732092907 130.613900632
+32.732093257 130.613891471
+32.732093359 130.613890210
+32.732094048 130.613884685
+32.732095446 130.613879291
+32.732097515 130.613874208
+32.732100207 130.613869552
+32.732103462 130.613865429
+32.732107205 130.613861932
+32.732111350 130.613859144
+32.732115803 130.613857125
+32.732120462 130.613855924
+32.732125221 130.613855566
+32.732126325 130.613855681
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_14">
+<fid>47019-11781-s-3363</fid>
+<lfSpanFr gml:id="K24_4701911781_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731996407 130.614597894
+32.732001051 130.614596615
+32.732005805 130.614596178
+32.732010561 130.614596593
+32.732015209 130.614597851
+32.732019644 130.614599924
+32.732023765 130.614602763
+32.732027477 130.614606304
+32.732030696 130.614610466
+32.732033348 130.614615155
+32.732035373 130.614620263
+32.732036725 130.614625673
+32.732037375 130.614631263
+32.732039539 130.614697990
+32.732040909 130.614742745
+32.732041962 130.614779959
+32.732042783 130.614811836
+32.732043512 130.614843694
+32.732044037 130.614870230
+32.732044480 130.614896752
+32.732044829 130.614923261
+32.732045026 130.614943539
+32.732044954 130.614946297
+32.732044296 130.614951884
+32.732042933 130.614957291
+32.732040897 130.614962393
+32.732038236 130.614967074
+32.732035008 130.614971226
+32.732031289 130.614974757
+32.732027162 130.614977584
+32.732022722 130.614979643
+32.732018071 130.614980888
+32.732013315 130.614981289
+32.732008562 130.614980838
+32.731982713 130.614976040
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_15">
+<fid>47019-11781-s-3364</fid>
+<lfSpanFr gml:id="K24_4701911781_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732111250 130.613488896
+32.732118198 130.613311331
+32.732124936 130.613127786
+32.732131441 130.613014768
+32.732134620 130.612964074
+32.732137448 130.612916263
+32.732140005 130.612868133
+32.732144107 130.612823943
+32.732148825 130.612775057
+32.732154941 130.612711227
+32.732160802 130.612652626
+32.732171030 130.612577255
+32.732179301 130.612510535
+32.732189076 130.612463760
+32.732197166 130.612426169
+32.732206546 130.612397321
+32.732213713 130.612382032
+32.732219355 130.612369311
+32.732220432 130.612367706
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_16">
+<fid>47019-11781-s-3465</fid>
+<lfSpanFr gml:id="K24_4701911781_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.728673988 130.611650608
+32.728673720 130.611651356
+32.728673541 130.611651570
+32.728668166 130.611663116
+32.728661331 130.611669227
+32.728652675 130.611669798
+32.728538022 130.611659305
+32.728456460 130.611647176
+32.728183071 130.611602269
+32.727833787 130.611540409
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_17">
+<fid>47019-11781-s-3466</fid>
+<lfSpanFr gml:id="K24_4701911781_17-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_17-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_17-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.727366821 130.611461508
+32.727287812 130.611448141
+32.726975606 130.611390708
+32.726971714 130.611386458
+32.726974016 130.611372258
+32.726974014 130.611371938
+32.726974193 130.611371297
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_18">
+<fid>47019-11781-s-3467</fid>
+<lfSpanFr gml:id="K24_4701911781_18-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_18-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_18-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.727833787 130.611540409
+32.727503008 130.611484549
+32.727366821 130.611461508
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911781_19">
+<fid>47019-11781-s-3927</fid>
+<lfSpanFr gml:id="K24_4701911781_19-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911781_19-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911781_19-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.725000610 130.611053834
+32.725000000 130.611053729
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911784_1">
+<fid>47019-11784-s-3701</fid>
+<lfSpanFr gml:id="K24_4701911784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.734997916 130.613531724
+32.734786904 130.613447915
+32.734477395 130.613328575
+32.734153612 130.613201401
+32.733895637 130.613095498
+32.733670343 130.613000977
+32.733519986 130.612934620
+32.733334109 130.612852148
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911784_2">
+<fid>47019-11784-s-3702</fid>
+<lfSpanFr gml:id="K24_4701911784_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911784_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911784_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.738581677 130.615014051
+32.738280116 130.614897868
+32.737947102 130.614759200
+32.737698869 130.614653139
+32.737394014 130.614522034
+32.737044632 130.614368821
+32.736652022 130.614205552
+32.736228251 130.614026520
+32.735872586 130.613883581
+32.735353664 130.613672419
+32.735291003 130.613648149
+32.734997916 130.613531724
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911784_3">
+<fid>47019-11784-s-3703</fid>
+<lfSpanFr gml:id="K24_4701911784_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911784_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911784_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.741666667 130.616350213
+32.741510308 130.616280550
+32.741234940 130.616147920
+32.740988293 130.616029041
+32.740914049 130.615991586
+32.740719340 130.615900440
+32.740365593 130.615734644
+32.740122929 130.615621086
+32.739918118 130.615529558
+32.739677449 130.615419513
+32.739492166 130.615344014
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911784_4">
+<fid>47019-11784-s-3854</fid>
+<lfSpanFr gml:id="K24_4701911784_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911784_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911784_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.739309298 130.616381208
+32.739296852 130.616380835
+32.739294330 130.616381806
+32.739292441 130.616383308
+32.739291185 130.616385661
+32.739289844 130.616389508
+32.739289490 130.616391643
+32.739289314 130.616393138
+32.739287213 130.616413847
+32.739267178 130.616615389
+32.739266917 130.616618591
+32.739262051 130.616666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911784_5">
+<fid>47019-11784-s-3855</fid>
+<lfSpanFr gml:id="K24_4701911784_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911784_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911784_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.739454911 130.615370103
+32.739456259 130.615368817
+32.739469386 130.615355849
+32.739475414 130.615351342
+32.739482343 130.615346404
+32.739487839 130.615344673
+32.739490452 130.615344022
+32.739492166 130.615344014
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911784_6">
+<fid>47019-11784-s-3856</fid>
+<lfSpanFr gml:id="K24_4701911784_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911784_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911784_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.739454911 130.615370103
+32.739452123 130.615372676
+32.739448976 130.615375678
+32.739447449 130.615377711
+32.739446102 130.615379638
+32.739443320 130.615384131
+32.739439462 130.615390550
+32.739437761 130.615394399
+32.739436059 130.615398141
+32.739395224 130.615492001
+32.739394333 130.615495633
+32.739376873 130.615565919
+32.739376347 130.615570829
+32.739373272 130.615597412
+32.739367914 130.615643957
+32.739363731 130.615691565
+32.739354088 130.615782091
+32.739338026 130.615925889
+32.739337587 130.615930052
+32.739319004 130.616105019
+32.739297664 130.616322144
+32.739297139 130.616327375
+32.739297332 130.616331429
+32.739297885 130.616335268
+32.739298885 130.616338038
+32.739299973 130.616339634
+32.739300335 130.616340166
+32.739313869 130.616342349
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911784_7">
+<fid>47019-11784-s-4165</fid>
+<lfSpanFr gml:id="K24_4701911784_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911784_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911784_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.739389479 130.615324395
+32.739389257 130.615310738
+32.739388339 130.615305300
+32.739386516 130.615299226
+32.739384612 130.615295926
+32.739382804 130.615294333
+32.739379099 130.615292108
+32.739179572 130.615217953
+32.738978432 130.615147219
+32.738581677 130.615014051
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911784_8">
+<fid>47019-11784-s-4227</fid>
+<lfSpanFr gml:id="K24_4701911784_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911784_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911784_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.733334109 130.612852148
+32.733333333 130.612851804
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911787_1">
+<fid>47019-11787-s-3503</fid>
+<lfSpanFr gml:id="K24_4701911787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.742359020 130.616666667
+32.742352229 130.616663328
+32.742227494 130.616599091
+32.742140528 130.616559021
+32.741983579 130.616488201
+32.741727127 130.616377151
+32.741667576 130.616350618
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911787_2">
+<fid>47019-11787-s-3504</fid>
+<lfSpanFr gml:id="K24_4701911787_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911787_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911787_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.750000000 130.615506653
+32.749362091 130.615707993
+32.749357519 130.615687310
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911787_3">
+<fid>47019-11787-s-3505</fid>
+<lfSpanFr gml:id="K24_4701911787_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911787_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911787_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746555383 130.616584509
+32.746560772 130.616607002
+32.746681253 130.616577355
+32.746778756 130.616553781
+32.747013891 130.616476368
+32.747023350 130.616473233
+32.748465053 130.615998156
+32.748910186 130.615851542
+32.749173968 130.615764612
+32.749169402 130.615746170
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4701911787_4">
+<fid>47019-11787-s-3947</fid>
+<lfSpanFr gml:id="K24_4701911787_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4701911787_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4701911787_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.741667576 130.616350618
+32.741666667 130.616350213
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_1">
+<fid>47022-11778-s-3796</fid>
+<lfSpanFr gml:id="K24_4702211778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718714638 130.619121713
+32.718696768 130.619116989
+32.718705904 130.618978480
+32.718710794 130.618866979
+32.718713796 130.618816507
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_2">
+<fid>47022-11778-s-3797</fid>
+<lfSpanFr gml:id="K24_4702211778_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718789340 130.617951654
+32.718788891 130.617952082
+32.718788621 130.617952297
+32.718781787 130.617958728
+32.718774682 130.617965264
+32.718768750 130.617971691
+32.718765067 130.617976294
+32.718762914 130.617980037
+32.718761395 130.617984737
+32.718760093 130.618001278
+32.718755581 130.618088881
+32.718755065 130.618097098
+32.718750866 130.618169018
+32.718745334 130.618276894
+32.718744731 130.618285858
+32.718744036 130.618294609
+32.718744773 130.618299726
+32.718745955 130.618302922
+32.718747952 130.618306967
+32.718750759 130.618311009
+32.718757267 130.618315675
+32.718760789 130.618317473
+32.718768273 130.618317122
+32.718768543 130.618317120
+32.718769174 130.618317011
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_3">
+<fid>47022-11778-s-3798</fid>
+<lfSpanFr gml:id="K24_4702211778_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.719863489 130.616687177
+32.719856810 130.616685391
+32.719851667 130.616684239
+32.719846344 130.616684049
+32.719842468 130.616684278
+32.719838594 130.616685256
+32.719834002 130.616687623
+32.719829864 130.616691588
+32.719825106 130.616698115
+32.719813994 130.616721312
+32.719792209 130.616763331
+32.719786738 130.616773062
+32.719785482 130.616775202
+32.719742310 130.616842275
+32.719739075 130.616846023
+32.719737018 130.616851472
+32.719736311 130.616856276
+32.719736148 130.616861610
+32.719736521 130.616865983
+32.719738257 130.616872909
+32.719744880 130.616886109
+32.719746969 130.616891007
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_4">
+<fid>47022-11778-s-3799</fid>
+<lfSpanFr gml:id="K24_4702211778_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.719705535 130.616936418
+32.719703724 130.616933972
+32.719702184 130.616931738
+32.719698115 130.616928235
+32.719694231 130.616926118
+32.719690891 130.616924851
+32.719687640 130.616923479
+32.719685202 130.616922636
+32.719681325 130.616922972
+32.719676369 130.616924381
+32.719670973 130.616929204
+32.719630227 130.616963623
+32.719616553 130.616974669
+32.719600718 130.616986258
+32.719595499 130.616990441
+32.719584699 130.616997314
+32.719563188 130.617011062
+32.719536175 130.617024513
+32.719522580 130.617031825
+32.719504029 130.617040438
+32.719491507 130.617044759
+32.719447007 130.617061058
+32.719380348 130.617085239
+32.719323865 130.617105109
+32.719257922 130.617127581
+32.719228106 130.617138696
+32.719187392 130.617154658
+32.719163165 130.617164683
+32.719137860 130.617176526
+32.719114721 130.617188786
+32.719105808 130.617193518
+32.719079071 130.617208674
+32.719048104 130.617226728
+32.719025336 130.617242614
+32.719005453 130.617257741
+32.718984045 130.617275968
+32.718958242 130.617301788
+32.718931908 130.617330598
+32.718904601 130.617366025
+32.718888357 130.617391590
+32.718871667 130.617418651
+32.718853467 130.617453827
+32.718843796 130.617476164
+32.718827599 130.617516985
+32.718820001 130.617538886
+32.718813481 130.617559611
+32.718805910 130.617590686
+32.718799422 130.617621757
+32.718792338 130.617664140
+32.718781677 130.617746115
+32.718772433 130.617819550
+32.718768127 130.617856800
+32.718768040 130.617857547
+32.718768130 130.617857760
+32.718768322 130.617861493
+32.718769691 130.617866607
+32.718772494 130.617869262
+32.718773489 130.617870218
+32.718779271 130.617873501
+32.718784148 130.617875613
+32.718789202 130.617876872
+32.718793173 130.617878135
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_5">
+<fid>47022-11778-s-3800</fid>
+<lfSpanFr gml:id="K24_4702211778_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718719061 130.619122868
+32.718714638 130.619121713
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_6">
+<fid>47022-11778-s-3801</fid>
+<lfSpanFr gml:id="K24_4702211778_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718713796 130.618816507
+32.718716965 130.618761126
+32.718723209 130.618650367
+32.718728313 130.618549746
+32.718732927 130.618465983
+32.718757899 130.618466624
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_7">
+<fid>47022-11778-s-3802</fid>
+<lfSpanFr gml:id="K24_4702211778_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718351924 130.624777355
+32.718349217 130.624777047
+32.718333970 130.624774870
+32.718326829 130.624829519
+32.718321476 130.624878507
+32.718313240 130.624958871
+32.718309681 130.625000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_8">
+<fid>47022-11778-s-3803</fid>
+<lfSpanFr gml:id="K24_4702211778_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718356845 130.624734556
+32.718354228 130.624734034
+32.718339521 130.624731428
+32.718344013 130.624695671
+32.718357372 130.624609846
+32.718357461 130.624609525
+32.718357637 130.624608138
+32.718357727 130.624607817
+32.718372589 130.624512278
+32.718378075 130.624477264
+32.718378165 130.624476943
+32.718378253 130.624476196
+32.718378793 130.624475874
+32.718379063 130.624475766
+32.718394995 130.624465991
+32.718395895 130.624465348
+32.718396166 130.624465240
+32.718396706 130.624464918
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_9">
+<fid>47022-11778-s-3804</fid>
+<lfSpanFr gml:id="K24_4702211778_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718406991 130.624406521
+32.718404284 130.624406105
+32.718389490 130.624404461
+32.718402367 130.624248442
+32.718436318 130.623783712
+32.718451148 130.623557702
+32.718451144 130.623556635
+32.718466889 130.623544515
+32.718469768 130.623542262
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_10">
+<fid>47022-11778-s-3887</fid>
+<lfSpanFr gml:id="K24_4702211778_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718603930 130.620787454
+32.718601746 130.620815195
+32.718591220 130.621001609
+32.718587626 130.621065311
+32.718556638 130.621611641
+32.718526848 130.622137589
+32.718519997 130.622257739
+32.718517344 130.622305009
+32.718518444 130.622310765
+32.718520446 130.622316624
+32.718522806 130.622321735
+32.718527690 130.622326408
+32.718534010 130.622328711
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211778_11">
+<fid>47022-11778-s-3888</fid>
+<lfSpanFr gml:id="K24_4702211778_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211778_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211778_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718531106 130.622382401
+32.718523003 130.622386808
+32.718518236 130.622390989
+32.718512215 130.622397948
+32.718503585 130.622556297
+32.718502048 130.622584680
+32.718501446 130.622594497
+32.718482911 130.622936589
+32.718453607 130.623476082
+32.718471126 130.623485226
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_1">
+<fid>47022-11781-s-3566</fid>
+<lfSpanFr gml:id="K24_4702211781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730863632 130.624942392
+32.730858759 130.624941452
+32.730841886 130.624938216
+32.730830577 130.624895693
+32.730827665 130.624857295
+32.730830366 130.624735226
+32.730836076 130.624594687
+32.730842116 130.624533633
+32.730847282 130.624481971
+32.730870902 130.624269339
+32.730882814 130.624151606
+32.730882813 130.624151393
+32.730883309 130.624136560
+32.730886383 130.624049166
+32.730887897 130.624042863
+32.730890949 130.624038156
+32.730897609 130.624033647
+32.730901124 130.624032992
+32.730906717 130.624033289
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_2">
+<fid>47022-11781-s-3567</fid>
+<lfSpanFr gml:id="K24_4702211781_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.726670947 130.620428025
+32.726664775 130.620415035
+32.726638402 130.620431257
+32.726620939 130.620442106
+32.726482139 130.620527618
+32.726470438 130.620534816
+32.726445865 130.620550069
+32.726351269 130.620610856
+32.726330040 130.620628549
+32.726313693 130.620650383
+32.726305450 130.620668128
+32.726317314 130.620675824
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_3">
+<fid>47022-11781-s-3568</fid>
+<lfSpanFr gml:id="K24_4702211781_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730755947 130.624999604
+32.730761718 130.624999367
+32.730764939 130.625000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_4">
+<fid>47022-11781-s-3586</fid>
+<lfSpanFr gml:id="K24_4702211781_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731901627 130.617219016
+32.731903487 130.617219265
+32.731908154 130.617220427
+32.731912619 130.617222407
+32.731916781 130.617225159
+32.731920546 130.617228622
+32.731923826 130.617232717
+32.731926548 130.617237349
+32.731928649 130.617242414
+32.731930080 130.617247795
+32.731930811 130.617253371
+32.731930820 130.617259012
+32.731928919 130.617289630
+32.731915295 130.617502258
+32.731903691 130.617675197
+32.731872749 130.618126710
+32.731872347 130.618130340
+32.731871146 130.618135800
+32.731869264 130.618140983
+32.731866743 130.618145772
+32.731863641 130.618150056
+32.731860029 130.618153739
+32.731855989 130.618156737
+32.731851613 130.618158980
+32.731847002 130.618160417
+32.731842261 130.618161016
+32.731838744 130.618160830
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_5">
+<fid>47022-11781-s-3587</fid>
+<lfSpanFr gml:id="K24_4702211781_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731747881 130.619474714
+32.731747068 130.619475176
+32.731732195 130.619438484
+32.731731383 130.619436173
+32.731730064 130.619431530
+32.731729242 130.619425972
+32.731729138 130.619420332
+32.731729753 130.619414737
+32.731731073 130.619409316
+32.731733069 130.619404192
+32.731736972 130.619395606
+32.731745329 130.619377481
+32.731759349 130.619345291
+32.731771222 130.619316373
+32.731773361 130.619311743
+32.731776196 130.619307206
+32.731779576 130.619303226
+32.731783424 130.619299894
+32.731787653 130.619297286
+32.731792165 130.619295462
+32.731796858 130.619294462
+32.731801625 130.619294310
+32.731806356 130.619295009
+32.731855675 130.619306832
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_6">
+<fid>47022-11781-s-3588</fid>
+<lfSpanFr gml:id="K24_4702211781_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731021162 130.620870977
+32.731023830 130.620871479
+32.731028389 130.620871475
+32.731032891 130.620870621
+32.731037223 130.620868940
+32.731041277 130.620866472
+32.731044952 130.620863280
+32.731048156 130.620859443
+32.731050810 130.620855056
+32.731052846 130.620850230
+32.731054214 130.620845084
+32.731054861 130.620840031
+32.731056491 130.620814862
+32.731058052 130.620793401
+32.731059293 130.620777294
+32.731060599 130.620761176
+32.731061979 130.620745049
+32.731063437 130.620728915
+32.731064982 130.620712775
+32.731066619 130.620696630
+32.731068354 130.620680483
+32.731070198 130.620664334
+32.731071056 130.620657135
+32.731071210 130.620651187
+32.731070649 130.620645425
+32.731069379 130.620639822
+32.731067428 130.620634500
+32.731064839 130.620629574
+32.731061668 130.620625150
+32.731057983 130.620621323
+32.731053864 130.620618176
+32.731049400 130.620615778
+32.731045415 130.620614369
+32.731037111 130.620612089
+32.731036703 130.620614168
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_7">
+<fid>47022-11781-s-3589</fid>
+<lfSpanFr gml:id="K24_4702211781_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731056498 130.622267131
+32.731052023 130.622269081
+32.731047848 130.622271806
+32.731044067 130.622275244
+32.731040767 130.622279317
+32.731038024 130.622283931
+32.731035899 130.622288982
+32.731034442 130.622294354
+32.731033686 130.622299924
+32.730982488 130.623192253
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_8">
+<fid>47022-11781-s-3590</fid>
+<lfSpanFr gml:id="K24_4702211781_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731021211 130.620563914
+32.731050018 130.620571822
+32.731054732 130.620572678
+32.731059500 130.620572685
+32.731064215 130.620571841
+32.731068769 130.620570168
+32.731073057 130.620567701
+32.731076983 130.620564498
+32.731080456 130.620560632
+32.731083397 130.620556191
+32.731085739 130.620551277
+32.731087428 130.620546002
+32.731088018 130.620543251
+32.731091432 130.620525182
+32.731097201 130.620496079
+32.731104876 130.620461089
+32.731113689 130.620424588
+32.731122792 130.620390080
+32.731132577 130.620355835
+32.731143043 130.620321873
+32.731154184 130.620288212
+32.731165993 130.620254872
+32.731172793 130.620236616
+32.731185627 130.620203811
+32.731199112 130.620171372
+32.731213240 130.620139320
+32.731228004 130.620107671
+32.731243396 130.620076443
+32.731250717 130.620062158
+32.731273531 130.620019616
+32.731278595 130.620010527
+32.731283698 130.620001479
+32.731288838 130.619992469
+32.731296616 130.619979027
+32.731304472 130.619965668
+32.731312399 130.619952389
+32.731320390 130.619939186
+32.731328440 130.619926053
+32.731336544 130.619912989
+32.731344697 130.619899988
+32.731352891 130.619887045
+32.731365813 130.619866861
+32.731376860 130.619849791
+32.731390723 130.619828557
+32.731407409 130.619803203
+32.731466659 130.619713735
+32.731512837 130.619641753
+32.731526822 130.619619655
+32.731544436 130.619591547
+32.731553770 130.619576463
+32.731560842 130.619564903
+32.731567927 130.619553169
+32.731572788 130.619545014
+32.731584510 130.619524741
+32.731591276 130.619512925
+32.731596571 130.619503490
+32.731605887 130.619486569
+32.731613832 130.619471985
+32.731621176 130.619458284
+32.731634040 130.619434082
+32.731650183 130.619403364
+32.731667751 130.619367518
+32.731681984 130.619336616
+32.731693199 130.619310800
+32.731694914 130.619305964
+32.731695886 130.619300870
+32.731696144 130.619295656
+32.731695682 130.619290463
+32.731694513 130.619285427
+32.731692666 130.619280683
+32.731690193 130.619276357
+32.731687157 130.619272565
+32.731683641 130.619269408
+32.731679738 130.619266969
+32.731676789 130.619265710
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_9">
+<fid>47022-11781-s-3591</fid>
+<lfSpanFr gml:id="K24_4702211781_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731126033 130.620923203
+32.731124616 130.620924874
+32.731122999 130.620927071
+32.731121531 130.620929411
+32.731120299 130.620931721
+32.731119146 130.620934295
+32.731118222 130.620936798
+32.731117501 130.620939201
+32.731116958 130.620941479
+32.731116286 130.620945175
+32.731115614 130.620955770
+32.731113226 130.620997257
+32.731108913 130.621072173
+32.731094413 130.621323261
+32.731077817 130.621533644
+32.731040858 130.622175312
+32.731040894 130.622180954
+32.731041648 130.622186525
+32.731043103 130.622191897
+32.731045225 130.622196949
+32.731047967 130.622201566
+32.731051264 130.622205641
+32.731055043 130.622209081
+32.731058120 130.622211184
+32.731058933 130.622209280
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_10">
+<fid>47022-11781-s-3592</fid>
+<lfSpanFr gml:id="K24_4702211781_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731964501 130.616670238
+32.731961564 130.616725324
+32.731953998 130.616864285
+32.731941818 130.617076937
+32.731938374 130.617134300
+32.731937456 130.617139836
+32.731935844 130.617145146
+32.731933575 130.617150108
+32.731930700 130.617154609
+32.731927284 130.617158546
+32.731923407 130.617161829
+32.731919155 130.617164383
+32.731914626 130.617166151
+32.731909925 130.617167091
+32.731905157 130.617167183
+32.731904766 130.617167161
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_11">
+<fid>47022-11781-s-3593</fid>
+<lfSpanFr gml:id="K24_4702211781_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731018579 130.620914319
+32.731023793 130.620915806
+32.731025053 130.620916198
+32.731029527 130.620918151
+32.731033701 130.620920878
+32.731037480 130.620924319
+32.731040778 130.620928393
+32.731043519 130.620933010
+32.731045642 130.620938062
+32.731047097 130.620943434
+32.731047851 130.620949005
+32.731047888 130.620954646
+32.731043790 130.621025810
+32.731038552 130.621032967
+32.731032471 130.621035392
+32.731026679 130.621036851
+32.731012550 130.621035708
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_12">
+<fid>47022-11781-s-3594</fid>
+<lfSpanFr gml:id="K24_4702211781_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730925365 130.621100128
+32.730962129 130.621095164
+32.730992476 130.621098263
+32.730999209 130.621099016
+32.731009267 130.621100099
+32.731014946 130.621100848
+32.731020352 130.621103006
+32.731025580 130.621105374
+32.731030676 130.621108326
+32.731038686 130.621114433
+32.730966243 130.622372242
+32.730966063 130.622374416
+32.730965105 130.622379943
+32.730963454 130.622385236
+32.730961149 130.622390175
+32.730958241 130.622394646
+32.730954797 130.622398548
+32.730950896 130.622401791
+32.730946625 130.622404302
+32.730942084 130.622406024
+32.730937376 130.622406916
+32.730932607 130.622406959
+32.730920337 130.622405970
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_13">
+<fid>47022-11781-s-3595</fid>
+<lfSpanFr gml:id="K24_4702211781_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730016403 130.620997141
+32.730036863 130.620933892
+32.730074712 130.620895002
+32.730153041 130.620823187
+32.730180578 130.620803759
+32.730203361 130.620792887
+32.730228675 130.620784244
+32.730259334 130.620783261
+32.730284320 130.620784969
+32.730315997 130.620792943
+32.730652974 130.620902371
+32.730819755 130.621033645
+32.730877969 130.621078958
+32.730893515 130.621090521
+32.730906521 130.621097081
+32.730914374 130.621099609
+32.730925365 130.621100128
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_14">
+<fid>47022-11781-s-3596</fid>
+<lfSpanFr gml:id="K24_4702211781_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730923686 130.623219073
+32.730922910 130.623240274
+32.730921803 130.623262044
+32.730917196 130.623349446
+32.730907206 130.623566075
+32.730889628 130.623958568
+32.730890651 130.623968701
+32.730893728 130.623972315
+32.730899235 130.623974426
+32.730904197 130.623974939
+32.730908707 130.623975452
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_15">
+<fid>47022-11781-s-3701</fid>
+<lfSpanFr gml:id="K24_4702211781_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730913947 130.622480439
+32.730930371 130.622484318
+32.730936696 130.622488132
+32.730942121 130.622493017
+32.730948547 130.622500672
+32.730952631 130.622509297
+32.730955366 130.622519101
+32.730956668 130.622532113
+32.730956179 130.622549399
+32.730952747 130.622607455
+32.730949941 130.622633927
+32.730946234 130.622660509
+32.730940662 130.622696808
+32.730873703 130.623131226
+32.730863243 130.623131271
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_16">
+<fid>47022-11781-s-3702</fid>
+<lfSpanFr gml:id="K24_4702211781_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730923686 130.623219073
+32.730949119 130.623199300
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_17">
+<fid>47022-11781-s-3703</fid>
+<lfSpanFr gml:id="K24_4702211781_17-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_17-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_17-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731698829 130.619217294
+32.731708029 130.619217788
+32.731713619 130.619217444
+32.731719116 130.619216140
+32.731724429 130.619213771
+32.731729470 130.619210548
+32.731733066 130.619206692
+32.731738270 130.619198241
+32.731748986 130.619163520
+32.731778771 130.619053071
+32.731783134 130.619034914
+32.731791496 130.618996895
+32.731797353 130.618965716
+32.731806049 130.618889712
+32.731820419 130.618721927
+32.731855755 130.618243678
+32.731854734 130.618234293
+32.731854548 130.618232373
+32.731853177 130.618226404
+32.731848465 130.618218849
+32.731843403 130.618215029
+32.731837715 130.618212813
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_18">
+<fid>47022-11781-s-3704</fid>
+<lfSpanFr gml:id="K24_4702211781_18-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_18-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_18-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731840038 130.619064440
+32.731818319 130.619158104
+32.731810655 130.619188224
+32.731803964 130.619212259
+32.731801745 130.619223685
+32.731801775 130.619233500
+32.731803695 130.619242241
+32.731808319 130.619250330
+32.731813746 130.619255535
+32.731820249 130.619259028
+32.731828550 130.619260274
+32.731835314 130.619260672
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211781_19">
+<fid>47022-11781-s-4221</fid>
+<lfSpanFr gml:id="K24_4702211781_19-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211781_19-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211781_19-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.731964691 130.616666667
+32.731964501 130.616670238
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211784_1">
+<fid>47022-11784-s-2237</fid>
+<lfSpanFr gml:id="K24_4702211784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.739120048 130.618523443
+32.739107596 130.618521147
+32.739108831 130.618511859
+32.739109006 130.618510364
+32.739109358 130.618507376
+32.739120502 130.618375870
+32.739131117 130.618249061
+32.739144287 130.618101968
+32.739145249 130.618092041
+32.739145248 130.618091507
+32.739145336 130.618090760
+32.739145334 130.618090120
+32.739154681 130.617961396
+32.739154770 130.617961076
+32.739162181 130.617877816
+32.739164361 130.617853264
+32.739164359 130.617852731
+32.739164535 130.617851236
+32.739171482 130.617763391
+32.739176917 130.617682486
+32.739179171 130.617682263
+32.739184601 130.617629209
+32.739185046 130.617627499
+32.739198027 130.617477633
+32.739200382 130.617451694
+32.739212922 130.617453348
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211784_2">
+<fid>47022-11784-s-2308</fid>
+<lfSpanFr gml:id="K24_4702211784_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211784_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211784_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.739261688 130.616670257
+32.739253962 130.616746584
+32.739253085 130.616754910
+32.739246871 130.616816611
+32.739243107 130.616853760
+32.739241187 130.616874896
+32.739237699 130.616914071
+32.739237613 130.616915244
+32.739237181 130.616921435
+32.739229936 130.617029450
+32.739229406 130.617033187
+32.739228879 130.617037884
+32.739228439 130.617041407
+32.739223142 130.617108333
+32.739219399 130.617152417
+32.739211219 130.617249765
+32.739201848 130.617370380
+32.739200809 130.617384469
+32.739200823 130.617389164
+32.739201737 130.617393321
+32.739203463 130.617397262
+32.739204911 130.617398856
+32.739217457 130.617402644
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211784_3">
+<fid>47022-11784-s-2557</fid>
+<lfSpanFr gml:id="K24_4702211784_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211784_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211784_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.739262051 130.616666667
+32.739261688 130.616670257
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_1">
+<fid>47022-11787-s-2688</fid>
+<lfSpanFr gml:id="K24_4702211787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746387924 130.616734089
+32.746513714 130.616700790
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_2">
+<fid>47022-11787-s-2689</fid>
+<lfSpanFr gml:id="K24_4702211787_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.743833298 130.617473949
+32.743407299 130.617241225
+32.743202602 130.617126962
+32.742841069 130.616920108
+32.742717493 130.616851490
+32.742616243 130.616799531
+32.742487162 130.616729656
+32.742366339 130.616670264
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_3">
+<fid>47022-11787-s-2690</fid>
+<lfSpanFr gml:id="K24_4702211787_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745762376 130.616922123
+32.745753098 130.616925471
+32.745726794 130.616934867
+32.745612031 130.616976548
+32.745499265 130.617022169
+32.745344261 130.617086646
+32.745208100 130.617149333
+32.745057085 130.617220941
+32.744911749 130.617291350
+32.744799544 130.617343690
+32.744657357 130.617411952
+32.744510209 130.617479701
+32.744474999 130.617496178
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_4">
+<fid>47022-11787-s-2691</fid>
+<lfSpanFr gml:id="K24_4702211787_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.743833298 130.617473949
+32.743906708 130.617504581
+32.743955908 130.617521444
+32.744017732 130.617537934
+32.744068259 130.617546361
+32.744151153 130.617552730
+32.744180552 130.617552924
+32.744229246 130.617551436
+32.744257467 130.617549714
+32.744297401 130.617544635
+32.744333362 130.617537652
+32.744380312 130.617526461
+32.744407882 130.617518553
+32.744438154 130.617509140
+32.744474999 130.617496178
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_5">
+<fid>47022-11787-s-2692</fid>
+<lfSpanFr gml:id="K24_4702211787_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745762376 130.616922123
+32.745766611 130.616920718
+32.745816428 130.616903751
+32.745865974 130.616886465
+32.745926245 130.616866786
+32.746010212 130.616840176
+32.746058051 130.616824712
+32.746095801 130.616813346
+32.746189051 130.616784881
+32.746210944 130.616778172
+32.746234189 130.616771136
+32.746236651 130.616780089
+32.746238658 130.616787337
+32.746239569 130.616790428
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_6">
+<fid>47022-11787-s-2693</fid>
+<lfSpanFr gml:id="K24_4702211787_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746513714 130.616700790
+32.746517929 130.616722648
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_7">
+<fid>47022-11787-s-2694</fid>
+<lfSpanFr gml:id="K24_4702211787_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746387924 130.616734089
+32.746391087 130.616750947
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_8">
+<fid>47022-11787-s-2695</fid>
+<lfSpanFr gml:id="K24_4702211787_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.743517654 130.617203085
+32.743852973 130.617390098
+32.743886566 130.617405107
+32.743928735 130.617423282
+32.743973782 130.617438669
+32.744026941 130.617452740
+32.744079545 130.617462333
+32.744143767 130.617466753
+32.744177317 130.617467570
+32.744217172 130.617466120
+32.744236016 130.617464972
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+<RdCompt gml:id="K24_4702211787_9">
+<fid>47022-11787-s-3023</fid>
+<lfSpanFr gml:id="K24_4702211787_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K24_4702211787_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K24_4702211787_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.742366339 130.616670264
+32.742359020 130.616666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>歩道</type>
+<admOffice>不明</admOffice>
+</RdCompt>
+</Dataset>

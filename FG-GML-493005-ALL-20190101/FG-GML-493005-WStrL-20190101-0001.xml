@@ -1,0 +1,5228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0101</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<WStrL gml:id="K27_4702511775_1">
+<fid>47025-11775-s-4724</fid>
+<lfSpanFr gml:id="K27_4702511775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702511775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702511775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712659729 130.625160457
+32.712646109 130.625159554
+32.712568810 130.625154650
+32.712482220 130.625149039
+32.712482286 130.625141145
+32.712575731 130.625147048
+32.712643378 130.625151245
+32.712660426 130.625152347
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702511775_2">
+<fid>47025-11775-s-4725</fid>
+<lfSpanFr gml:id="K27_4702511775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702511775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702511775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712660426 130.625152347
+32.712659729 130.625160457
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702511781_1">
+<fid>47025-11781-s-5142</fid>
+<lfSpanFr gml:id="K27_4702511781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702511781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702511781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.726262038 130.628462753
+32.726261792 130.628471076
+32.726261546 130.628479186
+32.726249099 130.628478704
+32.726249591 130.628462165
+32.726262038 130.628462753
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4702511781_2">
+<fid>47025-11781-s-5143</fid>
+<lfSpanFr gml:id="K27_4702511781_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702511781_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702511781_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.726506281 130.628474329
+32.726505789 130.628490868
+32.726493343 130.628490279
+32.726493589 130.628482063
+32.726493835 130.628473741
+32.726506281 130.628474329
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4702511781_3">
+<fid>47025-11781-s-5144</fid>
+<lfSpanFr gml:id="K27_4702511781_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702511781_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702511781_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.726261792 130.628471076
+32.726493589 130.628482063
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_1">
+<fid>47028-11775-s-2788</fid>
+<lfSpanFr gml:id="K27_4702811775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714111285 130.637630469
+32.714112205 130.637636759
+32.714148075 130.637629361
+32.714180039 130.637612056
+32.714260172 130.637568528
+32.714257901 130.637562777
+32.714181099 130.637604478
+32.714146525 130.637623286
+32.714111285 130.637630469
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_2">
+<fid>47028-11775-s-2789</fid>
+<lfSpanFr gml:id="K27_4702811775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714213556 130.637694809
+32.714196194 130.637709387
+32.714199366 130.637714601
+32.714217267 130.637699487
+32.714285457 130.637642139
+32.714282376 130.637636925
+32.714213556 130.637694809
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_3">
+<fid>47028-11775-s-2790</fid>
+<lfSpanFr gml:id="K27_4702811775_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714398830 130.637957551
+32.714362757 130.637988420
+32.714358952 130.637982354
+32.714395024 130.637951379
+32.714421561 130.637928656
+32.714425367 130.637934828
+32.714398830 130.637957551
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_4">
+<fid>47028-11775-s-2791</fid>
+<lfSpanFr gml:id="K27_4702811775_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714466533 130.638042832
+32.714492093 130.638025127
+32.714489733 130.638020230
+32.714463094 130.638038686
+32.714427724 130.638063151
+32.714430083 130.638068048
+32.714466533 130.638042832
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_5">
+<fid>47028-11775-s-2792</fid>
+<lfSpanFr gml:id="K27_4702811775_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713869411 130.636944038
+32.713886080 130.636970426
+32.713879154 130.636976428
+32.713864658 130.636953445
+32.713796801 130.636846193
+32.713803728 130.636840084
+32.713869411 130.636944038
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_6">
+<fid>47028-11775-s-2793</fid>
+<lfSpanFr gml:id="K27_4702811775_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713852366 130.637192018
+32.713855678 130.637183470
+32.713878167 130.637195540
+32.713888542 130.637196885
+32.713940010 130.637157207
+32.713957466 130.637143802
+32.713961817 130.637151572
+32.713945081 130.637164440
+32.713890464 130.637206584
+32.713876120 130.637204722
+32.713852366 130.637192018
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_7">
+<fid>47028-11775-s-2794</fid>
+<lfSpanFr gml:id="K27_4702811775_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714258463 130.637755753
+32.714220868 130.637790041
+32.714217335 130.637784721
+32.714255201 130.637750219
+32.714325175 130.637686463
+32.714328618 130.637691783
+32.714258463 130.637755753
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_8">
+<fid>47028-11775-s-2795</fid>
+<lfSpanFr gml:id="K27_4702811775_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713785202 130.636981822
+32.713848138 130.637009729
+32.713851356 130.636999795
+32.713788781 130.636972100
+32.713771173 130.636964278
+32.713703226 130.636919004
+32.713657521 130.636893694
+32.713630161 130.636881430
+32.713624264 130.636900336
+32.713651264 130.636912814
+32.713654213 130.636903628
+32.713698924 130.636928408
+32.713767414 130.636974001
+32.713785202 130.636981822
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_9">
+<fid>47028-11775-s-2796</fid>
+<lfSpanFr gml:id="K27_4702811775_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713838187 130.637029717
+32.713846210 130.637028938
+32.713845739 130.637021899
+32.713832938 130.637023445
+32.713802648 130.637027194
+32.713727381 130.637038700
+32.713728957 130.637053308
+32.713805849 130.637042436
+32.713804289 130.637033375
+32.713838187 130.637029717
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_10">
+<fid>47028-11775-s-2797</fid>
+<lfSpanFr gml:id="K27_4702811775_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713815020 130.637126138
+32.713810856 130.637120608
+32.713847177 130.637082058
+32.713871366 130.637058385
+32.713875503 130.637054421
+32.713879487 130.637060059
+32.713875890 130.637063594
+32.713851341 130.637087695
+32.713815020 130.637126138
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_11">
+<fid>47028-11775-s-2798</fid>
+<lfSpanFr gml:id="K27_4702811775_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713995446 130.637272937
+32.713919530 130.637340449
+32.713915544 130.637334171
+32.713991550 130.637266552
+32.713996047 130.637262481
+32.713999854 130.637268972
+32.713995446 130.637272937
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_12">
+<fid>47028-11775-s-2799</fid>
+<lfSpanFr gml:id="K27_4702811775_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713996469 130.637501002
+32.714007181 130.637525281
+32.714023204 130.637515189
+32.714018758 130.637505713
+32.714051603 130.637481578
+32.714093618 130.637447379
+32.714095327 130.637445878
+32.714183674 130.637373729
+32.714178871 130.637365534
+32.714091873 130.637436612
+32.714088814 130.637439078
+32.714046979 130.637473169
+32.714014674 130.637496875
+32.714011861 130.637490806
+32.713996469 130.637501002
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_13">
+<fid>47028-11775-s-2800</fid>
+<lfSpanFr gml:id="K27_4702811775_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713983289 130.637247598
+32.713919484 130.637293619
+32.713915312 130.637285423
+32.713980016 130.637238758
+32.713981276 130.637237792
+32.713985988 130.637245667
+32.713983289 130.637247598
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_14">
+<fid>47028-11775-s-2801</fid>
+<lfSpanFr gml:id="K27_4702811775_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714009672 130.637327284
+32.714029108 130.637312377
+32.714033723 130.637318012
+32.714003939 130.637340641
+32.713958859 130.637374852
+32.713955594 130.637368465
+32.714009672 130.637327284
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_15">
+<fid>47028-11775-s-2802</fid>
+<lfSpanFr gml:id="K27_4702811775_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715574386 130.639249584
+32.715609706 130.639208157
+32.715612602 130.639211559
+32.715576113 130.639254378
+32.715560834 130.639272254
+32.715558029 130.639268852
+32.715574386 130.639249584
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_16">
+<fid>47028-11775-s-2803</fid>
+<lfSpanFr gml:id="K27_4702811775_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716380462 130.640229926
+32.716394751 130.640212800
+32.716408595 130.640228853
+32.716402214 130.640236559
+32.716427911 130.640266113
+32.716446610 130.640245769
+32.716477444 130.640212148
+32.716480522 130.640216083
+32.716449328 130.640250026
+32.716399165 130.640304633
+32.716396087 130.640300699
+32.716424495 130.640269861
+32.716398979 130.640240413
+32.716394306 130.640246086
+32.716380462 130.640229926
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_17">
+<fid>47028-11775-s-2804</fid>
+<lfSpanFr gml:id="K27_4702811775_17-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_17-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_17-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714831915 130.638436383
+32.714864379 130.638405209
+32.714869451 130.638412549
+32.714840763 130.638440081
+32.714770439 130.638507678
+32.714765458 130.638500444
+32.714831915 130.638436383
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_18">
+<fid>47028-11775-s-2805</fid>
+<lfSpanFr gml:id="K27_4702811775_18-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_18-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_18-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715472670 130.639128060
+32.715496677 130.639103534
+32.715502562 130.639111618
+32.715479365 130.639135394
+32.715443579 130.639172022
+32.715383208 130.639220056
+32.715378132 130.639211223
+32.715438054 130.639163616
+32.715472670 130.639128060
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_19">
+<fid>47028-11775-s-2806</fid>
+<lfSpanFr gml:id="K27_4702811775_19-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_19-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_19-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715297874 130.638963626
+32.715339602 130.638923560
+32.715345308 130.638931858
+32.715287842 130.638986922
+32.715286134 130.638988743
+32.715236508 130.639041748
+32.715230533 130.639033771
+32.715282047 130.638978838
+32.715297874 130.638963626
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_20">
+<fid>47028-11775-s-2807</fid>
+<lfSpanFr gml:id="K27_4702811775_20-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_20-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_20-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715032101 130.638648717
+32.714969609 130.638712016
+32.714966169 130.638707229
+32.715028840 130.638643716
+32.715050150 130.638622082
+32.715053681 130.638626868
+32.715032101 130.638648717
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_21">
+<fid>47028-11775-s-2808</fid>
+<lfSpanFr gml:id="K27_4702811775_21-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_21-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_21-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715178080 130.638951520
+32.715175543 130.638947477
+32.715194704 130.638931078
+32.715196968 130.638934376
+32.715236818 130.638899972
+32.715257508 130.638882180
+32.715259955 130.638886224
+32.715235037 130.638907766
+32.715196266 130.638941099
+32.715194002 130.638937908
+32.715178080 130.638951520
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_22">
+<fid>47028-11775-s-2809</fid>
+<lfSpanFr gml:id="K27_4702811775_22-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_22-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_22-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715024305 130.638790096
+32.715020867 130.638786163
+32.715044861 130.638757157
+32.715080725 130.638716581
+32.715114971 130.638677826
+32.715122435 130.638670755
+32.715140782 130.638653399
+32.715143770 130.638657761
+32.715126683 130.638673938
+32.715118049 130.638682081
+32.715084523 130.638720086
+32.715048209 130.638761091
+32.715024305 130.638790096
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_23">
+<fid>47028-11775-s-2810</fid>
+<lfSpanFr gml:id="K27_4702811775_23-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_23-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_23-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716126050 130.639851595
+32.716150154 130.639829416
+32.716155679 130.639837821
+32.716130946 130.639860537
+32.716063130 130.639922789
+32.716030444 130.639971246
+32.715996993 130.640004238
+32.715991198 130.639996047
+32.716024020 130.639963698
+32.716056705 130.639915241
+32.716126050 130.639851595
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_24">
+<fid>47028-11775-s-2811</fid>
+<lfSpanFr gml:id="K27_4702811775_24-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_24-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_24-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716561151 130.640592873
+32.716598465 130.640554745
+32.716627861 130.640522304
+32.716646109 130.640502174
+32.716666667 130.640479478
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_25">
+<fid>47028-11775-s-2812</fid>
+<lfSpanFr gml:id="K27_4702811775_25-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_25-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_25-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716666667 130.640486806
+32.716647119 130.640508465
+32.716630489 130.640526773
+32.716601543 130.640558680
+32.716564138 130.640596808
+32.716571833 130.640607125
+32.716557627 130.640621904
+32.716540698 130.640599142
+32.716554813 130.640584257
+32.716561151 130.640592873
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_26">
+<fid>47028-11775-s-2813</fid>
+<lfSpanFr gml:id="K27_4702811775_26-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_26-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_26-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716478011 130.640470524
+32.716505426 130.640439157
+32.716532058 130.640418034
+32.716573961 130.640376155
+32.716601117 130.640348949
+32.716605191 130.640354694
+32.716578395 130.640381471
+32.716535863 130.640423993
+32.716509500 130.640444901
+32.716482535 130.640475733
+32.716489955 130.640484345
+32.716475936 130.640501149
+32.716456662 130.640478504
+32.716470411 130.640461807
+32.716478011 130.640470524
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_27">
+<fid>47028-11775-s-2814</fid>
+<lfSpanFr gml:id="K27_4702811775_27-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_27-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_27-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714832733 130.638624665
+32.714835632 130.638629560
+32.714829065 130.638634814
+32.714810936 130.638602991
+32.714817324 130.638597844
+32.714827929 130.638616257
+32.714877677 130.638574559
+32.714931017 130.638527512
+32.714950267 130.638510579
+32.714955431 130.638518773
+32.714937621 130.638534420
+32.714882841 130.638582752
+32.714832733 130.638624665
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_28">
+<fid>47028-11775-s-2815</fid>
+<lfSpanFr gml:id="K27_4702811775_28-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_28-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_28-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714724034 130.638334408
+32.714711174 130.638346727
+32.714709091 130.638343856
+32.714699379 130.638353282
+32.714701281 130.638356155
+32.714684195 130.638372652
+32.714682474 130.638370312
+32.714672763 130.638379739
+32.714674393 130.638382079
+32.714659464 130.638396328
+32.714656657 130.638392392
+32.714646945 130.638401925
+32.714656816 130.638416180
+32.714666619 130.638406753
+32.714665169 130.638404626
+32.714680098 130.638390271
+32.714682724 130.638394100
+32.714692436 130.638384567
+32.714689900 130.638380843
+32.714707077 130.638364452
+32.714709250 130.638367644
+32.714719053 130.638358110
+32.714716879 130.638355025
+32.714729919 130.638342598
+32.714731448 130.638341098
+32.714733712 130.638344290
+32.714743514 130.638334862
+32.714733552 130.638320501
+32.714723840 130.638330035
+32.714725743 130.638332801
+32.714724034 130.638334408
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811775_29">
+<fid>47028-11775-s-2816</fid>
+<lfSpanFr gml:id="K27_4702811775_29-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811775_29-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811775_29-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715206641 130.638755971
+32.715171230 130.638797398
+32.715100230 130.638880786
+32.715095433 130.638875045
+32.715166164 130.638791978
+32.715203911 130.638747768
+32.715208707 130.638753509
+32.715206641 130.638755971
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811778_1">
+<fid>47028-11778-s-3058</fid>
+<lfSpanFr gml:id="K27_4702811778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716784454 130.640692363
+32.716829571 130.640639268
+32.716836539 130.640647561
+32.716791871 130.640700227
+32.716774436 130.640720673
+32.716767467 130.640712274
+32.716784454 130.640692363
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811778_2">
+<fid>47028-11778-s-3059</fid>
+<lfSpanFr gml:id="K27_4702811778_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811778_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811778_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716667568 130.640478483
+32.716689168 130.640454636
+32.716692245 130.640458464
+32.716667568 130.640485807
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811778_3">
+<fid>47028-11778-s-3180</fid>
+<lfSpanFr gml:id="K27_4702811778_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811778_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811778_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716666667 130.640479478
+32.716667568 130.640478483
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4702811778_4">
+<fid>47028-11778-s-3181</fid>
+<lfSpanFr gml:id="K27_4702811778_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4702811778_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4702811778_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716667568 130.640485807
+32.716666667 130.640486806
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>桟橋（鉄，コンクリート）</type>
+</WStrL>
+<WStrL gml:id="K27_4703111760_1">
+<fid>47031-11760-s-2195</fid>
+<lfSpanFr gml:id="K27_4703111760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674421349 130.649588316
+32.674432899 130.649584176
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111760_2">
+<fid>47031-11760-s-2196</fid>
+<lfSpanFr gml:id="K27_4703111760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674434564 130.649592145
+32.674422804 130.649595679
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111760_3">
+<fid>47031-11760-s-2197</fid>
+<lfSpanFr gml:id="K27_4703111760_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111760_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111760_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674927505 130.646699487
+32.674916852 130.646699838
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111760_4">
+<fid>47031-11760-s-2198</fid>
+<lfSpanFr gml:id="K27_4703111760_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111760_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111760_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674928439 130.646706659
+32.674917936 130.646708214
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111760_5">
+<fid>47031-11760-s-2199</fid>
+<lfSpanFr gml:id="K27_4703111760_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111760_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111760_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674432899 130.649584176
+32.674434564 130.649592145
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111760_6">
+<fid>47031-11760-s-2200</fid>
+<lfSpanFr gml:id="K27_4703111760_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111760_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111760_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674421349 130.649588316
+32.674422804 130.649595679
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111760_7">
+<fid>47031-11760-s-2201</fid>
+<lfSpanFr gml:id="K27_4703111760_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111760_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111760_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674927505 130.646699487
+32.674928439 130.646706659
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111760_8">
+<fid>47031-11760-s-2202</fid>
+<lfSpanFr gml:id="K27_4703111760_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111760_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111760_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674917936 130.646708214
+32.674916852 130.646699838
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111763_1">
+<fid>47031-11763-s-4116</fid>
+<lfSpanFr gml:id="K27_4703111763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675062779 130.647738868
+32.675049754 130.647740242
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111763_2">
+<fid>47031-11763-s-4117</fid>
+<lfSpanFr gml:id="K27_4703111763_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111763_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111763_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675063766 130.647746564
+32.675050796 130.647748417
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111763_3">
+<fid>47031-11763-s-4118</fid>
+<lfSpanFr gml:id="K27_4703111763_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111763_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111763_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675152703 130.648272298
+32.675141739 130.648276040
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111763_4">
+<fid>47031-11763-s-4119</fid>
+<lfSpanFr gml:id="K27_4703111763_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111763_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111763_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675154441 130.648280532
+32.675143884 130.648286419
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111763_5">
+<fid>47031-11763-s-4120</fid>
+<lfSpanFr gml:id="K27_4703111763_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111763_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111763_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675062779 130.647738868
+32.675063766 130.647746564
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111763_6">
+<fid>47031-11763-s-4121</fid>
+<lfSpanFr gml:id="K27_4703111763_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111763_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111763_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675049754 130.647740242
+32.675050796 130.647748417
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111763_7">
+<fid>47031-11763-s-4122</fid>
+<lfSpanFr gml:id="K27_4703111763_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111763_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111763_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675152703 130.648272298
+32.675154441 130.648280532
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111763_8">
+<fid>47031-11763-s-4123</fid>
+<lfSpanFr gml:id="K27_4703111763_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111763_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111763_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675143884 130.648286419
+32.675141739 130.648276040
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703111766_1">
+<fid>47031-11766-s-3112</fid>
+<lfSpanFr gml:id="K27_4703111766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691338325 130.646978046
+32.691340110 130.646965113
+32.691352403 130.646965609
+32.691351076 130.646977996
+32.691346972 130.646977468
+32.691345660 130.646995252
+32.691349305 130.646995771
+32.691347059 130.647008705
+32.691335677 130.647008217
+32.691336550 130.646994744
+32.691340647 130.646995805
+32.691342420 130.646978563
+32.691338325 130.646978046
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703111766_2">
+<fid>47031-11766-s-3113</fid>
+<lfSpanFr gml:id="K27_4703111766_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111766_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111766_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691193063 130.646460928
+32.691189124 130.646455034
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703111766_3">
+<fid>47031-11766-s-3114</fid>
+<lfSpanFr gml:id="K27_4703111766_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111766_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111766_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691189124 130.646455034
+32.691260240 130.646403179
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703111766_4">
+<fid>47031-11766-s-3115</fid>
+<lfSpanFr gml:id="K27_4703111766_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111766_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111766_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691272261 130.646403975
+32.691264699 130.646389522
+32.691256917 130.646396133
+32.691260240 130.646403179
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703111766_5">
+<fid>47031-11766-s-3116</fid>
+<lfSpanFr gml:id="K27_4703111766_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111766_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111766_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691260240 130.646403179
+32.691264202 130.646411579
+32.691272261 130.646403975
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703111766_6">
+<fid>47031-11766-s-3117</fid>
+<lfSpanFr gml:id="K27_4703111766_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111766_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111766_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691189124 130.646455034
+32.691184947 130.646448781
+32.691174951 130.646456391
+32.691181954 130.646471178
+32.691193063 130.646460928
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703111769_1">
+<fid>47031-11769-s-3207</fid>
+<lfSpanFr gml:id="K27_4703111769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703111769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703111769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.693667219 130.641925809
+32.693679720 130.641932991
+32.693675928 130.641943863
+32.693672611 130.641941455
+32.693660206 130.641970748
+32.693664296 130.641972534
+32.693663534 130.641974650
+32.693659491 130.641986120
+32.693649788 130.641979834
+32.693654082 130.641967754
+32.693657398 130.641969853
+32.693668532 130.641940576
+32.693662662 130.641937581
+32.693667219 130.641925809
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411760_1">
+<fid>47034-11760-s-2692</fid>
+<lfSpanFr gml:id="K27_4703411760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674640824 130.650642254
+32.674650770 130.650642173
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703411760_2">
+<fid>47034-11760-s-2693</fid>
+<lfSpanFr gml:id="K27_4703411760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674652460 130.650651603
+32.674642721 130.650651385
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703411760_3">
+<fid>47034-11760-s-2694</fid>
+<lfSpanFr gml:id="K27_4703411760_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411760_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411760_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674650770 130.650642173
+32.674652460 130.650651603
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703411760_4">
+<fid>47034-11760-s-2695</fid>
+<lfSpanFr gml:id="K27_4703411760_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411760_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411760_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674642721 130.650651385
+32.674640824 130.650642254
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_1">
+<fid>47034-11766-s-6354</fid>
+<lfSpanFr gml:id="K27_4703411766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.690939323 130.658285146
+32.690937601 130.658308434
+32.690919707 130.658307799
+32.690920834 130.658284513
+32.690929736 130.658284818
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_2">
+<fid>47034-11766-s-6355</fid>
+<lfSpanFr gml:id="K27_4703411766_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.690925478 130.658237933
+32.690942181 130.658238584
+32.690939875 130.658266097
+32.690931559 130.658265428
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_3">
+<fid>47034-11766-s-6356</fid>
+<lfSpanFr gml:id="K27_4703411766_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.690931559 130.658265428
+32.690929736 130.658284818
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_4">
+<fid>47034-11766-s-6357</fid>
+<lfSpanFr gml:id="K27_4703411766_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691153177 130.655357598
+32.691148289 130.655357255
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_5">
+<fid>47034-11766-s-6358</fid>
+<lfSpanFr gml:id="K27_4703411766_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691144761 130.655310279
+32.691155528 130.655310290
+32.691154725 130.655326450
+32.691149576 130.655326480
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_6">
+<fid>47034-11766-s-6359</fid>
+<lfSpanFr gml:id="K27_4703411766_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691149576 130.655326480
+32.691148289 130.655357255
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_7">
+<fid>47034-11766-s-6360</fid>
+<lfSpanFr gml:id="K27_4703411766_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691182796 130.654691332
+32.691182644 130.654707980
+32.691167680 130.654707472
+32.691167634 130.654690548
+32.691174254 130.654690890
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_8">
+<fid>47034-11766-s-6361</fid>
+<lfSpanFr gml:id="K27_4703411766_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691183149 130.654655508
+32.691182987 130.654672156
+32.691174744 130.654672015
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_9">
+<fid>47034-11766-s-6362</fid>
+<lfSpanFr gml:id="K27_4703411766_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691174744 130.654672015
+32.691174254 130.654690890
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_10">
+<fid>47034-11766-s-6363</fid>
+<lfSpanFr gml:id="K27_4703411766_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.690931559 130.658265428
+32.690923161 130.658264753
+32.690925478 130.658237933
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_11">
+<fid>47034-11766-s-6364</fid>
+<lfSpanFr gml:id="K27_4703411766_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.690929736 130.658284818
+32.690939323 130.658285146
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_12">
+<fid>47034-11766-s-6365</fid>
+<lfSpanFr gml:id="K27_4703411766_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691148289 130.655357255
+32.691142498 130.655356850
+32.691142537 130.655370959
+32.691152442 130.655372264
+32.691153177 130.655357598
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_13">
+<fid>47034-11766-s-6366</fid>
+<lfSpanFr gml:id="K27_4703411766_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691149576 130.655326480
+32.691143605 130.655326514
+32.691144761 130.655310279
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_14">
+<fid>47034-11766-s-6367</fid>
+<lfSpanFr gml:id="K27_4703411766_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691174744 130.654672015
+32.691169252 130.654671921
+32.691169438 130.654654419
+32.691183149 130.654655508
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411766_15">
+<fid>47034-11766-s-6368</fid>
+<lfSpanFr gml:id="K27_4703411766_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411766_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411766_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691174254 130.654690890
+32.691182796 130.654691332
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411769_1">
+<fid>47034-11769-s-4675</fid>
+<lfSpanFr gml:id="K27_4703411769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.696557106 130.658175481
+32.696570507 130.658169084
+32.696575928 130.658185990
+32.696562526 130.658192387
+32.696560294 130.658184396
+32.696533050 130.658194087
+32.696535903 130.658202011
+32.696521405 130.658206301
+32.696515996 130.658190451
+32.696529787 130.658184810
+32.696532341 130.658192149
+32.696559253 130.658182351
+32.696557106 130.658175481
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411769_2">
+<fid>47034-11769-s-4676</fid>
+<lfSpanFr gml:id="K27_4703411769_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.696572649 130.658267124
+32.696586067 130.658266560
+32.696586120 130.658286132
+32.696573147 130.658287759
+32.696573126 130.658279824
+32.696550319 130.658279921
+32.696550341 130.658287856
+32.696537818 130.658288960
+32.696536874 130.658270448
+32.696548946 130.658269347
+32.696550312 130.658277277
+32.696573119 130.658277179
+32.696572649 130.658267124
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411769_3">
+<fid>47034-11769-s-4677</fid>
+<lfSpanFr gml:id="K27_4703411769_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411769_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411769_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.697089026 130.657818279
+32.697097250 130.657811774
+32.697106446 130.657830383
+32.697089580 130.657843075
+32.697080271 130.657825715
+32.697087279 130.657819395
+32.697039188 130.657737912
+32.697031755 130.657743636
+32.697020317 130.657722593
+32.697037279 130.657708962
+32.697049604 130.657731121
+32.697041908 130.657736718
+32.697089026 130.657818279
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411769_4">
+<fid>47034-11769-s-4678</fid>
+<lfSpanFr gml:id="K27_4703411769_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411769_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411769_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.697525708 130.658107525
+32.697541483 130.658098410
+32.697548785 130.658114018
+32.697533307 130.658122897
+32.697530308 130.658117618
+32.697493083 130.658138333
+32.697496089 130.658145969
+32.697479809 130.658154958
+32.697472615 130.658139585
+32.697488597 130.658130117
+32.697491779 130.658136461
+32.697529409 130.658115158
+32.697525708 130.658107525
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411769_5">
+<fid>47034-11769-s-4679</fid>
+<lfSpanFr gml:id="K27_4703411769_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411769_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411769_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.697866457 130.657349334
+32.697883759 130.657351029
+32.697882319 130.657371491
+32.697865912 130.657370839
+32.697865897 130.657362029
+32.697864400 130.657362035
+32.697836964 130.657361083
+32.697836389 130.657371666
+32.697819098 130.657370665
+32.697820228 130.657348807
+32.697838125 130.657350146
+32.697837256 130.657358970
+32.697865882 130.657359917
+32.697866457 130.657349334
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411769_6">
+<fid>47034-11769-s-4680</fid>
+<lfSpanFr gml:id="K27_4703411769_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411769_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411769_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.698896901 130.655150581
+32.698946695 130.655188328
+32.698917893 130.655235304
+32.698871868 130.655196795
+32.698880646 130.655184859
+32.698832713 130.655141899
+32.698824564 130.655153087
+32.698766559 130.655100493
+32.698774686 130.655084846
+32.698732451 130.655050792
+32.698726198 130.655062720
+32.698675746 130.655015301
+32.698703947 130.654976508
+32.698750617 130.655022448
+32.698739337 130.655039599
+32.698777807 130.655075161
+32.698789075 130.655057263
+32.698845845 130.655109862
+32.698835829 130.655130731
+32.698883760 130.655172943
+32.698896901 130.655150581
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411769_7">
+<fid>47034-11769-s-4681</fid>
+<lfSpanFr gml:id="K27_4703411769_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411769_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411769_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.699723594 130.655725530
+32.699801586 130.655603773
+32.699826703 130.655626961
+32.699751880 130.655750113
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411769_8">
+<fid>47034-11769-s-4682</fid>
+<lfSpanFr gml:id="K27_4703411769_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411769_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411769_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.699723594 130.655725530
+32.699751880 130.655750113
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_1">
+<fid>47034-11772-s-4084</fid>
+<lfSpanFr gml:id="K27_4703411772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701178496 130.656999795
+32.701185048 130.656981914
+32.701193540 130.656984111
+32.701223790 130.657005200
+32.701198464 130.657056622
+32.701164426 130.657032209
+32.701172878 130.657016551
+32.701152084 130.657004354
+32.701144583 130.657021128
+32.701111491 130.656996702
+32.701135907 130.656951971
+32.701165199 130.656968605
+32.701157692 130.656984248
+32.701178496 130.656999795
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_2">
+<fid>47034-11772-s-4085</fid>
+<lfSpanFr gml:id="K27_4703411772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700480397 130.656383287
+32.700447221 130.656354452
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_3">
+<fid>47034-11772-s-4086</fid>
+<lfSpanFr gml:id="K27_4703411772_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700110064 130.656061419
+32.700087831 130.656042097
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_4">
+<fid>47034-11772-s-4091</fid>
+<lfSpanFr gml:id="K27_4703411772_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700447221 130.656354452
+32.700486896 130.656306766
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_5">
+<fid>47034-11772-s-4092</fid>
+<lfSpanFr gml:id="K27_4703411772_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700087831 130.656042097
+32.700112976 130.656004011
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_6">
+<fid>47034-11772-s-4093</fid>
+<lfSpanFr gml:id="K27_4703411772_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700496711 130.656359036
+32.700480397 130.656383287
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_7">
+<fid>47034-11772-s-4094</fid>
+<lfSpanFr gml:id="K27_4703411772_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700486896 130.656306766
+32.700535277 130.656248619
+32.700556807 130.656269697
+32.700496711 130.656359036
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_8">
+<fid>47034-11772-s-4095</fid>
+<lfSpanFr gml:id="K27_4703411772_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700112976 130.656004011
+32.700165744 130.655924084
+32.700187274 130.655945173
+32.700116641 130.656051517
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_9">
+<fid>47034-11772-s-4096</fid>
+<lfSpanFr gml:id="K27_4703411772_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700116641 130.656051517
+32.700110064 130.656061419
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_10">
+<fid>47034-11772-s-4098</fid>
+<lfSpanFr gml:id="K27_4703411772_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703033469 130.657494833
+32.703068739 130.657444866
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_11">
+<fid>47034-11772-s-4101</fid>
+<lfSpanFr gml:id="K27_4703411772_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703111736 130.657519753
+32.703090315 130.657549260
+32.703072159 130.657534951
+32.703009926 130.657624604
+32.703023710 130.657639334
+32.702988546 130.657687872
+32.702975396 130.657677587
+32.702914381 130.657760198
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_12">
+<fid>47034-11772-s-4102</fid>
+<lfSpanFr gml:id="K27_4703411772_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703068739 130.657444866
+32.703071910 130.657440374
+32.703127673 130.657497801
+32.703111736 130.657519753
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_13">
+<fid>47034-11772-s-4103</fid>
+<lfSpanFr gml:id="K27_4703411772_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.702914381 130.657760198
+32.702898504 130.657781695
+32.702912915 130.657794930
+32.702877440 130.657845336
+32.702822955 130.657796778
+32.702854051 130.657747882
+32.702870325 130.657759638
+32.702889274 130.657732795
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411772_14">
+<fid>47034-11772-s-4104</fid>
+<lfSpanFr gml:id="K27_4703411772_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411772_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411772_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.702889274 130.657732795
+32.702945650 130.657652934
+32.702930000 130.657638231
+32.702967350 130.657587829
+32.702977679 130.657598861
+32.703045850 130.657507351
+32.703033469 130.657494833
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411781_1">
+<fid>47034-11781-s-6211</fid>
+<lfSpanFr gml:id="K27_4703411781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732887031 130.652152063
+32.732748648 130.652232091
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703411781_2">
+<fid>47034-11781-s-6212</fid>
+<lfSpanFr gml:id="K27_4703411781_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411781_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411781_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732645914 130.651159886
+32.732669409 130.650983854
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703411781_3">
+<fid>47034-11781-s-6213</fid>
+<lfSpanFr gml:id="K27_4703411781_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411781_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411781_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732676175 130.650984681
+32.732652592 130.651161460
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703411781_4">
+<fid>47034-11781-s-6214</fid>
+<lfSpanFr gml:id="K27_4703411781_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411781_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411781_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732735022 130.652196294
+32.732871604 130.652117234
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703411781_5">
+<fid>47034-11781-s-6215</fid>
+<lfSpanFr gml:id="K27_4703411781_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411781_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411781_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.728036091 130.650417110
+32.728045777 130.650397975
+32.728055463 130.650378839
+32.728080221 130.650396453
+32.728060759 130.650434724
+32.728036091 130.650417110
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411781_6">
+<fid>47034-11781-s-6216</fid>
+<lfSpanFr gml:id="K27_4703411781_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411781_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411781_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.727961996 130.650364483
+32.727978856 130.650331129
+32.727981368 130.650326211
+32.728006036 130.650343825
+32.727996350 130.650362854
+32.727986664 130.650381990
+32.727961996 130.650364483
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703411781_7">
+<fid>47034-11781-s-6217</fid>
+<lfSpanFr gml:id="K27_4703411781_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703411781_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703411781_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.727996350 130.650362854
+32.728045777 130.650397975
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711760_1">
+<fid>47037-11760-s-2659</fid>
+<lfSpanFr gml:id="K27_4703711760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674401022 130.658645414
+32.674416656 130.658628008
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703711760_2">
+<fid>47037-11760-s-2660</fid>
+<lfSpanFr gml:id="K27_4703711760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674410743 130.658658524
+32.674426172 130.658640967
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703711760_3">
+<fid>47037-11760-s-2661</fid>
+<lfSpanFr gml:id="K27_4703711760_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711760_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711760_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674416656 130.658628008
+32.674426172 130.658640967
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703711760_4">
+<fid>47037-11760-s-2662</fid>
+<lfSpanFr gml:id="K27_4703711760_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711760_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711760_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674401022 130.658645414
+32.674410743 130.658658524
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_1">
+<fid>47037-11763-s-5628</fid>
+<lfSpanFr gml:id="K27_4703711763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680578715 130.666406453
+32.680593250 130.666409000
+32.680591941 130.666419424
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_2">
+<fid>47037-11763-s-5629</fid>
+<lfSpanFr gml:id="K27_4703711763_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680602589 130.666421251
+32.680591941 130.666419424
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_3">
+<fid>47037-11763-s-5630</fid>
+<lfSpanFr gml:id="K27_4703711763_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680603782 130.666411724
+32.680618316 130.666414272
+32.680615976 130.666432900
+32.680601450 130.666430351
+32.680602589 130.666421251
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_4">
+<fid>47037-11763-s-5631</fid>
+<lfSpanFr gml:id="K27_4703711763_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680602589 130.666421251
+32.680603782 130.666411724
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_5">
+<fid>47037-11763-s-5632</fid>
+<lfSpanFr gml:id="K27_4703711763_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680591941 130.666419424
+32.680590910 130.666427628
+32.680576384 130.666425080
+32.680578715 130.666406453
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_6">
+<fid>47037-11763-s-5633</fid>
+<lfSpanFr gml:id="K27_4703711763_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.677802009 130.659923162
+32.677793189 130.659933346
+32.677802063 130.659942825
+32.677804383 130.659939887
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_7">
+<fid>47037-11763-s-5634</fid>
+<lfSpanFr gml:id="K27_4703711763_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.677812844 130.659961498
+32.677816626 130.659956417
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_8">
+<fid>47037-11763-s-5635</fid>
+<lfSpanFr gml:id="K27_4703711763_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.677804383 130.659939887
+32.677816626 130.659956417
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_9">
+<fid>47037-11763-s-5636</fid>
+<lfSpanFr gml:id="K27_4703711763_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.677816626 130.659956417
+32.677821129 130.659950366
+32.677831082 130.659963017
+32.677821191 130.659973516
+32.677812844 130.659961498
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711763_10">
+<fid>47037-11763-s-5637</fid>
+<lfSpanFr gml:id="K27_4703711763_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711763_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711763_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.677804383 130.659939887
+32.677810349 130.659932332
+32.677802009 130.659923162
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_1">
+<fid>47037-11766-s-9997</fid>
+<lfSpanFr gml:id="K27_4703711766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.685529240 130.663971714
+32.685514412 130.663974904
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_2">
+<fid>47037-11766-s-9998</fid>
+<lfSpanFr gml:id="K27_4703711766_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.685541573 130.664034875
+32.685511506 130.664041334
+32.685506651 130.664009753
+32.685519206 130.664007052
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_3">
+<fid>47037-11766-s-9999</fid>
+<lfSpanFr gml:id="K27_4703711766_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.685514412 130.663974904
+32.685519206 130.664007052
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_4">
+<fid>47037-11766-s-10000</fid>
+<lfSpanFr gml:id="K27_4703711766_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.686636204 130.664115218
+32.686624789 130.664129369
+32.686634187 130.664139978
+32.686640583 130.664132048
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_5">
+<fid>47037-11766-s-10001</fid>
+<lfSpanFr gml:id="K27_4703711766_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.686640583 130.664132048
+32.686649730 130.664141041
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_6">
+<fid>47037-11766-s-10002</fid>
+<lfSpanFr gml:id="K27_4703711766_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.686655822 130.664133488
+32.686649730 130.664141041
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_7">
+<fid>47037-11766-s-10003</fid>
+<lfSpanFr gml:id="K27_4703711766_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688904683 130.661350707
+32.688906600 130.661355627
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_8">
+<fid>47037-11766-s-10004</fid>
+<lfSpanFr gml:id="K27_4703711766_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688919130 130.661349563
+32.688906600 130.661355627
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_9">
+<fid>47037-11766-s-10005</fid>
+<lfSpanFr gml:id="K27_4703711766_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688925178 130.661339346
+32.688929502 130.661351179
+32.688921163 130.661355444
+32.688919130 130.661349563
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_10">
+<fid>47037-11766-s-10006</fid>
+<lfSpanFr gml:id="K27_4703711766_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691007638 130.660166549
+32.691015864 130.660156686
+32.691012540 130.660153147
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_11">
+<fid>47037-11766-s-10007</fid>
+<lfSpanFr gml:id="K27_4703711766_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691021937 130.660140299
+32.691012540 130.660153147
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_12">
+<fid>47037-11766-s-10008</fid>
+<lfSpanFr gml:id="K27_4703711766_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691025063 130.660143408
+32.691033289 130.660133544
+32.691026835 130.660126674
+32.691018406 130.660136788
+32.691021937 130.660140299
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_13">
+<fid>47037-11766-s-10009</fid>
+<lfSpanFr gml:id="K27_4703711766_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.685514412 130.663974904
+32.685499172 130.663978183
+32.685494318 130.663946592
+32.685524385 130.663940134
+32.685529240 130.663971714
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_14">
+<fid>47037-11766-s-10010</fid>
+<lfSpanFr gml:id="K27_4703711766_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.685519206 130.664007052
+32.685536718 130.664003285
+32.685541573 130.664034875
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_15">
+<fid>47037-11766-s-10011</fid>
+<lfSpanFr gml:id="K27_4703711766_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.686649730 130.664141041
+32.686644407 130.664147639
+32.686653805 130.664158247
+32.686665220 130.664144095
+32.686655822 130.664133488
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_16">
+<fid>47037-11766-s-10012</fid>
+<lfSpanFr gml:id="K27_4703711766_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.686640583 130.664132048
+32.686645602 130.664125825
+32.686636204 130.664115218
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_17">
+<fid>47037-11766-s-10013</fid>
+<lfSpanFr gml:id="K27_4703711766_17-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_17-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_17-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688919130 130.661349563
+32.688917073 130.661343611
+32.688925178 130.661339346
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_18">
+<fid>47037-11766-s-10014</fid>
+<lfSpanFr gml:id="K27_4703711766_18-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_18-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_18-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688906600 130.661355627
+32.688908525 130.661360568
+32.688899238 130.661364837
+32.688895631 130.661354975
+32.688904683 130.661350707
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_19">
+<fid>47037-11766-s-10015</fid>
+<lfSpanFr gml:id="K27_4703711766_19-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_19-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_19-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691021937 130.660140299
+32.691025063 130.660143408
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711766_20">
+<fid>47037-11766-s-10016</fid>
+<lfSpanFr gml:id="K27_4703711766_20-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711766_20-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711766_20-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691012540 130.660153147
+32.691009411 130.660149815
+32.691000981 130.660159929
+32.691007638 130.660166549
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711769_1">
+<fid>47037-11769-s-5809</fid>
+<lfSpanFr gml:id="K27_4703711769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694044484 130.665493704
+32.694066042 130.665526067
+32.694050833 130.665541023
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711769_2">
+<fid>47037-11769-s-5810</fid>
+<lfSpanFr gml:id="K27_4703711769_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694050833 130.665541023
+32.694107633 130.665624086
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711769_3">
+<fid>47037-11769-s-5811</fid>
+<lfSpanFr gml:id="K27_4703711769_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711769_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711769_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694136115 130.665631627
+32.694106360 130.665657142
+32.694093777 130.665636018
+32.694107633 130.665624086
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711769_4">
+<fid>47037-11769-s-5812</fid>
+<lfSpanFr gml:id="K27_4703711769_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711769_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711769_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.698668982 130.658439179
+32.698683322 130.658446174
+32.698675769 130.658464196
+32.698661593 130.658457723
+32.698664703 130.658450842
+32.698634191 130.658436313
+32.698631031 130.658444484
+32.698616688 130.658436849
+32.698623055 130.658420421
+32.698636996 130.658426725
+32.698634679 130.658433496
+32.698666040 130.658448191
+32.698668982 130.658439179
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711769_5">
+<fid>47037-11769-s-5813</fid>
+<lfSpanFr gml:id="K27_4703711769_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711769_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711769_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.698720323 130.662537543
+32.698739085 130.662535681
+32.698740138 130.662551867
+32.698722400 130.662555527
+32.698721877 130.662548938
+32.698691966 130.662553241
+32.698692494 130.662561645
+32.698675762 130.662563786
+32.698674436 130.662543719
+32.698691429 130.662541255
+32.698691952 130.662547845
+32.698720849 130.662545337
+32.698720323 130.662537543
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711769_6">
+<fid>47037-11769-s-5814</fid>
+<lfSpanFr gml:id="K27_4703711769_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711769_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711769_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.699047953 130.661516135
+32.699057460 130.661580052
+32.699036791 130.661583660
+32.699027483 130.661519626
+32.699047953 130.661516135
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703711769_7">
+<fid>47037-11769-s-5815</fid>
+<lfSpanFr gml:id="K27_4703711769_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711769_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711769_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694107633 130.665624086
+32.694121751 130.665611928
+32.694136115 130.665631627
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711769_8">
+<fid>47037-11769-s-5816</fid>
+<lfSpanFr gml:id="K27_4703711769_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711769_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711769_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694050833 130.665541023
+32.694038672 130.665552981
+32.694015325 130.665519909
+32.694044484 130.665493704
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711772_1">
+<fid>47037-11772-s-4263</fid>
+<lfSpanFr gml:id="K27_4703711772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.704655329 130.659723960
+32.704647020 130.659732365
+32.704517388 130.659544669
+32.704528603 130.659536734
+32.704655329 130.659723960
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4703711772_2">
+<fid>47037-11772-s-4264</fid>
+<lfSpanFr gml:id="K27_4703711772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.704799018 130.659207175
+32.704813847 130.659207224
+32.704814709 130.659229809
+32.704799653 130.659229275
+32.704798776 130.659218976
+32.704774953 130.659217303
+32.704776587 130.659227836
+32.704758609 130.659224974
+32.704759328 130.659203981
+32.704775103 130.659204966
+32.704775290 130.659215577
+32.704799246 130.659216811
+32.704799018 130.659207175
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711772_3">
+<fid>47037-11772-s-4265</fid>
+<lfSpanFr gml:id="K27_4703711772_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711772_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711772_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706691004 130.662911700
+32.706698087 130.662926681
+32.706691058 130.662931710
+32.706694611 130.662941701
+32.706700946 130.662940003
+32.706708741 130.662958320
+32.706696078 130.662964202
+32.706688981 130.662947557
+32.706693204 130.662945035
+32.706688239 130.662933384
+32.706684019 130.662936739
+32.706676936 130.662921758
+32.706691004 130.662911700
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4703711772_4">
+<fid>47037-11772-s-4266</fid>
+<lfSpanFr gml:id="K27_4703711772_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4703711772_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4703711772_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.707362649 130.663829120
+32.707367916 130.663846316
+32.707353749 130.663849900
+32.707348106 130.663834028
+32.707354070 130.663831808
+32.707350263 130.663804452
+32.707343928 130.663806247
+32.707339781 130.663789933
+32.707354308 130.663782816
+32.707358463 130.663802224
+32.707354365 130.663804000
+32.707357802 130.663830909
+32.707362649 130.663829120
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011763_1">
+<fid>47040-11763-s-2680</fid>
+<lfSpanFr gml:id="K27_4704011763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.683167227 130.670092436
+32.683178456 130.670092927
+32.683176689 130.670103555
+32.683171746 130.670103040
+32.683170430 130.670113667
+32.683175364 130.670114171
+32.683173599 130.670125332
+32.683161475 130.670123787
+32.683163241 130.670113160
+32.683165939 130.670113682
+32.683168155 130.670102520
+32.683165457 130.670101997
+32.683167227 130.670092436
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011766_1">
+<fid>47040-11766-s-4346</fid>
+<lfSpanFr gml:id="K27_4704011766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.684743191 130.673345480
+32.684737272 130.673347495
+32.684747473 130.673365470
+32.684754221 130.673359441
+32.684760174 130.673370425
+32.684744976 130.673383492
+32.684739034 130.673373510
+32.684743253 130.673369485
+32.684732201 130.673350521
+32.684723761 130.673357548
+32.684717813 130.673348569
+32.684733008 130.673334500
+32.684743191 130.673345480
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011766_2">
+<fid>47040-11766-s-4347</fid>
+<lfSpanFr gml:id="K27_4704011766_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011766_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011766_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.685184876 130.674025509
+32.685178121 130.674028531
+32.685186605 130.674038503
+32.685191670 130.674033483
+32.685199307 130.674043458
+32.685184109 130.674056524
+32.685177322 130.674047549
+32.685182392 130.674044522
+32.685174740 130.674032543
+32.685167990 130.674037568
+32.685156117 130.674028611
+32.685173010 130.674015539
+32.685184876 130.674025509
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_1">
+<fid>47040-11769-s-6120</fid>
+<lfSpanFr gml:id="K27_4704011769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.695736833 130.671851179
+32.695752278 130.671853458
+32.695750497 130.671872343
+32.695734993 130.671871579
+32.695735969 130.671862295
+32.695707084 130.671859053
+32.695706507 130.671865998
+32.695688610 130.671863814
+32.695691691 130.671845415
+32.695708741 130.671847229
+32.695707565 130.671856513
+32.695736053 130.671859768
+32.695736833 130.671851179
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_2">
+<fid>47040-11769-s-6121</fid>
+<lfSpanFr gml:id="K27_4704011769_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.697614181 130.668497868
+32.697622923 130.668506272
+32.697624540 130.668503707
+32.697632213 130.668510003
+32.697627131 130.668518458
+32.697624456 130.668516292
+32.697617618 130.668529074
+32.697620899 130.668532155
+32.697616400 130.668538997
+32.697608574 130.668533224
+32.697613462 130.668526157
+32.697616651 130.668528427
+32.697623425 130.668515166
+32.697619845 130.668511841
+32.697622349 130.668507481
+32.697613787 130.668499043
+32.697610822 130.668503288
+32.697604835 130.668496879
+32.697610188 130.668488487
+32.697616291 130.668494341
+32.697614181 130.668497868
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_3">
+<fid>47040-11769-s-6122</fid>
+<lfSpanFr gml:id="K27_4704011769_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694061951 130.672790922
+32.694064075 130.672797560
+32.694053121 130.672802155
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_4">
+<fid>47040-11769-s-6123</fid>
+<lfSpanFr gml:id="K27_4704011769_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694075578 130.672781392
+32.694061951 130.672790922
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_5">
+<fid>47040-11769-s-6124</fid>
+<lfSpanFr gml:id="K27_4704011769_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694075578 130.672781392
+32.694072906 130.672773680
+32.694085050 130.672769082
+32.694090119 130.672779579
+32.694077395 130.672786634
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_6">
+<fid>47040-11769-s-6125</fid>
+<lfSpanFr gml:id="K27_4704011769_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694098748 130.672588513
+32.694099605 130.672592007
+32.694090014 130.672600447
+32.694087077 130.672594528
+32.694097910 130.672585103
+32.694098748 130.672588513
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_7">
+<fid>47040-11769-s-6126</fid>
+<lfSpanFr gml:id="K27_4704011769_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694111595 130.672577840
+32.694098748 130.672588513
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_8">
+<fid>47040-11769-s-6127</fid>
+<lfSpanFr gml:id="K27_4704011769_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694111595 130.672577840
+32.694108747 130.672573204
+32.694119171 130.672566254
+32.694123363 130.672572659
+32.694120028 130.672576629
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_9">
+<fid>47040-11769-s-6128</fid>
+<lfSpanFr gml:id="K27_4704011769_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694194304 130.672562955
+32.694183907 130.672564044
+32.694183851 130.672542309
+32.694203052 130.672539273
+32.694203535 130.672561988
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_10">
+<fid>47040-11769-s-6129</fid>
+<lfSpanFr gml:id="K27_4704011769_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694199126 130.672614377
+32.694209926 130.672612848
+32.694213325 130.672633580
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_11">
+<fid>47040-11769-s-6130</fid>
+<lfSpanFr gml:id="K27_4704011769_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694194304 130.672562955
+32.694199126 130.672614377
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_12">
+<fid>47040-11769-s-6131</fid>
+<lfSpanFr gml:id="K27_4704011769_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694077395 130.672786634
+32.694075578 130.672781392
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_13">
+<fid>47040-11769-s-6132</fid>
+<lfSpanFr gml:id="K27_4704011769_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694053121 130.672802155
+32.694048638 130.672787794
+32.694059593 130.672783552
+32.694061951 130.672790922
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_14">
+<fid>47040-11769-s-6133</fid>
+<lfSpanFr gml:id="K27_4704011769_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694120028 130.672576629
+32.694114199 130.672582078
+32.694111595 130.672577840
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_15">
+<fid>47040-11769-s-6134</fid>
+<lfSpanFr gml:id="K27_4704011769_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694213325 130.672633580
+32.694193699 130.672636126
+32.694191977 130.672615389
+32.694199126 130.672614377
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704011769_16">
+<fid>47040-11769-s-6135</fid>
+<lfSpanFr gml:id="K27_4704011769_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704011769_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704011769_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694203535 130.672561988
+32.694194304 130.672562955
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704311766_1">
+<fid>47043-11766-s-2833</fid>
+<lfSpanFr gml:id="K27_4704311766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704311766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704311766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.686526191 130.675985946
+32.686538255 130.675978042
+32.686544933 130.675986591
+32.686533473 130.675998066
+32.686531049 130.675995216
+32.686518393 130.676008134
+32.686519008 130.676012418
+32.686512382 130.676020303
+32.686501462 130.676006756
+32.686512323 130.675997428
+32.686515357 130.676002418
+32.686528019 130.675991655
+32.686526191 130.675985946
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704311769_1">
+<fid>47043-11769-s-4090</fid>
+<lfSpanFr gml:id="K27_4704311769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704311769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704311769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.692717245 130.676376774
+32.692728923 130.676390926
+32.692717662 130.676402230
+32.692712355 130.676397247
+32.692703910 130.676406044
+32.692707204 130.676410544
+32.692693822 130.676421727
+32.692683900 130.676407013
+32.692695640 130.676395559
+32.692700599 130.676401950
+32.692709281 130.676394123
+32.692705974 130.676388013
+32.692717245 130.676376774
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>水門</type>
+</WStrL>
+<WStrL gml:id="K27_4704611763_1">
+<fid>47046-11763-s-5302</fid>
+<lfSpanFr gml:id="K27_4704611763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704611763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704611763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.678631122 130.688747059
+32.678635006 130.688760214
+32.678542581 130.688789912
+32.678538266 130.688777269
+32.678631122 130.688747059
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4704611763_2">
+<fid>47046-11763-s-5303</fid>
+<lfSpanFr gml:id="K27_4704611763_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704611763_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704611763_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.678823845 130.684314769
+32.678887942 130.684374697
+32.678877286 130.684394110
+32.678810802 130.684331759
+32.678823845 130.684314769
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4704611763_3">
+<fid>47046-11763-s-5304</fid>
+<lfSpanFr gml:id="K27_4704611763_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704611763_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704611763_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680419871 130.683998564
+32.680421162 130.683948665
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4704611763_4">
+<fid>47046-11763-s-5305</fid>
+<lfSpanFr gml:id="K27_4704611763_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704611763_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704611763_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680435534 130.683950811
+32.680435857 130.684000608
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4704611763_5">
+<fid>47046-11763-s-5306</fid>
+<lfSpanFr gml:id="K27_4704611763_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704611763_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704611763_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680421162 130.683948665
+32.680435534 130.683950811
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4704611763_6">
+<fid>47046-11763-s-5307</fid>
+<lfSpanFr gml:id="K27_4704611763_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4704611763_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4704611763_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680419871 130.683998564
+32.680435857 130.684000608
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4705211760_1">
+<fid>47052-11760-s-3375</fid>
+<lfSpanFr gml:id="K27_4705211760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4705211760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4705211760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.669732123 130.700638200
+32.669728811 130.700656133
+32.669725444 130.700655273
+32.669669517 130.700640991
+32.669668299 130.700640680
+32.669672251 130.700622744
+32.669673509 130.700623068
+32.669728044 130.700637146
+32.669732123 130.700638200
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4705511775_1">
+<fid>47055-11775-s-4525</fid>
+<lfSpanFr gml:id="K27_4705511775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4705511775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4705511775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713923764 130.713419515
+32.713980886 130.713606116
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4705511775_2">
+<fid>47055-11775-s-4526</fid>
+<lfSpanFr gml:id="K27_4705511775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4705511775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4705511775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713988214 130.713631854
+32.714044717 130.713819866
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4705811772_1">
+<fid>47058-11772-s-5085</fid>
+<lfSpanFr gml:id="K27_4705811772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4705811772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4705811772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.704938950 130.717473361
+32.705076901 130.717578576
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4705811772_2">
+<fid>47058-11772-s-5086</fid>
+<lfSpanFr gml:id="K27_4705811772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4705811772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4705811772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.705103243 130.717598652
+32.705240707 130.717703537
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+<WStrL gml:id="K27_4705811772_3">
+<fid>47058-11772-s-5087</fid>
+<lfSpanFr gml:id="K27_4705811772_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4705811772_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4705811772_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.704874197 130.717676436
+32.704822379 130.717772169
+32.704746347 130.717883976
+32.704680121 130.717989459
+32.704532234 130.718194075
+32.704510087 130.718170466
+32.704633345 130.718001659
+32.704673635 130.717912470
+32.704775664 130.717771569
+32.704790495 130.717749977
+32.704859374 130.717621232
+32.704879249 130.717636742
+32.704874197 130.717676436
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>透過水制</type>
+</WStrL>
+<WStrL gml:id="K27_4706411760_1">
+<fid>47064-11760-s-2456</fid>
+<lfSpanFr gml:id="K27_4706411760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4706411760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4706411760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.671644303 130.740820252
+32.671744953 130.740544609
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>砂防ダム</type>
+</WStrL>
+<WStrL gml:id="K27_4706711769_1">
+<fid>47067-11769-s-4280</fid>
+<lfSpanFr gml:id="K27_4706711769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K27_4706711769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K27_4706711769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.696800063 130.745746226
+32.697005732 130.745849747
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>せき</type>
+</WStrL>
+</Dataset>

@@ -1,0 +1,2619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0401</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<RailCL gml:id="K21_4707011820_1">
+<fid>47070-11820-s-16907</fid>
+<lfSpanFr gml:id="K21_4707011820_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707011820_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707011820_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.838702884 130.758333333
+32.838618847 130.758285497
+32.838510977 130.758225638
+32.838412844 130.758169503
+32.838314633 130.758114745
+32.838181390 130.758038302
+32.837913275 130.757886692
+32.837668006 130.757746333
+32.837633791 130.757727199
+32.837620431 130.757719758
+32.837585674 130.757700411
+32.837445105 130.757621852
+32.837287780 130.757533929
+32.837076093 130.757412078
+32.836912521 130.757320647
+32.836770621 130.757244444
+32.836643980 130.757182395
+32.836538562 130.757131729
+32.836406346 130.757073339
+32.836372051 130.757059546
+32.836292099 130.757027387
+32.836184793 130.756984204
+32.836073539 130.756946693
+32.835966431 130.756913231
+32.835842642 130.756875754
+32.835686109 130.756833560
+32.835521281 130.756792137
+32.835337238 130.756747241
+32.835053686 130.756680612
+32.834734224 130.756604683
+32.834384179 130.756522214
+32.833979830 130.756426766
+32.833607227 130.756337311
+32.833431036 130.756295600
+32.833381775 130.756283878
+32.833333333 130.756272427
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707011838_1">
+<fid>47070-11838-s-6714</fid>
+<lfSpanFr gml:id="K21_4707011838_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707011838_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707011838_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.885146683 130.750275121
+32.884736908 130.750003658
+32.884731386 130.750000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707311820_1">
+<fid>47073-11820-s-13522</fid>
+<lfSpanFr gml:id="K21_4707311820_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707311820_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707311820_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.841666667 130.760914703
+32.841651164 130.760897758
+32.841637701 130.760884013
+32.841628304 130.760874424
+32.841484360 130.760727819
+32.841323707 130.760562682
+32.841027597 130.760252403
+32.841014404 130.760238552
+32.840995971 130.760219266
+32.840983772 130.760206373
+32.840817239 130.760032270
+32.840810462 130.760025131
+32.840774410 130.759988053
+32.840719385 130.759933080
+32.840645472 130.759856366
+32.840579781 130.759788068
+32.840524301 130.759730639
+32.840476686 130.759683445
+32.840428538 130.759635504
+32.840381919 130.759590336
+32.840332225 130.759540370
+32.840275666 130.759484440
+32.840222274 130.759434377
+32.840163466 130.759381444
+32.840110524 130.759331380
+32.840054339 130.759282499
+32.839995086 130.759227645
+32.839903042 130.759148727
+32.839791494 130.759056733
+32.839690350 130.758977316
+32.839594890 130.758904080
+32.839474524 130.758817334
+32.839391000 130.758756351
+32.839386846 130.758753361
+32.839376733 130.758746658
+32.839266763 130.758673141
+32.839148305 130.758594189
+32.839033745 130.758525706
+32.838953751 130.758476346
+32.838848220 130.758413393
+32.838729789 130.758348649
+32.838702884 130.758333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707311823_1">
+<fid>47073-11823-s-15138</fid>
+<lfSpanFr gml:id="K21_4707311823_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707311823_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707311823_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.843263630 130.762636236
+32.843255408 130.762627498
+32.843085790 130.762446664
+32.842845962 130.762186741
+32.842794365 130.762131425
+32.842558418 130.761878449
+32.842549201 130.761868538
+32.842504924 130.761821119
+32.842495887 130.761811315
+32.841959129 130.761235879
+32.841804418 130.761065276
+32.841666667 130.760914703
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707311823_2">
+<fid>47073-11823-s-15139</fid>
+<lfSpanFr gml:id="K21_4707311823_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707311823_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707311823_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.846153096 130.765192439
+32.846358411 130.765416243
+32.846475888 130.765547005
+32.846615225 130.765702292
+32.846697006 130.765792670
+32.846789359 130.765894676
+32.847000442 130.766121887
+32.847179094 130.766319592
+32.847285174 130.766436936
+32.847386562 130.766548641
+32.847478186 130.766666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707311823_3">
+<fid>47073-11823-s-15140</fid>
+<lfSpanFr gml:id="K21_4707311823_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707311823_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707311823_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.846079089 130.765111870
+32.846137283 130.765175174
+32.846153096 130.765192439
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707311823_4">
+<fid>47073-11823-s-15141</fid>
+<lfSpanFr gml:id="K21_4707311823_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707311823_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707311823_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.843263630 130.762636236
+32.843363932 130.762743330
+32.843540049 130.762928101
+32.843660416 130.763059488
+32.843855744 130.763255309
+32.844081116 130.763459361
+32.844202414 130.763563400
+32.844258678 130.763607147
+32.844414534 130.763721767
+32.844509974 130.763786134
+32.844653984 130.763883694
+32.844864992 130.764026799
+32.845127046 130.764219862
+32.845232961 130.764296702
+32.845277487 130.764333014
+32.845328069 130.764376562
+32.845413323 130.764447796
+32.845525055 130.764543744
+32.845627223 130.764637367
+32.845721358 130.764731984
+32.845808006 130.764820948
+32.845902520 130.764920478
+32.845950484 130.764972399
+32.846043576 130.765073184
+32.846079089 130.765111870
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611823_1">
+<fid>47076-11823-s-9498</fid>
+<lfSpanFr gml:id="K21_4707611823_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611823_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611823_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.849952441 130.770157760
+32.850000000 130.770220941
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611823_2">
+<fid>47076-11823-s-9499</fid>
+<lfSpanFr gml:id="K21_4707611823_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611823_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611823_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.849929946 130.770179614
+32.850000000 130.770271508
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611823_3">
+<fid>47076-11823-s-9924</fid>
+<lfSpanFr gml:id="K21_4707611823_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611823_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611823_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.848499819 130.768174265
+32.848610966 130.768389481
+32.848678283 130.768506193
+32.848743589 130.768612654
+32.848784558 130.768671627
+32.848876685 130.768793830
+32.849057214 130.769033109
+32.849265209 130.769301259
+32.849699126 130.769876831
+32.849929946 130.770179614
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611823_4">
+<fid>47076-11823-s-9925</fid>
+<lfSpanFr gml:id="K21_4707611823_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611823_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611823_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.848168685 130.767669613
+32.848192496 130.767705927
+32.848203628 130.767722778
+32.848213124 130.767737283
+32.848275614 130.767832639
+32.848277875 130.767835945
+32.848283392 130.767844478
+32.848285653 130.767847890
+32.848349147 130.767944741
+32.848356019 130.767955192
+32.848367143 130.767972043
+32.848396091 130.768016175
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611823_5">
+<fid>47076-11823-s-9926</fid>
+<lfSpanFr gml:id="K21_4707611823_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611823_5-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611823_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.847478186 130.766666667
+32.847495399 130.766688841
+32.847603257 130.766831393
+32.847742581 130.767024300
+32.847943972 130.767326976
+32.848168685 130.767669613
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611823_6">
+<fid>47076-11823-s-9927</fid>
+<lfSpanFr gml:id="K21_4707611823_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611823_6-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611823_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.848396091 130.768016175
+32.848499819 130.768174265
+32.848611694 130.768344822
+32.848738930 130.768531462
+32.848852766 130.768689612
+32.848980060 130.768859265
+32.849162849 130.769101850
+32.849305785 130.769298696
+32.849952441 130.770157760
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611826_1">
+<fid>47076-11826-s-16500</fid>
+<lfSpanFr gml:id="K21_4707611826_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611826_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611826_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.850000000 130.770220941
+32.850157814 130.770420255
+32.850388865 130.770716265
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611826_2">
+<fid>47076-11826-s-16501</fid>
+<lfSpanFr gml:id="K21_4707611826_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611826_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611826_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.850388865 130.770716265
+32.850273576 130.770595944
+32.850147264 130.770458327
+32.850000000 130.770271508
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707611826_3">
+<fid>47076-11826-s-16502</fid>
+<lfSpanFr gml:id="K21_4707611826_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707611826_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707611826_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.850388865 130.770716265
+32.850394410 130.770723455
+32.850604634 130.770996048
+32.850689704 130.771112174
+32.850754799 130.771203352
+32.850812035 130.771286858
+32.850846307 130.771338693
+32.850891160 130.771406419
+32.850929411 130.771464333
+32.850964776 130.771521613
+32.851001682 130.771584125
+32.851048175 130.771661356
+32.851090150 130.771733577
+32.851130953 130.771806335
+32.851187593 130.771909501
+32.851229130 130.771989309
+32.851268685 130.772069549
+32.851342999 130.772222136
+32.851473255 130.772490926
+32.851600524 130.772753741
+32.851667254 130.772902075
+32.851723390 130.773025970
+32.851769752 130.773130873
+32.851814221 130.773236422
+32.851865136 130.773365994
+32.851917065 130.773507635
+32.851962031 130.773639038
+32.852006474 130.773780165
+32.852050288 130.773923216
+32.852095386 130.774077376
+32.852144101 130.774237723
+32.852205516 130.774439812
+32.852291445 130.774733720
+32.852372534 130.775000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707911826_1">
+<fid>47079-11826-s-14182</fid>
+<lfSpanFr gml:id="K21_4707911826_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707911826_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707911826_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.852372534 130.775000000
+32.852393136 130.775067653
+32.852472503 130.775324506
+32.852501626 130.775422403
+32.852550346 130.775585957
+32.852596501 130.775728042
+32.852643266 130.775857627
+32.852678331 130.775950168
+32.852723891 130.776062448
+32.852773872 130.776175144
+32.852848816 130.776329765
+32.853006725 130.776636424
+32.853066698 130.776739694
+32.853121609 130.776836673
+32.853197316 130.776963836
+32.853300706 130.777141144
+32.853430959 130.777364006
+32.853590229 130.777625900
+32.853773409 130.777945535
+32.853936745 130.778212549
+32.854163888 130.778610605
+32.854301363 130.778838582
+32.854443004 130.779077340
+32.854593137 130.779325159
+32.854738609 130.779588376
+32.854838123 130.779769012
+32.854875305 130.779836551
+32.854923709 130.779926178
+32.855014289 130.780103418
+32.855068686 130.780217070
+32.855116213 130.780321657
+32.855152985 130.780412489
+32.855222446 130.780579845
+32.855304933 130.780770782
+32.855418962 130.781052885
+32.855536775 130.781333590
+32.855644357 130.781591350
+32.855752861 130.781860967
+32.855913531 130.782258669
+32.856099279 130.782714220
+32.856301241 130.783212471
+32.856345430 130.783317069
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4707911826_2">
+<fid>47079-11826-s-14183</fid>
+<lfSpanFr gml:id="K21_4707911826_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4707911826_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4707911826_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.856345430 130.783317069
+32.856352302 130.783333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_1">
+<fid>47082-11826-s-14255</fid>
+<lfSpanFr gml:id="K21_4708211826_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.857851946 130.786724855
+32.857877198 130.786779071
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_2">
+<fid>47082-11826-s-14256</fid>
+<lfSpanFr gml:id="K21_4708211826_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.857896114 130.786819734
+32.857928879 130.786890280
+32.858138889 130.787410755
+32.858278083 130.787811734
+32.858287326 130.787837676
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_3">
+<fid>47082-11826-s-14257</fid>
+<lfSpanFr gml:id="K21_4708211826_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.857775014 130.786772478
+32.857849884 130.786943678
+32.858274726 130.787905873
+32.858333333 130.788038459
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_4">
+<fid>47082-11826-s-14258</fid>
+<lfSpanFr gml:id="K21_4708211826_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.858333333 130.787935361
+32.858287326 130.787837676
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_5">
+<fid>47082-11826-s-14259</fid>
+<lfSpanFr gml:id="K21_4708211826_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_5-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.858287326 130.787837676
+32.858333333 130.787965433
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_6">
+<fid>47082-11826-s-14260</fid>
+<lfSpanFr gml:id="K21_4708211826_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_6-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.857836740 130.786692090
+32.857851946 130.786724855
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_7">
+<fid>47082-11826-s-14261</fid>
+<lfSpanFr gml:id="K21_4708211826_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_7-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.857760529 130.786739284
+32.857775014 130.786772478
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_8">
+<fid>47082-11826-s-14262</fid>
+<lfSpanFr gml:id="K21_4708211826_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_8-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.857877198 130.786779071
+32.857896114 130.786819734
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_9">
+<fid>47082-11826-s-14263</fid>
+<lfSpanFr gml:id="K21_4708211826_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_9-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.856352302 130.783333333
+32.856403562 130.783454649
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_10">
+<fid>47082-11826-s-14264</fid>
+<lfSpanFr gml:id="K21_4708211826_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_10-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.856403562 130.783454649
+32.856485057 130.783647516
+32.856539566 130.783775596
+32.856664821 130.784087489
+32.856755207 130.784312496
+32.856846669 130.784534082
+32.856998518 130.784893671
+32.857123742 130.785189113
+32.857218675 130.785437510
+32.857317464 130.785673184
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_11">
+<fid>47082-11826-s-14265</fid>
+<lfSpanFr gml:id="K21_4708211826_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_11-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.857317464 130.785673184
+32.857494331 130.786110394
+32.857577908 130.786310633
+32.857680318 130.786555917
+32.857760529 130.786739284
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211826_12">
+<fid>47082-11826-s-14266</fid>
+<lfSpanFr gml:id="K21_4708211826_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211826_12-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211826_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.857317464 130.785673184
+32.857434348 130.785891079
+32.857524730 130.786062882
+32.857551960 130.786113461
+32.857650772 130.786310459
+32.857724608 130.786457514
+32.857800897 130.786615034
+32.857836740 130.786692090
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211829_1">
+<fid>47082-11829-s-15996</fid>
+<lfSpanFr gml:id="K21_4708211829_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211829_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211829_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.858333333 130.788038459
+32.858475239 130.788359489
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211829_2">
+<fid>47082-11829-s-15997</fid>
+<lfSpanFr gml:id="K21_4708211829_2-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211829_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211829_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.858391224 130.788058278
+32.858333333 130.787935361
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211829_3">
+<fid>47082-11829-s-15998</fid>
+<lfSpanFr gml:id="K21_4708211829_3-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211829_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211829_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.858333333 130.787965433
+32.858475239 130.788359489
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211829_4">
+<fid>47082-11829-s-15999</fid>
+<lfSpanFr gml:id="K21_4708211829_4-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211829_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211829_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.859768516 130.791436500
+32.859864714 130.791666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211829_5">
+<fid>47082-11829-s-16000</fid>
+<lfSpanFr gml:id="K21_4708211829_5-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211829_5-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211829_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.859710662 130.791298162
+32.859768516 130.791436500
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708211829_6">
+<fid>47082-11829-s-16001</fid>
+<lfSpanFr gml:id="K21_4708211829_6-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708211829_6-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708211829_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.858475239 130.788359489
+32.858548293 130.788524927
+32.858827841 130.789162561
+32.858849476 130.789211873
+32.858866677 130.789251258
+32.859109794 130.789838873
+32.859296044 130.790287616
+32.859577568 130.790979856
+32.859710662 130.791298162
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_1">
+<fid>47085-11829-s-8583</fid>
+<lfSpanFr gml:id="K21_4708511829_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.861062438 130.794567985
+32.861097117 130.794653598
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_2">
+<fid>47085-11829-s-8584</fid>
+<lfSpanFr gml:id="K21_4708511829_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.862057902 130.797155838
+32.862026913 130.797064338
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_3">
+<fid>47085-11829-s-8585</fid>
+<lfSpanFr gml:id="K21_4708511829_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.862020118 130.797044586
+32.861774739 130.796321560
+32.861475614 130.795490636
+32.861451067 130.795424233
+32.861420024 130.795355921
+32.861302531 130.795140783
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_4">
+<fid>47085-11829-s-8586</fid>
+<lfSpanFr gml:id="K21_4708511829_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.862191485 130.797730066
+32.862096278 130.797409412
+32.861995195 130.797079903
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_5">
+<fid>47085-11829-s-8587</fid>
+<lfSpanFr gml:id="K21_4708511829_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_5-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.861989031 130.797059723
+32.861962921 130.796974409
+32.861547609 130.795786551
+32.861432747 130.795470754
+32.861365371 130.795297386
+32.861302531 130.795140783
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_6">
+<fid>47085-11829-s-8588</fid>
+<lfSpanFr gml:id="K21_4708511829_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_6-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.861944105 130.797104916
+32.862152533 130.797621916
+32.862191485 130.797730066
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_7">
+<fid>47085-11829-s-8589</fid>
+<lfSpanFr gml:id="K21_4708511829_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_7-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.861302531 130.795140783
+32.861097117 130.794653598
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_8">
+<fid>47085-11829-s-8590</fid>
+<lfSpanFr gml:id="K21_4708511829_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_8-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.861056553 130.794553360
+32.861062438 130.794567985
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_9">
+<fid>47085-11829-s-8591</fid>
+<lfSpanFr gml:id="K21_4708511829_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_9-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.862026913 130.797064338
+32.862020118 130.797044586
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_10">
+<fid>47085-11829-s-8592</fid>
+<lfSpanFr gml:id="K21_4708511829_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_10-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.861995195 130.797079903
+32.861989031 130.797059723
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_11">
+<fid>47085-11829-s-8593</fid>
+<lfSpanFr gml:id="K21_4708511829_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_11-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.861936318 130.797085594
+32.861944105 130.797104916
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_12">
+<fid>47085-11829-s-8594</fid>
+<lfSpanFr gml:id="K21_4708511829_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_12-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.859864714 130.791666667
+32.859931487 130.791826432
+32.860423220 130.793015783
+32.860798234 130.793921734
+32.860937212 130.794258092
+32.860992717 130.794395371
+32.861020243 130.794463584
+32.861056553 130.794553360
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_13">
+<fid>47085-11829-s-8595</fid>
+<lfSpanFr gml:id="K21_4708511829_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_13-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.861097117 130.794653598
+32.861241041 130.795093376
+32.861521243 130.795931285
+32.861920745 130.797046949
+32.861936318 130.797085594
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708511829_14">
+<fid>47085-11829-s-8596</fid>
+<lfSpanFr gml:id="K21_4708511829_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708511829_14-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708511829_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.862988654 130.800000000
+32.862982361 130.799980263
+32.862927903 130.799817437
+32.862835406 130.799552334
+32.862717002 130.799214953
+32.862534099 130.798696606
+32.862443691 130.798442293
+32.862410264 130.798348233
+32.862378195 130.798257910
+32.862191485 130.797730066
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4708811829_1">
+<fid>47088-11829-s-4817</fid>
+<lfSpanFr gml:id="K21_4708811829_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4708811829_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4708811829_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.865145663 130.808333333
+32.865085664 130.808144387
+32.864953085 130.807663618
+32.864689916 130.806709454
+32.864583528 130.806315398
+32.864508792 130.806038704
+32.864337816 130.805401273
+32.864131649 130.804637408
+32.863939048 130.803900658
+32.863851910 130.803539796
+32.863665071 130.802743842
+32.863557845 130.802284724
+32.863441080 130.801782139
+32.863352731 130.801400235
+32.863262759 130.801019190
+32.863167438 130.800621061
+32.863127514 130.800467071
+32.863074550 130.800279346
+32.863029580 130.800128359
+32.862988654 130.800000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709111829_1">
+<fid>47091-11829-s-6341</fid>
+<lfSpanFr gml:id="K21_4709111829_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709111829_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709111829_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.865490770 130.809399156
+32.865331861 130.808917051
+32.865164500 130.808392652
+32.865145663 130.808333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709111829_2">
+<fid>47091-11829-s-6342</fid>
+<lfSpanFr gml:id="K21_4709111829_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709111829_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709111829_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.866666667 130.812972418
+32.866626087 130.812844203
+32.866398366 130.812168609
+32.866251855 130.811708053
+32.865918561 130.810695669
+32.865602747 130.809738713
+32.865538786 130.809544589
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709111829_3">
+<fid>47091-11829-s-6343</fid>
+<lfSpanFr gml:id="K21_4709111829_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709111829_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709111829_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.865538786 130.809544589
+32.865490770 130.809399156
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709111832_1">
+<fid>47091-11832-s-3512</fid>
+<lfSpanFr gml:id="K21_4709111832_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709111832_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709111832_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.868026451 130.816666667
+32.867793110 130.816144161
+32.867547379 130.815535266
+32.867388512 130.815126014
+32.867278505 130.814828434
+32.867060391 130.814177601
+32.866789360 130.813360080
+32.866666667 130.812972418
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709411832_1">
+<fid>47094-11832-s-4364</fid>
+<lfSpanFr gml:id="K21_4709411832_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709411832_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709411832_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.868249928 130.817172255
+32.868065532 130.816754181
+32.868026451 130.816666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709411832_2">
+<fid>47094-11832-s-4365</fid>
+<lfSpanFr gml:id="K21_4709411832_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709411832_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709411832_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.868249928 130.817172255
+32.868273724 130.817226169
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709411832_3">
+<fid>47094-11832-s-4366</fid>
+<lfSpanFr gml:id="K21_4709411832_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709411832_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709411832_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.870293824 130.825000000
+32.870271316 130.824696379
+32.870214713 130.823946549
+32.870175870 130.823387429
+32.870139876 130.822868376
+32.870121583 130.822686431
+32.870105858 130.822535042
+32.870090061 130.822397224
+32.870060265 130.822180573
+32.870030698 130.821998436
+32.869992696 130.821782549
+32.869957457 130.821607477
+32.869934301 130.821495108
+32.869837136 130.821086031
+32.869757737 130.820804937
+32.869673204 130.820528022
+32.869590622 130.820291816
+32.869517742 130.820092885
+32.869415193 130.819831074
+32.869265903 130.819487291
+32.869132084 130.819178635
+32.868971318 130.818820024
+32.868776792 130.818377066
+32.868633292 130.818048878
+32.868461101 130.817649689
+32.868292814 130.817269514
+32.868273724 130.817226169
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709711832_1">
+<fid>47097-11832-s-4983</fid>
+<lfSpanFr gml:id="K21_4709711832_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709711832_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709711832_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.871351781 130.833333333
+32.871341080 130.833254809
+32.871263779 130.832768416
+32.871210895 130.832468877
+32.871156330 130.832194881
+32.871074324 130.831766524
+32.870975958 130.831245230
+32.870900487 130.830850202
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709711832_2">
+<fid>47097-11832-s-4984</fid>
+<lfSpanFr gml:id="K21_4709711832_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709711832_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709711832_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.870502659 130.827838251
+32.870470276 130.827439085
+32.870435494 130.826936696
+32.870388279 130.826313260
+32.870343748 130.825677317
+32.870310839 130.825229532
+32.870293824 130.825000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709711832_3">
+<fid>47097-11832-s-4985</fid>
+<lfSpanFr gml:id="K21_4709711832_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709711832_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709711832_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.870502659 130.827838251
+32.870554257 130.828243900
+32.870585642 130.828508959
+32.870606236 130.828730761
+32.870638199 130.829023390
+32.870650345 130.829134929
+32.870670252 130.829316339
+32.870687304 130.829455225
+32.870712048 130.829613011
+32.870742666 130.829780295
+32.870784450 130.830002592
+32.870829316 130.830236745
+32.870854685 130.830390469
+32.870876288 130.830560763
+32.870889664 130.830716220
+32.870900487 130.830850202
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4709711832_4">
+<fid>47097-11832-s-4986</fid>
+<lfSpanFr gml:id="K21_4709711832_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4709711832_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4709711832_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.870900487 130.830850202
+32.870899769 130.830846456
+32.870876873 130.830726823
+32.870782588 130.830224972
+32.870719289 130.829897352
+32.870684126 130.829703575
+32.870658751 130.829545256
+32.870628259 130.829338433
+32.870601181 130.829122414
+32.870591306 130.829023480
+32.870577775 130.828888221
+32.870559370 130.828684367
+32.870544948 130.828491512
+32.870527028 130.828247051
+32.870502659 130.827838251
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710011832_1">
+<fid>47100-11832-s-5659</fid>
+<lfSpanFr gml:id="K21_4710011832_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710011832_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710011832_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.871667198 130.835664674
+32.871640334 130.835465426
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710011832_2">
+<fid>47100-11832-s-5660</fid>
+<lfSpanFr gml:id="K21_4710011832_2-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710011832_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710011832_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.871667198 130.835664674
+32.871777538 130.836460482
+32.871835008 130.836895090
+32.871897732 130.837349138
+32.871968772 130.837889088
+32.872021802 130.838311096
+32.872095391 130.838803169
+32.872171869 130.839368866
+32.872245904 130.839930827
+32.872285041 130.840212232
+32.872308958 130.840369491
+32.872331939 130.840499180
+32.872358609 130.840622772
+32.872392978 130.840773493
+32.872431297 130.840909674
+32.872471673 130.841032922
+32.872510690 130.841150935
+32.872550964 130.841264886
+32.872613675 130.841436075
+32.872698532 130.841649115
+32.872705311 130.841666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710011832_3">
+<fid>47100-11832-s-5661</fid>
+<lfSpanFr gml:id="K21_4710011832_3-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710011832_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710011832_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.871626491 130.835362224
+32.871563198 130.834893006
+32.871412386 130.833778082
+32.871351781 130.833333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710011832_4">
+<fid>47100-11832-s-5662</fid>
+<lfSpanFr gml:id="K21_4710011832_4-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710011832_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710011832_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.871640334 130.835465426
+32.871626491 130.835362224
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710311832_1">
+<fid>47103-11832-s-4066</fid>
+<lfSpanFr gml:id="K21_4710311832_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710311832_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710311832_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.872705311 130.841666667
+32.872796607 130.841903061
+32.872897028 130.842158926
+32.872975735 130.842358300
+32.873046928 130.842535139
+32.873114477 130.842682598
+32.873224969 130.842916648
+32.873333630 130.843129328
+32.873453388 130.843345943
+32.873586434 130.843588290
+32.873765387 130.843908248
+32.873950135 130.844248287
+32.874122871 130.844573387
+32.874251415 130.844823439
+32.874384421 130.845109178
+32.874543188 130.845443282
+32.874698161 130.845773227
+32.874829089 130.846057582
+32.874961588 130.846372927
+32.875000000 130.846468401
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710311835_1">
+<fid>47103-11835-s-5187</fid>
+<lfSpanFr gml:id="K21_4710311835_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710311835_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710311835_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.875000000 130.846468401
+32.875093018 130.846699603
+32.875156817 130.846881378
+32.875231495 130.847110797
+32.875287802 130.847288419
+32.875342236 130.847482073
+32.875379463 130.847616019
+32.875501325 130.848086663
+32.875658696 130.848689976
+32.875819121 130.849285377
+32.875950490 130.849792664
+32.876001465 130.850000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710611835_1">
+<fid>47106-11835-s-11336</fid>
+<lfSpanFr gml:id="K21_4710611835_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710611835_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710611835_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.876605616 130.854661296
+32.876612265 130.854717818
+32.876649882 130.855039962
+32.876696024 130.855404199
+32.876745616 130.855867496
+32.876811695 130.856397774
+32.876908276 130.857184913
+32.877010151 130.858033389
+32.877040890 130.858333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710611835_2">
+<fid>47106-11835-s-11337</fid>
+<lfSpanFr gml:id="K21_4710611835_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710611835_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710611835_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.876001465 130.850000000
+32.876033770 130.850131399
+32.876065976 130.850292606
+32.876104096 130.850497620
+32.876139115 130.850748591
+32.876176728 130.851058122
+32.876227191 130.851482406
+32.876257261 130.851744608
+32.876306454 130.852164300
+32.876373844 130.852722463
+32.876419940 130.853118543
+32.876476485 130.853582788
+32.876538582 130.854092550
+32.876577291 130.854421211
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710611835_3">
+<fid>47106-11835-s-11338</fid>
+<lfSpanFr gml:id="K21_4710611835_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710611835_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710611835_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.876577291 130.854421211
+32.876605616 130.854661296
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_1">
+<fid>47109-11835-s-12320</fid>
+<lfSpanFr gml:id="K21_4710911835_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877436679 130.866666667
+32.877429231 130.866486764
+32.877393759 130.865951407
+32.877380254 130.865635310
+32.877380139 130.865528869
+32.877392366 130.865326442
+32.877398814 130.865201289
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_2">
+<fid>47109-11835-s-12321</fid>
+<lfSpanFr gml:id="K21_4710911835_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877397277 130.865029661
+32.877332503 130.864421678
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_3">
+<fid>47109-11835-s-12322</fid>
+<lfSpanFr gml:id="K21_4710911835_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877398814 130.865201289
+32.877410707 130.865610043
+32.877424130 130.865849408
+32.877466781 130.866605546
+32.877470492 130.866666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_4">
+<fid>47109-11835-s-12323</fid>
+<lfSpanFr gml:id="K21_4710911835_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877040890 130.858333333
+32.877046626 130.858389308
+32.877070608 130.858702927
+32.877089136 130.858979366
+32.877104529 130.859276114
+32.877118694 130.859522850
+32.877135672 130.859865763
+32.877151151 130.860159732
+32.877173831 130.860604696
+32.877192147 130.860937028
+32.877211070 130.861249053
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_5">
+<fid>47109-11835-s-12324</fid>
+<lfSpanFr gml:id="K21_4710911835_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_5-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877217317 130.861352385
+32.877221359 130.861419171
+32.877242660 130.861844046
+32.877280340 130.862567593
+32.877324943 130.863358991
+32.877352382 130.863877795
+32.877382078 130.864401084
+32.877397621 130.864596737
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_6">
+<fid>47109-11835-s-12325</fid>
+<lfSpanFr gml:id="K21_4710911835_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_6-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877397621 130.864596737
+32.877416087 130.864828079
+32.877454763 130.865236685
+32.877474074 130.865499446
+32.877490467 130.865733570
+32.877508517 130.866167963
+32.877537938 130.866666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_7">
+<fid>47109-11835-s-12326</fid>
+<lfSpanFr gml:id="K21_4710911835_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_7-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877211070 130.861249053
+32.877217317 130.861352385
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_8">
+<fid>47109-11835-s-12327</fid>
+<lfSpanFr gml:id="K21_4710911835_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_8-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877397277 130.865029661
+32.877397621 130.864596737
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4710911835_9">
+<fid>47109-11835-s-12328</fid>
+<lfSpanFr gml:id="K21_4710911835_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4710911835_9-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4710911835_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877398814 130.865201289
+32.877397277 130.865029661
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4711211835_1">
+<fid>47112-11835-s-11116</fid>
+<lfSpanFr gml:id="K21_4711211835_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4711211835_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4711211835_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877582019 130.868126649
+32.877528935 130.867728535
+32.877495276 130.867451795
+32.877471274 130.867183911
+32.877444318 130.866851163
+32.877436679 130.866666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4711211835_2">
+<fid>47112-11835-s-11117</fid>
+<lfSpanFr gml:id="K21_4711211835_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4711211835_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4711211835_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877470492 130.866666667
+32.877493767 130.867050079
+32.877524429 130.867390837
+32.877549209 130.867627941
+32.877571701 130.867834164
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4711211835_3">
+<fid>47112-11835-s-11118</fid>
+<lfSpanFr gml:id="K21_4711211835_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4711211835_3-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4711211835_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877561412 130.867315439
+32.877594298 130.867798330
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4711211835_4">
+<fid>47112-11835-s-11119</fid>
+<lfSpanFr gml:id="K21_4711211835_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4711211835_4-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4711211835_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877537938 130.866666667
+32.877546172 130.866806233
+32.877560081 130.867080330
+32.877561412 130.867315439
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4711211835_5">
+<fid>47112-11835-s-11120</fid>
+<lfSpanFr gml:id="K21_4711211835_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4711211835_5-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4711211835_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877146976 130.875000000
+32.877169728 130.874890411
+32.877283786 130.874332719
+32.877428702 130.873616389
+32.877505535 130.873172134
+32.877572286 130.872746488
+32.877613055 130.872400496
+32.877660502 130.871884465
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4711211835_6">
+<fid>47112-11835-s-11121</fid>
+<lfSpanFr gml:id="K21_4711211835_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4711211835_6-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4711211835_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877561412 130.867315439
+32.877567630 130.867652066
+32.877571701 130.867834164
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4711211835_7">
+<fid>47112-11835-s-11122</fid>
+<lfSpanFr gml:id="K21_4711211835_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4711211835_7-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4711211835_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877571701 130.867834164
+32.877573782 130.867926603
+32.877582019 130.868126649
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+<RailCL gml:id="K21_4711211835_8">
+<fid>47112-11835-s-11123</fid>
+<lfSpanFr gml:id="K21_4711211835_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K21_4711211835_8-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K21_4711211835_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.877582019 130.868126649
+32.877600340 130.868397320
+32.877635124 130.869061030
+32.877664738 130.869613498
+32.877690518 130.870122583
+32.877699586 130.870518519
+32.877703476 130.870792418
+32.877699771 130.871047092
+32.877691646 130.871301131
+32.877680459 130.871559556
+32.877669119 130.871757386
+32.877667701 130.871781540
+32.877660502 130.871884465
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>普通鉄道</type>
+</RailCL>
+</Dataset>

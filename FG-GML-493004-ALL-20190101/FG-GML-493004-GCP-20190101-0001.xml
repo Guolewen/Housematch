@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0101</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<GCP gml:id="K1_493004_1">
+<fid>10-00100-0-1812-153352</fid>
+<lfSpanFr gml:id="K1_493004_1-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ12</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.733579917 130.619577778</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>二等三角点</gcpClass>
+<gcpCode>TR24930048901</gcpCode>
+<name>奥古閑村</name>
+<B>117840.8877</B>
+<L>470230.48</L>
+<alti>0.98</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_2">
+<fid>10-00100-0-1812-160162</fid>
+<lfSpanFr gml:id="K1_493004_2-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ13</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.669897056 130.611920417</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>三等三角点</gcpClass>
+<gcpCode>TR34930040801</gcpCode>
+<name>摺墨</name>
+<B>117611.6294</B>
+<L>470202.9135</L>
+<alti>416.75</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_3">
+<fid>10-00100-0-1812-160163</fid>
+<lfSpanFr gml:id="K1_493004_3-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ13</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_3-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.680228306 130.558477278</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>三等三角点</gcpClass>
+<gcpCode>TR34930041401</gcpCode>
+<name>田平</name>
+<B>117648.8219</B>
+<L>470010.5182</L>
+<alti>91.47</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_4">
+<fid>10-00100-0-1812-160164</fid>
+<lfSpanFr gml:id="K1_493004_4-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ13</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_4-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.687578417 130.581642333</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>三等三角点</gcpClass>
+<gcpCode>TR34930042601</gcpCode>
+<name>長浜</name>
+<B>117675.2823</B>
+<L>470093.9124</L>
+<alti>304.96</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_5">
+<fid>10-00100-0-1812-160165</fid>
+<lfSpanFr gml:id="K1_493004_5-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ13</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_5-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.703587056 130.610698861</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>三等三角点</gcpClass>
+<gcpCode>TR34930044801</gcpCode>
+<name>笹原</name>
+<B>117732.9134</B>
+<L>470198.5159</L>
+<alti>58.67</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_6">
+<fid>10-00100-0-1812-196763</fid>
+<lfSpanFr gml:id="K1_493004_6-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_6-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.671255500 130.545122444</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930040301</gcpCode>
+<name>大迫</name>
+<B>117616.5198</B>
+<L>469962.4408</L>
+<alti>79.96</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_7">
+<fid>10-00100-0-1812-196764</fid>
+<lfSpanFr gml:id="K1_493004_7-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_7-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.668825500 130.558815583</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930040401</gcpCode>
+<name>上網田</name>
+<B>117607.7718</B>
+<L>470011.7361</L>
+<alti>13.2</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_8">
+<fid>10-00100-0-1812-196765</fid>
+<lfSpanFr gml:id="K1_493004_8-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_8-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.671024806 130.573112361</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930040501</gcpCode>
+<name>扇ノ平</name>
+<B>117615.6893</B>
+<L>470063.2045</L>
+<alti>167.43</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_9">
+<fid>10-00100-0-1812-196766</fid>
+<lfSpanFr gml:id="K1_493004_9-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_9-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.677301750 130.585133028</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930041601</gcpCode>
+<name>矢筈</name>
+<B>117638.2863</B>
+<L>470106.4789</L>
+<alti>268.69</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_10">
+<fid>10-00100-0-1812-196767</fid>
+<lfSpanFr gml:id="K1_493004_10-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_10-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.683257167 130.598864583</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930041701</gcpCode>
+<name>野添の山</name>
+<B>117659.7258</B>
+<L>470155.9125</L>
+<alti>167.33</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_11">
+<fid>10-00100-0-1812-196768</fid>
+<lfSpanFr gml:id="K1_493004_11-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_11-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.687474333 130.553926389</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930042401</gcpCode>
+<name>小松</name>
+<B>117674.9076</B>
+<L>469994.135</L>
+<alti>4.06</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_12">
+<fid>10-00100-0-1812-196769</fid>
+<lfSpanFr gml:id="K1_493004_12-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_12-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.689368972 130.571403028</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930042501</gcpCode>
+<name>春木</name>
+<B>117681.7283</B>
+<L>470057.0509</L>
+<alti>222.33</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_13">
+<fid>10-00100-0-1812-196770</fid>
+<lfSpanFr gml:id="K1_493004_13-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_13-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.686432583 130.609912417</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930042801</gcpCode>
+<name>平原</name>
+<B>117671.1573</B>
+<L>470195.6847</L>
+<alti>211.54</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_14">
+<fid>10-00100-0-1812-196771</fid>
+<lfSpanFr gml:id="K1_493004_14-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_14-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.694680528 130.561403194</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930043401</gcpCode>
+<name>浜新地</name>
+<B>117700.8499</B>
+<L>470021.0515</L>
+<alti>3.12</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_15">
+<fid>10-00100-0-1812-196772</fid>
+<lfSpanFr gml:id="K1_493004_15-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_15-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.698731972 130.581594222</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930043601</gcpCode>
+<name>二本松</name>
+<B>117715.4351</B>
+<L>470093.7392</L>
+<alti>192.08</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_16">
+<fid>10-00100-0-1812-196773</fid>
+<lfSpanFr gml:id="K1_493004_16-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_16-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.696766806 130.594470361</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930043701</gcpCode>
+<name>野原</name>
+<B>117708.3605</B>
+<L>470140.0933</L>
+<alti>104.54</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_17">
+<fid>10-00100-0-1812-196774</fid>
+<lfSpanFr gml:id="K1_493004_17-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_17-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_17-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.712275361 130.603640778</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930045802</gcpCode>
+<name>排水機場</name>
+<B>117764.1913</B>
+<L>470173.1068</L>
+<alti>5.73</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_18">
+<fid>10-00100-0-1812-196775</fid>
+<lfSpanFr gml:id="K1_493004_18-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_18-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_18-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.724071444 130.606085500</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930046801</gcpCode>
+<name>海路口</name>
+<B>117806.6572</B>
+<L>470181.9078</L>
+<alti>0.47</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_19">
+<fid>10-00100-0-1812-196776</fid>
+<lfSpanFr gml:id="K1_493004_19-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_19-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_19-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.725856917 130.620555556</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930047901</gcpCode>
+<name>葭場開</name>
+<B>117813.0849</B>
+<L>470234</L>
+<alti>4.67</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+<GCP gml:id="K1_493004_20">
+<fid>10-00100-0-1812-196777</fid>
+<lfSpanFr gml:id="K1_493004_20-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K1_493004_20-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>KJ14</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K1_493004_20-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.746377694 130.616764194</gml:pos>
+</gml:Point>
+</pos>
+<orgName>国土地理院</orgName>
+<type>三角点</type>
+<gcpClass>四等三角点</gcpClass>
+<gcpCode>TR44930049901</gcpCode>
+<name>六番橋</name>
+<B>117886.9597</B>
+<L>470220.3511</L>
+<alti>1.96</alti>
+<altiAcc>2</altiAcc>
+</GCP>
+</Dataset>

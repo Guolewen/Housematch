@@ -1,0 +1,2235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0101</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<AdmBdry gml:id="K5_4701611775_1">
+<fid>47016-11775-i-1069</fid>
+<lfSpanFr gml:id="K5_4701611775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716389284 130.606759154
+32.716279441 130.608333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>郡市・東京都の区界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611775_2">
+<fid>47016-11775-i-1070</fid>
+<lfSpanFr gml:id="K5_4701611775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716666667 130.606786236
+32.716389284 130.606759154
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611775_3">
+<fid>47016-11775-i-1071</fid>
+<lfSpanFr gml:id="K5_4701611775_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611775_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611775_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715662166 130.608333333
+32.715749632 130.607799250
+32.715787005 130.607557772
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611778_1">
+<fid>47016-11778-i-2220</fid>
+<lfSpanFr gml:id="K5_4701611778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.721616752 130.605160119
+32.721569199 130.605151259
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611778_2">
+<fid>47016-11778-i-2221</fid>
+<lfSpanFr gml:id="K5_4701611778_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611778_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611778_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.725000000 130.605535985
+32.724965270 130.605530941
+32.724669799 130.605490526
+32.724348086 130.605450014
+32.724071280 130.605408878
+32.723770114 130.605364222
+32.723416802 130.605313074
+32.723090190 130.605263730
+32.722797238 130.605221279
+32.722510954 130.605177412
+32.722203210 130.605134386
+32.721927760 130.605094100
+32.721757156 130.605071381
+32.721652615 130.605150786
+32.721618145 130.605144216
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611778_3">
+<fid>47016-11778-i-2222</fid>
+<lfSpanFr gml:id="K5_4701611778_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611778_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611778_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.721618145 130.605144216
+32.721616752 130.605160119
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611778_4">
+<fid>47016-11778-i-2223</fid>
+<lfSpanFr gml:id="K5_4701611778_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611778_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611778_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.721569199 130.605151259
+32.721570682 130.605135357
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611778_5">
+<fid>47016-11778-i-2224</fid>
+<lfSpanFr gml:id="K5_4701611778_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611778_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611778_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.721570682 130.605135357
+32.721569509 130.605135149
+32.721510512 130.605129328
+32.721471913 130.605129071
+32.721438367 130.605129538
+32.721421963 130.605132491
+32.721401966 130.605139513
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611778_6">
+<fid>47016-11778-i-2225</fid>
+<lfSpanFr gml:id="K5_4701611778_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611778_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611778_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.719207973 130.607034353
+32.716667130 130.606786282
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611778_7">
+<fid>47016-11778-i-2226</fid>
+<lfSpanFr gml:id="K5_4701611778_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611778_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611778_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.721401966 130.605139513
+32.721382853 130.605112607
+32.721030723 130.605407638
+32.720487314 130.605902573
+32.719845122 130.606472932
+32.719252020 130.606996235
+32.719207973 130.607034353
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611778_8">
+<fid>47016-11778-i-2227</fid>
+<lfSpanFr gml:id="K5_4701611778_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611778_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>非表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611778_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716667130 130.606786282
+32.716666667 130.606786236
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611781_1">
+<fid>47016-11781-i-2684</fid>
+<lfSpanFr gml:id="K5_4701611781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.733333333 130.604361988
+32.733279160 130.604344186
+32.733062042 130.604271311
+32.732867152 130.604211567
+32.732639391 130.604137780
+32.732434114 130.604073176
+32.732232265 130.604009196
+32.732189476 130.603995515
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611781_2">
+<fid>47016-11781-i-2685</fid>
+<lfSpanFr gml:id="K5_4701611781_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611781_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611781_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.732189476 130.603995515
+32.732014346 130.603939420
+32.731787756 130.603865416
+32.731606308 130.603807321
+32.731463496 130.603761434
+32.731342719 130.603725586
+32.731354464 130.603675174
+32.731339027 130.603670121
+32.731327194 130.603721066
+32.731247564 130.603692611
+32.731205323 130.603681274
+32.731172218 130.603678540
+32.731148237 130.603680887
+32.731127785 130.603687272
+32.731109962 130.603697380
+32.731093698 130.603716123
+32.731083216 130.603737722
+32.731076618 130.603762077
+32.731070499 130.603794646
+32.731022313 130.604156442
+32.731055388 130.604177954
+32.730997764 130.604635709
+32.730958284 130.604641964
+32.730921660 130.604953244
+32.730876856 130.605301899
+32.730831474 130.605638929
+32.730806810 130.605825324
+32.730808399 130.605843241
+32.730814396 130.605857619
+32.730821636 130.605865695
+32.730834643 130.605872466
+32.730773653 130.606351359
+32.730445966 130.606304466
+32.730216440 130.606271331
+32.730034004 130.606243219
+32.730014612 130.606242024
+32.730003706 130.606243779
+32.729990659 130.606253438
+32.729976449 130.606265770
+32.729965780 130.606285449
+32.729957627 130.606302663
+32.729954448 130.606324122
+32.729920799 130.606320428
+32.729923335 130.606295451
+32.729907547 130.606293173
+32.729907776 130.606279942
+32.729890455 130.606278098
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611781_3">
+<fid>47016-11781-i-2686</fid>
+<lfSpanFr gml:id="K5_4701611781_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611781_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611781_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.729890455 130.606278098
+32.729889581 130.606258364
+32.729885591 130.606222533
+32.729588308 130.606179561
+32.729328924 130.606144425
+32.729054204 130.606106904
+32.728786426 130.606069137
+32.728506286 130.606028973
+32.728250690 130.605993394
+32.727975872 130.605953845
+32.727721722 130.605919222
+32.727441220 130.605878952
+32.727134826 130.605835489
+32.726839087 130.605795928
+32.726541170 130.605752429
+32.726273480 130.605714024
+32.725955457 130.605671787
+32.725583296 130.605620187
+32.725275456 130.605575985
+32.725000595 130.605536071
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611781_4">
+<fid>47016-11781-i-2687</fid>
+<lfSpanFr gml:id="K5_4701611781_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611781_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611781_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.725000595 130.605536071
+32.725000000 130.605535985
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611784_1">
+<fid>47016-11784-i-2618</fid>
+<lfSpanFr gml:id="K5_4701611784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.740975355 130.606931959
+32.740925075 130.606916173
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611784_2">
+<fid>47016-11784-i-2619</fid>
+<lfSpanFr gml:id="K5_4701611784_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611784_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611784_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.741666667 130.607028795
+32.741629257 130.607017123
+32.741089348 130.606846415
+32.741078881 130.606844860
+32.741072931 130.606845527
+32.741061851 130.606849524
+32.741055466 130.606854887
+32.741049819 130.606866222
+32.741034430 130.606934047
+32.740978553 130.606916473
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611784_3">
+<fid>47016-11784-i-2620</fid>
+<lfSpanFr gml:id="K5_4701611784_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611784_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611784_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.740978553 130.606916473
+32.740976510 130.606926299
+32.740975355 130.606931959
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611784_4">
+<fid>47016-11784-i-2621</fid>
+<lfSpanFr gml:id="K5_4701611784_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611784_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611784_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.740928634 130.606900793
+32.740887109 130.606887743
+32.740908982 130.606788305
+32.740491302 130.606656970
+32.740102140 130.606532767
+32.739735996 130.606415400
+32.739373192 130.606299300
+32.738980424 130.606175223
+32.738603094 130.606056947
+32.738400619 130.605993816
+32.738395202 130.605991919
+32.738388070 130.605989390
+32.738382923 130.605987492
+32.737977316 130.605853230
+32.737726630 130.605772812
+32.737458969 130.605685961
+32.737162510 130.605589741
+32.736863615 130.605492892
+32.736510377 130.605379211
+32.736154005 130.605272373
+32.736141678 130.605252581
+32.735846136 130.605161055
+32.735561779 130.605070760
+32.735108692 130.604922738
+32.735076882 130.604958836
+32.735043037 130.604950449
+32.735029519 130.605010473
+32.734949083 130.604983619
+32.734961062 130.604921682
+32.734935864 130.604910056
+32.734928695 130.604867089
+32.734862153 130.604842307
+32.734656346 130.604781009
+32.734425343 130.604708514
+32.734181521 130.604631913
+32.733960358 130.604562576
+32.733743074 130.604493861
+32.733491577 130.604413988
+32.733334101 130.604362240
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611784_5">
+<fid>47016-11784-i-2622</fid>
+<lfSpanFr gml:id="K5_4701611784_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611784_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611784_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.740925075 130.606916173
+32.740926321 130.606910833
+32.740928634 130.606900793
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611784_6">
+<fid>47016-11784-i-2623</fid>
+<lfSpanFr gml:id="K5_4701611784_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611784_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611784_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.733334101 130.604362240
+32.733333333 130.604361988
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_1">
+<fid>47016-11787-i-2814</fid>
+<lfSpanFr gml:id="K5_4701611787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745109133 130.608283964
+32.745017543 130.608207854
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_2">
+<fid>47016-11787-i-2815</fid>
+<lfSpanFr gml:id="K5_4701611787_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745473731 130.608225599
+32.745446623 130.608208431
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_3">
+<fid>47016-11787-i-2816</fid>
+<lfSpanFr gml:id="K5_4701611787_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745195107 130.605762346
+32.745190925 130.605751480
+32.745180546 130.605748751
+32.745164148 130.605753519
+32.745148851 130.605764150
+32.745136466 130.605783092
+32.745132531 130.605793674
+32.745129502 130.605805639
+32.745125236 130.605825719
+32.745117366 130.605846456
+32.745105188 130.605873934
+32.745094074 130.605895858
+32.745079728 130.605922172
+32.745075178 130.605937773
+32.745073248 130.605954961
+32.745071961 130.605975775
+32.745073378 130.605996150
+32.745075972 130.606018228
+32.745081286 130.606044882
+32.745083847 130.606084994
+32.745086650 130.606116034
+32.745096657 130.606172439
+32.745105379 130.606221594
+32.745116567 130.606280876
+32.745127478 130.606338131
+32.745136410 130.606396996
+32.745146057 130.606453831
+32.745157171 130.606518235
+32.745163187 130.606567401
+32.745169929 130.606617846
+32.745174960 130.606669364
+32.745168034 130.606674837
+32.745149754 130.606683561
+32.745118958 130.606698209
+32.745080061 130.606717374
+32.745041251 130.606735793
+32.745014410 130.606746048
+32.744979570 130.606736811
+32.744952878 130.606736928
+32.744942631 130.606747644
+32.744937569 130.606772529
+32.744936976 130.606813509
+32.744936379 130.606853314
+32.744933354 130.606894944
+32.744926651 130.606943206
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_4">
+<fid>47016-11787-i-2817</fid>
+<lfSpanFr gml:id="K5_4701611787_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.744884734 130.606718340
+32.744709278 130.606758486
+32.744660299 130.606467384
+32.744474847 130.606511951
+32.744476963 130.606525067
+32.744429112 130.606536482
+32.744427087 130.606523472
+32.744218477 130.606573583
+32.744190640 130.606410227
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_5">
+<fid>47016-11787-i-2818</fid>
+<lfSpanFr gml:id="K5_4701611787_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.744926651 130.606943206
+32.744884734 130.606718340
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_6">
+<fid>47016-11787-i-2819</fid>
+<lfSpanFr gml:id="K5_4701611787_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.750000000 130.605074217
+32.749970248 130.605075926
+32.749697063 130.605095700
+32.749426126 130.605112691
+32.749136799 130.605132430
+32.748837468 130.605153920
+32.748569424 130.605173565
+32.748328070 130.605192132
+32.748152617 130.605204004
+32.748138821 130.605204705
+32.747773224 130.605231183
+32.747423497 130.605257164
+32.747079887 130.605278635
+32.746777128 130.605299820
+32.746462197 130.605321485
+32.746203519 130.605337459
+32.746189639 130.605339868
+32.746183250 130.605344271
+32.746175895 130.605356895
+32.746167952 130.605383288
+32.746164040 130.605429512
+32.746164929 130.605454265
+32.746076843 130.605460415
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_7">
+<fid>47016-11787-i-2820</fid>
+<lfSpanFr gml:id="K5_4701611787_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746076843 130.605460415
+32.745927988 130.605470890
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_8">
+<fid>47016-11787-i-2821</fid>
+<lfSpanFr gml:id="K5_4701611787_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745927988 130.605470890
+32.745880564 130.605474193
+32.745874929 130.605431853
+32.745871329 130.605405618
+32.745867036 130.605387817
+32.745859964 130.605376323
+32.745852193 130.605370915
+32.745842800 130.605366688
+32.745830802 130.605365461
+32.745731804 130.605371873
+32.745721798 130.605372878
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_9">
+<fid>47016-11787-i-2822</fid>
+<lfSpanFr gml:id="K5_4701611787_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745647211 130.605484827
+32.745625616 130.605471689
+32.745610075 130.605462261
+32.745587758 130.605448700
+32.745573934 130.605440331
+32.745560559 130.605431106
+32.745555671 130.605425365
+32.745552593 130.605421750
+32.745547608 130.605413662
+32.745544146 130.605402366
+32.745543506 130.605399915
+32.745535932 130.605371777
+32.745528267 130.605343106
+32.745521241 130.605316993
+32.745515492 130.605295676
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_10">
+<fid>47016-11787-i-2823</fid>
+<lfSpanFr gml:id="K5_4701611787_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745515492 130.605295676
+32.745313553 130.604543405
+32.745297610 130.604549451
+32.745528383 130.605408732
+32.745532758 130.605423118
+32.745539917 130.605434612
+32.745550327 130.605446838
+32.745565873 130.605457654
+32.745601833 130.605479478
+32.745582331 130.605558103
+32.745582450 130.605567385
+32.745599478 130.605591000
+32.745600773 130.605601346
+32.745602438 130.605614571
+32.745604013 130.605627796
+32.745606788 130.605649979
+32.745615711 130.605648446
+32.745618595 130.605648007
+32.745631733 130.605724994
+32.745725097 130.606250241
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_11">
+<fid>47016-11787-i-2824</fid>
+<lfSpanFr gml:id="K5_4701611787_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745729504 130.606275085
+32.745815792 130.606730254
+32.745966602 130.607573677
+32.746012128 130.607828197
+32.746040325 130.608020901
+32.746055242 130.608148249
+32.746056718 130.608158700
+32.746062211 130.608213739
+32.746062427 130.608254182
+32.746065669 130.608333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_12">
+<fid>47016-11787-i-2825</fid>
+<lfSpanFr gml:id="K5_4701611787_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745683245 130.608333333
+32.745685591 130.608320604
+32.745522109 130.608210021
+32.745549934 130.608168281
+32.745592712 130.608092010
+32.745707041 130.607912768
+32.745670877 130.607883475
+32.745552606 130.608071163
+32.745492632 130.608184966
+32.745473731 130.608225599
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_13">
+<fid>47016-11787-i-2826</fid>
+<lfSpanFr gml:id="K5_4701611787_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745721798 130.605372878
+32.745669872 130.605378443
+32.745657349 130.605382766
+32.745653401 130.605388653
+32.745651247 130.605391864
+32.745647229 130.605404686
+32.745645844 130.605423474
+32.745646177 130.605442787
+32.745646282 130.605447801
+32.745646802 130.605469569
+32.745647211 130.605484827
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_14">
+<fid>47016-11787-i-2827</fid>
+<lfSpanFr gml:id="K5_4701611787_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745446623 130.608208431
+32.745438853 130.608232368
+32.745413307 130.608311339
+32.745386764 130.608301637
+32.745158590 130.608209371
+32.745122882 130.608268431
+32.745131474 130.608276290
+32.745128783 130.608280783
+32.745119560 130.608273034
+32.745111650 130.608281392
+32.745109133 130.608283964
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_15">
+<fid>47016-11787-i-2828</fid>
+<lfSpanFr gml:id="K5_4701611787_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745017543 130.608207854
+32.745019872 130.608202829
+32.745023991 130.608193634
+32.745056108 130.608139604
+32.745049322 130.608132591
+32.745171384 130.607917249
+32.745181880 130.607899597
+32.745288631 130.607719642
+32.745327039 130.607601238
+32.745305987 130.607588632
+32.745373886 130.607413755
+32.745392869 130.607427972
+32.745401012 130.607407448
+32.745380865 130.607396224
+32.745449580 130.607222625
+32.745468109 130.607236096
+32.745478508 130.607215776
+32.745437497 130.607194187
+32.745455901 130.607138830
+32.745460099 130.607126006
+32.745428915 130.606959034
+32.745386447 130.606731180
+32.745381035 130.606702179
+32.745342328 130.606494797
+32.745231064 130.605897923
+32.745424431 130.605846704
+32.745419737 130.605816739
+32.745223387 130.605865517
+32.745216778 130.605828304
+32.745204659 130.605759956
+32.745195107 130.605762346
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_16">
+<fid>47016-11787-i-2829</fid>
+<lfSpanFr gml:id="K5_4701611787_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.744190640 130.606410227
+32.744132336 130.606050554
+32.745121839 130.605347780
+32.745112172 130.605313249
+32.745144957 130.605300406
+32.744959083 130.604609852
+32.744865064 130.604650603
+32.745055116 130.605351062
+32.744062906 130.606052994
+32.744112189 130.606354442
+32.743952185 130.606461749
+32.743929307 130.606413083
+32.743832028 130.606478924
+32.743038864 130.607016270
+32.742689524 130.607252879
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_17">
+<fid>47016-11787-i-2830</fid>
+<lfSpanFr gml:id="K5_4701611787_17-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_17-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_17-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.742689524 130.607252879
+32.742584403 130.607319498
+32.742559288 130.607334227
+32.742339151 130.607274264
+32.742344646 130.607243722
+32.742023189 130.607140027
+32.741667599 130.607029086
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_18">
+<fid>47016-11787-i-2831</fid>
+<lfSpanFr gml:id="K5_4701611787_18-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_18-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_18-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745725097 130.606250241
+32.745729504 130.606275085
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701611787_19">
+<fid>47016-11787-i-2832</fid>
+<lfSpanFr gml:id="K5_4701611787_19-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701611787_19-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701611787_19-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.741667599 130.607029086
+32.741666667 130.607028795
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911760_1">
+<fid>47019-11760-i-49</fid>
+<lfSpanFr gml:id="K5_4701911760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666667263 130.608728045
+32.666685874 130.608621516
+32.666667262 130.608578126
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911760_2">
+<fid>47019-11760-i-50</fid>
+<lfSpanFr gml:id="K5_4701911760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.670050349 130.612953906
+32.669982847 130.612686953
+32.669930345 130.612346944
+32.669914789 130.612224164
+32.669841454 130.612134993
+32.668957564 130.611990243
+32.668738119 130.611995792
+32.668471453 130.612134953
+32.668288398 130.612268839
+32.668178676 130.612307725
+32.668063675 130.612246332
+32.667854507 130.612017989
+32.667525059 130.611499360
+32.667441168 130.611270743
+32.667404778 130.611014071
+32.667399499 130.610757678
+32.667352275 130.610562396
+32.667205884 130.610283499
+32.666819214 130.609709036
+32.666670046 130.609424583
+32.666667268 130.609405027
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911760_3">
+<fid>47019-11760-i-51</fid>
+<lfSpanFr gml:id="K5_4701911760_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911760_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911760_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.670050371 130.616343438
+32.670376761 130.616311226
+32.670654260 130.616150399
+32.670883426 130.615912622
+32.671010091 130.615700121
+32.671124811 130.615372339
+32.671148977 130.615160111
+32.671082586 130.614941492
+32.670798972 130.614536194
+32.670606191 130.614169511
+32.670364799 130.613745048
+32.670189797 130.613410589
+32.670105351 130.613159747
+32.670050349 130.612953906
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911760_4">
+<fid>47019-11760-i-52</fid>
+<lfSpanFr gml:id="K5_4701911760_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911760_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911760_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.670050371 130.616343438
+32.669957316 130.616324267
+32.669820371 130.616296206
+32.669597314 130.616182862
+32.669363703 130.616172020
+32.669087592 130.616386737
+32.668928427 130.616647016
+32.668924114 130.616666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911760_5">
+<fid>47019-11760-i-53</fid>
+<lfSpanFr gml:id="K5_4701911760_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911760_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911760_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666666667 130.608731463
+32.666667263 130.608728045
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911760_6">
+<fid>47019-11760-i-54</fid>
+<lfSpanFr gml:id="K5_4701911760_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911760_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911760_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666667262 130.608578126
+32.666666667 130.608576737
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911760_7">
+<fid>47019-11760-i-55</fid>
+<lfSpanFr gml:id="K5_4701911760_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911760_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911760_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666667268 130.609405027
+32.666666667 130.609400791
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911775_1">
+<fid>47019-11775-i-1920</fid>
+<lfSpanFr gml:id="K5_4701911775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714754657 130.613153193
+32.714616616 130.614090430
+32.714438018 130.614990166
+32.714197477 130.615997404
+32.713932743 130.616666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911775_2">
+<fid>47019-11775-i-1921</fid>
+<lfSpanFr gml:id="K5_4701911775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714754657 130.613153193
+32.714817709 130.612874022
+32.714920758 130.612417349
+32.715191588 130.611150391
+32.715487415 130.609401764
+32.715606579 130.608672869
+32.715661606 130.608336755
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911775_3">
+<fid>47019-11775-i-1922</fid>
+<lfSpanFr gml:id="K5_4701911775_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911775_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911775_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716279202 130.608336758
+32.716170569 130.609893606
+32.716062009 130.611523655
+32.715964857 130.612794904
+32.715854312 130.613614761
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>郡市・東京都の区界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911775_4">
+<fid>47019-11775-i-1923</fid>
+<lfSpanFr gml:id="K5_4701911775_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911775_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911775_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715854312 130.613614761
+32.715837307 130.613715003
+32.715739141 130.614223524
+32.715591659 130.614882776
+32.715523262 130.615191043
+32.715416036 130.615571269
+32.715339691 130.615758919
+32.715152461 130.616193357
+32.714945587 130.616603768
+32.714909708 130.616666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>郡市・東京都の区界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911775_5">
+<fid>47019-11775-i-1924</fid>
+<lfSpanFr gml:id="K5_4701911775_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911775_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911775_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716279441 130.608333333
+32.716279202 130.608336758
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>郡市・東京都の区界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911775_6">
+<fid>47019-11775-i-1925</fid>
+<lfSpanFr gml:id="K5_4701911775_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911775_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911775_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715661606 130.608336755
+32.715662166 130.608333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_1">
+<fid>47019-11787-i-759</fid>
+<lfSpanFr gml:id="K5_4701911787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745999391 130.609091821
+32.745875157 130.609102928
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_2">
+<fid>47019-11787-i-760</fid>
+<lfSpanFr gml:id="K5_4701911787_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746065814 130.608336877
+32.746070140 130.608442493
+32.746082786 130.608449374
+32.746086941 130.608480409
+32.746098754 130.608826743
+32.746113727 130.608827744
+32.746115941 130.608930390
+32.746039033 130.608935635
+32.746047803 130.609087448
+32.745999391 130.609091821
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_3">
+<fid>47019-11787-i-761</fid>
+<lfSpanFr gml:id="K5_4701911787_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745875157 130.609102928
+32.745865349 130.608936394
+32.745854332 130.608931533
+32.745847441 130.608920039
+32.745845238 130.608907457
+32.745841936 130.608889544
+32.745836091 130.608808363
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_4">
+<fid>47019-11787-i-762</fid>
+<lfSpanFr gml:id="K5_4701911787_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745836091 130.608808363
+32.745849883 130.608806381
+32.745849318 130.608798487
+32.745848374 130.608785152
+32.745847431 130.608771924
+32.745846488 130.608758589
+32.745845542 130.608744508
+32.745842889 130.608703649
+32.745842216 130.608690313
+32.745841544 130.608676978
+32.745840871 130.608663748
+32.745840581 130.608657453
+32.745811643 130.608660567
+32.745805581 130.608567436
+32.745832537 130.608564969
+32.745826664 130.608474932
+32.745799707 130.608477291
+32.745798759 130.608462568
+32.745796481 130.608454788
+32.745794116 130.608448609
+32.745790851 130.608442541
+32.745786596 130.608437331
+32.745781621 130.608432124
+32.745773398 130.608427144
+32.745736208 130.608415676
+32.745733139 130.608414622
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_5">
+<fid>47019-11787-i-763</fid>
+<lfSpanFr gml:id="K5_4701911787_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745733040 130.608382929
+32.745721030 130.608377753
+32.745710375 130.608373211
+32.745699719 130.608368669
+32.745689154 130.608364127
+32.745678588 130.608359691
+32.745678408 130.608359585
+32.745682593 130.608336877
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_6">
+<fid>47019-11787-i-764</fid>
+<lfSpanFr gml:id="K5_4701911787_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745733115 130.608406939
+32.745736110 130.608384196
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_7">
+<fid>47019-11787-i-765</fid>
+<lfSpanFr gml:id="K5_4701911787_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745736110 130.608384196
+32.745733040 130.608382929
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_8">
+<fid>47019-11787-i-766</fid>
+<lfSpanFr gml:id="K5_4701911787_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745733139 130.608414622
+32.745732146 130.608414306
+32.745733115 130.608406939
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_9">
+<fid>47019-11787-i-767</fid>
+<lfSpanFr gml:id="K5_4701911787_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746065669 130.608333333
+32.746065814 130.608336877
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4701911787_10">
+<fid>47019-11787-i-768</fid>
+<lfSpanFr gml:id="K5_4701911787_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4701911787_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4701911787_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745682593 130.608336877
+32.745683245 130.608333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>都道府県界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211760_1">
+<fid>47022-11760-i-53</fid>
+<lfSpanFr gml:id="K5_4702211760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.668923427 130.616669794
+32.668853985 130.616986743
+32.668747876 130.617405638
+32.668578156 130.617802030
+32.668365657 130.618062306
+32.668280660 130.618447311
+32.668323163 130.618900379
+32.668450664 130.619160668
+32.668716222 130.619432351
+32.669066503 130.619772096
+32.669427618 130.620270457
+32.669597343 130.620598527
+32.669607902 130.621164653
+32.669576242 130.622126898
+32.669692911 130.622432744
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211760_2">
+<fid>47022-11760-i-54</fid>
+<lfSpanFr gml:id="K5_4702211760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.669692911 130.622432744
+32.670050413 130.622677489
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211760_3">
+<fid>47022-11760-i-55</fid>
+<lfSpanFr gml:id="K5_4702211760_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211760_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211760_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.670050419 130.623550567
+32.670129030 130.623460291
+32.670198751 130.623271678
+32.670206805 130.623083340
+32.670166526 130.622909167
+32.670130970 130.622830274
+32.670098747 130.622777494
+32.670050413 130.622677489
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211760_4">
+<fid>47022-11760-i-56</fid>
+<lfSpanFr gml:id="K5_4702211760_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211760_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211760_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.670050419 130.623550567
+32.669958476 130.623872793
+32.669823202 130.624416411
+32.669569387 130.625000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211760_5">
+<fid>47022-11760-i-57</fid>
+<lfSpanFr gml:id="K5_4702211760_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211760_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211760_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.668924114 130.616666667
+32.668923427 130.616669794
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211775_1">
+<fid>47022-11775-i-861</fid>
+<lfSpanFr gml:id="K5_4702211775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713931348 130.616670193
+32.713796103 130.617012143
+32.713743327 130.617157423
+32.713226404 130.618583556
+32.712651703 130.619992189
+32.712555595 130.620224415
+32.712027558 130.621451100
+32.711474244 130.622676396
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211775_2">
+<fid>47022-11775-i-862</fid>
+<lfSpanFr gml:id="K5_4702211775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.711474244 130.622676396
+32.711210641 130.623241127
+32.710897040 130.623894470
+32.710524831 130.624688093
+32.710366606 130.625000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211775_3">
+<fid>47022-11775-i-863</fid>
+<lfSpanFr gml:id="K5_4702211775_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211775_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211775_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714907697 130.616670192
+32.714596306 130.617216082
+32.714106587 130.618056206
+32.713329336 130.619387919
+32.713141734 130.619704361
+32.712565880 130.620663974
+32.712379086 130.621010062
+32.712101318 130.621629613
+32.711765894 130.622448557
+32.711249468 130.623683952
+32.710847432 130.624637565
+32.710690470 130.625000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>郡市・東京都の区界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211775_4">
+<fid>47022-11775-i-864</fid>
+<lfSpanFr gml:id="K5_4702211775_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211775_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211775_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.713932743 130.616666667
+32.713931348 130.616670193
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>市区町村界</type>
+</AdmBdry>
+<AdmBdry gml:id="K5_4702211775_5">
+<fid>47022-11775-i-865</fid>
+<lfSpanFr gml:id="K5_4702211775_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K5_4702211775_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<loc>
+<gml:Curve gml:id="K5_4702211775_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.714909708 130.616666667
+32.714907697 130.616670192
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>郡市・東京都の区界</type>
+</AdmBdry>
+</Dataset>

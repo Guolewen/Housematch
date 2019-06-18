@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:18-1001</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<AdmPt gml:id="K6_4702211790_1">
+<fid>47022-11790-i-596</fid>
+<lfSpanFr gml:id="K6_4702211790_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4702211790_1-2">
+<gml:timePosition>2018-10-02</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4702211790_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.755923604 130.619555322</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市南区</name>
+<admCode>43104</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4702211805_1">
+<fid>47022-11805-i-1034</fid>
+<lfSpanFr gml:id="K6_4702211805_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4702211805_1-2">
+<gml:timePosition>2018-10-02</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4702211805_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.793099820 130.619554490</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市西区</name>
+<admCode>43103</admCode>
+</AdmPt>
+</Dataset>

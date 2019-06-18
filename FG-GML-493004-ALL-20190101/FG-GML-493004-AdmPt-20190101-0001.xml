@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0101</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<AdmPt gml:id="K6_4701311766_1">
+<fid>47013-11766-i-96</fid>
+<lfSpanFr gml:id="K6_4701311766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4701311766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4701311766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.691376502 130.592648637</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>宇土市</name>
+<admCode>43211</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4701911760_1">
+<fid>47019-11760-i-56</fid>
+<lfSpanFr gml:id="K6_4701911760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4701911760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4701911760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.666675689 130.608638793</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>宇城市</name>
+<admCode>43213</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4701911781_1">
+<fid>47019-11781-i-867</fid>
+<lfSpanFr gml:id="K6_4701911781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4701911781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4701911781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.730173095 130.615700119</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市南区</name>
+<admCode>43104</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4702211760_1">
+<fid>47022-11760-i-58</fid>
+<lfSpanFr gml:id="K6_4702211760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4702211760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4702211760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.668909306 130.622311252</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>宇城市</name>
+<admCode>43213</admCode>
+</AdmPt>
+</Dataset>

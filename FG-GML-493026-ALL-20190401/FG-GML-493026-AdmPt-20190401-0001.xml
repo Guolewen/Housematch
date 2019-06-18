@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0401</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<AdmPt gml:id="K6_4707311823_1">
+<fid>47073-11823-i-3719</fid>
+<lfSpanFr gml:id="K6_4707311823_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4707311823_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4707311823_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.846201136 130.761121749</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市北区</name>
+<admCode>43105</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4707911847_1">
+<fid>47079-11847-i-673</fid>
+<lfSpanFr gml:id="K6_4707911847_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4707911847_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4707911847_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.916600726 130.779675802</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>菊池市</name>
+<admCode>43210</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4708211823_1">
+<fid>47082-11823-i-2868</fid>
+<lfSpanFr gml:id="K6_4708211823_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4708211823_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4708211823_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.843904097 130.789786130</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市東区</name>
+<admCode>43102</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4708211838_1">
+<fid>47082-11838-i-574</fid>
+<lfSpanFr gml:id="K6_4708211838_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4708211838_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K6_4708211838_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.885992575 130.788992093</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>合志市</name>
+<admCode>43216</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4708211838_2">
+<fid>47082-11838-i-575</fid>
+<lfSpanFr gml:id="K6_4708211838_2-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4708211838_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4708211838_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.888162601 130.789841108</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>合志市</name>
+<admCode>43216</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4709111829_1">
+<fid>47091-11829-i-2014</fid>
+<lfSpanFr gml:id="K6_4709111829_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4709111829_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4709111829_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.865197789 130.815730022</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>菊陽町</name>
+<admCode>43404</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4709711847_1">
+<fid>47097-11847-i-1014</fid>
+<lfSpanFr gml:id="K6_4709711847_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4709711847_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4709711847_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.909216572 130.829407206</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>菊池市</name>
+<admCode>43210</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4710911835_1">
+<fid>47109-11835-i-3157</fid>
+<lfSpanFr gml:id="K6_4710911835_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4710911835_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4710911835_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.876981051 130.864048374</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>大津町</name>
+<admCode>43403</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4711211820_1">
+<fid>47112-11820-i-975</fid>
+<lfSpanFr gml:id="K6_4711211820_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4711211820_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4711211820_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.836573680 130.870999447</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>益城町</name>
+<admCode>43443</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4711211820_2">
+<fid>47112-11820-i-977</fid>
+<lfSpanFr gml:id="K6_4711211820_2-1">
+<gml:timePosition>2017-09-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4711211820_2-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K6_4711211820_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.836800946 130.874990836</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>西原村</name>
+<admCode>43432</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4711211847_1">
+<fid>47112-11847-i-751</fid>
+<lfSpanFr gml:id="K6_4711211847_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4711211847_1-2">
+<gml:timePosition>2019-03-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4711211847_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.915312480 130.870835181</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>菊池市</name>
+<admCode>43210</admCode>
+</AdmPt>
+</Dataset>

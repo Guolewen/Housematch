@@ -1,0 +1,1936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0101</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<ElevPt gml:id="K2_4702511760_1">
+<fid>47025-11760-i-98</fid>
+<lfSpanFr gml:id="K2_4702511760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.671819331 130.626306266</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>249</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702511763_1">
+<fid>47025-11763-i-121</fid>
+<lfSpanFr gml:id="K2_4702511763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.678358517 130.627525316</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>214</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702511766_1">
+<fid>47025-11766-i-150</fid>
+<lfSpanFr gml:id="K2_4702511766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.686526042 130.631865101</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>74</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702511775_1">
+<fid>47025-11775-i-1138</fid>
+<lfSpanFr gml:id="K2_4702511775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.708462910 130.626514511</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702511775_2">
+<fid>47025-11775-i-1139</fid>
+<lfSpanFr gml:id="K2_4702511775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.715455472 130.631500146</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702511778_1">
+<fid>47025-11778-i-1212</fid>
+<lfSpanFr gml:id="K2_4702511778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.722130206 130.629726512</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702511784_1">
+<fid>47025-11784-i-815</fid>
+<lfSpanFr gml:id="K2_4702511784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.738337245 130.627600628</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702511784_2">
+<fid>47025-11784-i-816</fid>
+<lfSpanFr gml:id="K2_4702511784_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511784_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511784_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.733409467 130.632126801</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702511787_1">
+<fid>47025-11787-i-607</fid>
+<lfSpanFr gml:id="K2_4702511787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702511787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702511787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.744494774 130.632057321</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702811772_1">
+<fid>47028-11772-i-377</fid>
+<lfSpanFr gml:id="K2_4702811772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702811772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702811772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.700204103 130.634500745</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702811772_2">
+<fid>47028-11772-i-378</fid>
+<lfSpanFr gml:id="K2_4702811772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702811772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702811772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.706815546 130.637954425</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702811772_3">
+<fid>47028-11772-i-379</fid>
+<lfSpanFr gml:id="K2_4702811772_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702811772_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702811772_3-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.702114743 130.640636702</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702811778_1">
+<fid>47028-11778-i-670</fid>
+<lfSpanFr gml:id="K2_4702811778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702811778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702811778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.718850008 130.637700525</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702811781_1">
+<fid>47028-11781-i-1229</fid>
+<lfSpanFr gml:id="K2_4702811781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702811781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702811781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.731623157 130.640952496</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702811784_1">
+<fid>47028-11784-i-786</fid>
+<lfSpanFr gml:id="K2_4702811784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702811784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702811784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.740660074 130.638619620</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4702811787_1">
+<fid>47028-11787-i-725</fid>
+<lfSpanFr gml:id="K2_4702811787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4702811787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4702811787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.748273652 130.636680119</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703111760_1">
+<fid>47031-11760-i-748</fid>
+<lfSpanFr gml:id="K2_4703111760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703111760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703111760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.668646585 130.644881874</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>101</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703111763_1">
+<fid>47031-11763-i-805</fid>
+<lfSpanFr gml:id="K2_4703111763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703111763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703111763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.679747480 130.641723568</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703111763_2">
+<fid>47031-11763-i-806</fid>
+<lfSpanFr gml:id="K2_4703111763_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703111763_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703111763_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.681947205 130.647381195</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703111763_3">
+<fid>47031-11763-i-807</fid>
+<lfSpanFr gml:id="K2_4703111763_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703111763_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703111763_3-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.675552726 130.647772567</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703111769_1">
+<fid>47031-11769-i-452</fid>
+<lfSpanFr gml:id="K2_4703111769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703111769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703111769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.695114237 130.647047370</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703111784_1">
+<fid>47031-11784-i-1101</fid>
+<lfSpanFr gml:id="K2_4703111784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703111784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703111784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.737338187 130.643101095</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703111787_1">
+<fid>47031-11787-i-812</fid>
+<lfSpanFr gml:id="K2_4703111787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703111787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703111787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.745211780 130.643379090</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703111787_2">
+<fid>47031-11787-i-813</fid>
+<lfSpanFr gml:id="K2_4703111787_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703111787_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703111787_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.749130435 130.649877730</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703411760_1">
+<fid>47034-11760-i-883</fid>
+<lfSpanFr gml:id="K2_4703411760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703411760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703411760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.673617374 130.657483617</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703411772_1">
+<fid>47034-11772-i-518</fid>
+<lfSpanFr gml:id="K2_4703411772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703411772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703411772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.704534077 130.653209522</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703411778_1">
+<fid>47034-11778-i-369</fid>
+<lfSpanFr gml:id="K2_4703411778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703411778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703411778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.716711147 130.652381325</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703411778_2">
+<fid>47034-11778-i-370</fid>
+<lfSpanFr gml:id="K2_4703411778_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703411778_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703411778_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.720980339 130.657795175</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703411781_1">
+<fid>47034-11781-i-1129</fid>
+<lfSpanFr gml:id="K2_4703411781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703411781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703411781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.733126911 130.650927090</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703411787_1">
+<fid>47034-11787-i-798</fid>
+<lfSpanFr gml:id="K2_4703411787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703411787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703411787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.743207483 130.654075873</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703711763_1">
+<fid>47037-11763-i-1087</fid>
+<lfSpanFr gml:id="K2_4703711763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703711763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703711763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.677162913 130.662884586</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703711769_1">
+<fid>47037-11769-i-992</fid>
+<lfSpanFr gml:id="K2_4703711769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703711769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703711769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.697262310 130.664194769</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703711775_1">
+<fid>47037-11775-i-465</fid>
+<lfSpanFr gml:id="K2_4703711775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703711775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703711775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.712367843 130.665191993</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703711784_1">
+<fid>47037-11784-i-581</fid>
+<lfSpanFr gml:id="K2_4703711784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703711784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703711784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.739311615 130.661581294</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4703711787_1">
+<fid>47037-11787-i-1172</fid>
+<lfSpanFr gml:id="K2_4703711787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4703711787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4703711787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.744936802 130.660819458</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704011781_1">
+<fid>47040-11781-i-950</fid>
+<lfSpanFr gml:id="K2_4704011781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704011781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704011781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.731775467 130.673672249</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>6</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704011784_1">
+<fid>47040-11784-i-1524</fid>
+<lfSpanFr gml:id="K2_4704011784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704011784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704011784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.734715173 130.669127928</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704311763_1">
+<fid>47043-11763-i-1850</fid>
+<lfSpanFr gml:id="K2_4704311763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704311763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704311763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.679850823 130.676098442</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704311766_1">
+<fid>47043-11766-i-943</fid>
+<lfSpanFr gml:id="K2_4704311766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704311766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704311766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.686732728 130.680493629</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704311769_1">
+<fid>47043-11769-i-1274</fid>
+<lfSpanFr gml:id="K2_4704311769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704311769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704311769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.692608077 130.680121356</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704311772_1">
+<fid>47043-11772-i-568</fid>
+<lfSpanFr gml:id="K2_4704311772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704311772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704311772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.701903827 130.680539565</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704311784_1">
+<fid>47043-11784-i-1635</fid>
+<lfSpanFr gml:id="K2_4704311784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704311784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704311784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.740076737 130.678805805</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704611760_1">
+<fid>47046-11760-i-1937</fid>
+<lfSpanFr gml:id="K2_4704611760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704611760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704611760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.667684266 130.687850153</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>12</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704611760_2">
+<fid>47046-11760-i-1938</fid>
+<lfSpanFr gml:id="K2_4704611760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704611760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704611760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.673047859 130.689611215</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>55</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704611766_1">
+<fid>47046-11766-i-1119</fid>
+<lfSpanFr gml:id="K2_4704611766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704611766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704611766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.688260086 130.687696583</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>30</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704611769_1">
+<fid>47046-11769-i-279</fid>
+<lfSpanFr gml:id="K2_4704611769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704611769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704611769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.697926339 130.685985136</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>42</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704611775_1">
+<fid>47046-11775-i-312</fid>
+<lfSpanFr gml:id="K2_4704611775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704611775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704611775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.713170808 130.689716008</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704611778_1">
+<fid>47046-11778-i-412</fid>
+<lfSpanFr gml:id="K2_4704611778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704611778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704611778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.721870396 130.686813009</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>2</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704611787_1">
+<fid>47046-11787-i-2269</fid>
+<lfSpanFr gml:id="K2_4704611787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704611787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704611787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.742235430 130.688413264</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911760_1">
+<fid>47049-11760-i-1962</fid>
+<lfSpanFr gml:id="K2_4704911760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.673142629 130.694928773</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>66</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911763_1">
+<fid>47049-11763-i-1224</fid>
+<lfSpanFr gml:id="K2_4704911763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.680842312 130.694164987</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>46</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911766_1">
+<fid>47049-11766-i-416</fid>
+<lfSpanFr gml:id="K2_4704911766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.685876180 130.695112514</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>52</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911769_1">
+<fid>47049-11769-i-100</fid>
+<lfSpanFr gml:id="K2_4704911769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.698615927 130.693308897</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>30</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911769_2">
+<fid>47049-11769-i-101</fid>
+<lfSpanFr gml:id="K2_4704911769_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.692831699 130.696225324</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>265</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911772_1">
+<fid>47049-11772-i-406</fid>
+<lfSpanFr gml:id="K2_4704911772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.701972598 130.699010033</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>109</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911775_1">
+<fid>47049-11775-i-496</fid>
+<lfSpanFr gml:id="K2_4704911775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.711919608 130.697377430</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911781_1">
+<fid>47049-11781-i-620</fid>
+<lfSpanFr gml:id="K2_4704911781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.727440892 130.699242272</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911784_1">
+<fid>47049-11784-i-1466</fid>
+<lfSpanFr gml:id="K2_4704911784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.736864651 130.696092079</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>9</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4704911787_1">
+<fid>47049-11787-i-1029</fid>
+<lfSpanFr gml:id="K2_4704911787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4704911787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K2_4704911787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.748080026 130.692309753</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705211760_1">
+<fid>47052-11760-i-1531</fid>
+<lfSpanFr gml:id="K2_4705211760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705211760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705211760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.673130734 130.700533257</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>38</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705211760_2">
+<fid>47052-11760-i-1532</fid>
+<lfSpanFr gml:id="K2_4705211760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705211760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705211760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.668305525 130.703384913</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>18</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705211766_1">
+<fid>47052-11766-i-85</fid>
+<lfSpanFr gml:id="K2_4705211766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705211766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705211766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.688100621 130.705220361</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>284</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705211769_1">
+<fid>47052-11769-i-58</fid>
+<lfSpanFr gml:id="K2_4705211769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705211769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705211769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.693319739 130.703334291</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>192</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705211781_1">
+<fid>47052-11781-i-1048</fid>
+<lfSpanFr gml:id="K2_4705211781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705211781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705211781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.726180146 130.705337090</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>3</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705211784_1">
+<fid>47052-11784-i-1955</fid>
+<lfSpanFr gml:id="K2_4705211784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705211784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705211784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.739587393 130.703535044</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705211787_1">
+<fid>47052-11787-i-756</fid>
+<lfSpanFr gml:id="K2_4705211787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705211787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705211787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.743240169 130.707610863</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705511763_1">
+<fid>47055-11763-i-279</fid>
+<lfSpanFr gml:id="K2_4705511763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705511763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705511763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.681071869 130.716571774</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>197</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705511766_1">
+<fid>47055-11766-i-252</fid>
+<lfSpanFr gml:id="K2_4705511766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705511766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705511766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.689200677 130.715547591</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>165</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705511775_1">
+<fid>47055-11775-i-1398</fid>
+<lfSpanFr gml:id="K2_4705511775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705511775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705511775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.716004618 130.709166697</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705511778_1">
+<fid>47055-11778-i-704</fid>
+<lfSpanFr gml:id="K2_4705511778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705511778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705511778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.720879252 130.712504460</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705511784_1">
+<fid>47055-11784-i-1274</fid>
+<lfSpanFr gml:id="K2_4705511784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705511784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705511784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.736782549 130.714369848</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>10</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811760_1">
+<fid>47058-11760-i-191</fid>
+<lfSpanFr gml:id="K2_4705811760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.674631624 130.716783260</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>35</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811760_2">
+<fid>47058-11760-i-192</fid>
+<lfSpanFr gml:id="K2_4705811760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.666847488 130.718590434</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>30</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811763_1">
+<fid>47058-11763-i-987</fid>
+<lfSpanFr gml:id="K2_4705811763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.678589492 130.723028797</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>50</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811769_1">
+<fid>47058-11769-i-1045</fid>
+<lfSpanFr gml:id="K2_4705811769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.697623110 130.718887918</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>23</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811772_1">
+<fid>47058-11772-i-1478</fid>
+<lfSpanFr gml:id="K2_4705811772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.707390329 130.722097686</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>6</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811775_1">
+<fid>47058-11775-i-435</fid>
+<lfSpanFr gml:id="K2_4705811775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.713843799 130.721430540</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>5</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811778_1">
+<fid>47058-11778-i-1025</fid>
+<lfSpanFr gml:id="K2_4705811778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.719499788 130.720850654</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>5</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811781_1">
+<fid>47058-11781-i-826</fid>
+<lfSpanFr gml:id="K2_4705811781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.729812644 130.716859610</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811784_1">
+<fid>47058-11784-i-1170</fid>
+<lfSpanFr gml:id="K2_4705811784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.741485166 130.719951950</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>5</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4705811787_1">
+<fid>47058-11787-i-1735</fid>
+<lfSpanFr gml:id="K2_4705811787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4705811787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4705811787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.747789954 130.716679463</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>4</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111760_1">
+<fid>47061-11760-i-1195</fid>
+<lfSpanFr gml:id="K2_4706111760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.670477495 130.729695866</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>62</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111763_1">
+<fid>47061-11763-i-1218</fid>
+<lfSpanFr gml:id="K2_4706111763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.679493076 130.729905130</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>44</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111766_1">
+<fid>47061-11766-i-1245</fid>
+<lfSpanFr gml:id="K2_4706111766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.688239310 130.728510886</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>26</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111769_1">
+<fid>47061-11769-i-1199</fid>
+<lfSpanFr gml:id="K2_4706111769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.695114070 130.726737451</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>9</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111769_2">
+<fid>47061-11769-i-1200</fid>
+<lfSpanFr gml:id="K2_4706111769_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.691703199 130.731046397</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>9</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111772_1">
+<fid>47061-11772-i-1975</fid>
+<lfSpanFr gml:id="K2_4706111772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.700554352 130.727573026</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>8</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111772_2">
+<fid>47061-11772-i-1976</fid>
+<lfSpanFr gml:id="K2_4706111772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.707205094 130.727916418</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>8</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111778_1">
+<fid>47061-11778-i-711</fid>
+<lfSpanFr gml:id="K2_4706111778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.722253561 130.732298633</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>5</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111781_1">
+<fid>47061-11781-i-686</fid>
+<lfSpanFr gml:id="K2_4706111781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.729738073 130.728303087</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>5</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111784_1">
+<fid>47061-11784-i-786</fid>
+<lfSpanFr gml:id="K2_4706111784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.734152583 130.732722450</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>8</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706111787_1">
+<fid>47061-11787-i-1521</fid>
+<lfSpanFr gml:id="K2_4706111787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706111787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706111787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.747978176 130.731402619</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>5.67</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706411763_1">
+<fid>47064-11763-i-997</fid>
+<lfSpanFr gml:id="K2_4706411763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706411763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706411763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.680480519 130.740918806</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>27</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706411769_1">
+<fid>47064-11769-i-1658</fid>
+<lfSpanFr gml:id="K2_4706411769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706411769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706411769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.695225607 130.736040990</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>9</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706411781_1">
+<fid>47064-11781-i-1168</fid>
+<lfSpanFr gml:id="K2_4706411781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706411781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706411781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.728256270 130.737995880</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>7</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706411784_1">
+<fid>47064-11784-i-1617</fid>
+<lfSpanFr gml:id="K2_4706411784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706411784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706411784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.738596254 130.738371856</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>6</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706411787_1">
+<fid>47064-11787-i-2321</fid>
+<lfSpanFr gml:id="K2_4706411787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706411787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706411787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.743647978 130.734097294</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>5.83</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711760_1">
+<fid>47067-11760-i-536</fid>
+<lfSpanFr gml:id="K2_4706711760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.670471269 130.746079534</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>106</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711760_2">
+<fid>47067-11760-i-537</fid>
+<lfSpanFr gml:id="K2_4706711760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.667988161 130.749728138</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>52</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711763_1">
+<fid>47067-11763-i-973</fid>
+<lfSpanFr gml:id="K2_4706711763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.679940772 130.747316584</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>37</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711766_1">
+<fid>47067-11766-i-1537</fid>
+<lfSpanFr gml:id="K2_4706711766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.688704883 130.745382766</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>15</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711766_2">
+<fid>47067-11766-i-1538</fid>
+<lfSpanFr gml:id="K2_4706711766_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711766_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711766_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.684405292 130.745743148</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>35</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711769_1">
+<fid>47067-11769-i-1347</fid>
+<lfSpanFr gml:id="K2_4706711769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.695179590 130.746375887</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>12</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711772_1">
+<fid>47067-11772-i-1430</fid>
+<lfSpanFr gml:id="K2_4706711772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.702529611 130.742077388</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>26</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711775_1">
+<fid>47067-11775-i-1184</fid>
+<lfSpanFr gml:id="K2_4706711775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.709709350 130.744467796</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>32</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711778_1">
+<fid>47067-11778-i-1351</fid>
+<lfSpanFr gml:id="K2_4706711778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.724906524 130.743118788</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>8</alti>
+</ElevPt>
+<ElevPt gml:id="K2_4706711778_2">
+<fid>47067-11778-i-1352</fid>
+<lfSpanFr gml:id="K2_4706711778_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K2_4706711778_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K2_4706711778_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.717704626 130.745524472</gml:pos>
+</gml:Point>
+</pos>
+<type>標高点（測点）</type>
+<alti>22</alti>
+</ElevPt>
+</Dataset>

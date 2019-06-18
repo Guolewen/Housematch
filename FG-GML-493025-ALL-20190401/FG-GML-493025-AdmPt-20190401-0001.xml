@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0401</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<AdmPt gml:id="K6_4702511826_1">
+<fid>47025-11826-i-729</fid>
+<lfSpanFr gml:id="K6_4702511826_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4702511826_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4702511826_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.857822896 130.626765695</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>玉名市</name>
+<admCode>43206</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4702811838_1">
+<fid>47028-11838-i-208</fid>
+<lfSpanFr gml:id="K6_4702811838_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4702811838_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4702811838_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.888653851 130.638437408</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>玉東町</name>
+<admCode>43364</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4703111823_1">
+<fid>47031-11823-i-1190</fid>
+<lfSpanFr gml:id="K6_4703111823_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4703111823_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4703111823_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.848768380 130.647772026</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市西区</name>
+<admCode>43103</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4704311820_1">
+<fid>47043-11820-i-1276</fid>
+<lfSpanFr gml:id="K6_4704311820_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4704311820_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4704311820_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.835629856 130.681172090</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市西区</name>
+<admCode>43103</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4704611832_1">
+<fid>47046-11832-i-2177</fid>
+<lfSpanFr gml:id="K6_4704611832_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4704611832_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4704611832_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.874808448 130.686926355</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市北区</name>
+<admCode>43105</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4704911820_1">
+<fid>47049-11820-i-2618</fid>
+<lfSpanFr gml:id="K6_4704911820_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4704911820_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4704911820_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.835639413 130.696937036</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市西区</name>
+<admCode>43103</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4704911844_1">
+<fid>47049-11844-i-2962</fid>
+<lfSpanFr gml:id="K6_4704911844_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4704911844_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<pos>
+<gml:Point gml:id="K6_4704911844_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.903602874 130.694070909</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>植木町</name>
+<admCode>43385</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4705211820_1">
+<fid>47052-11820-i-3360</fid>
+<lfSpanFr gml:id="K6_4705211820_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4705211820_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4705211820_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.833796572 130.701396291</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市西区</name>
+<admCode>43103</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4705211820_2">
+<fid>47052-11820-i-3361</fid>
+<lfSpanFr gml:id="K6_4705211820_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4705211820_2-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4705211820_2-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.833735876 130.702693231</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>熊本市西区</name>
+<admCode>43103</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4706411838_1">
+<fid>47064-11838-i-859</fid>
+<lfSpanFr gml:id="K6_4706411838_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4706411838_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4706411838_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.884962647 130.740028608</gml:pos>
+</gml:Point>
+</pos>
+<type>郡市・東京都の区</type>
+<name>合志市</name>
+<admCode>43216</admCode>
+</AdmPt>
+<AdmPt gml:id="K6_4706711829_1">
+<fid>47067-11829-i-6194</fid>
+<lfSpanFr gml:id="K6_4706711829_1-1">
+<gml:timePosition>2018-12-14</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K6_4706711829_1-2">
+<gml:timePosition>2019-03-24</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<vis>非表示</vis>
+<pos>
+<gml:Point gml:id="K6_4706711829_1-g" srsName="fguuid:jgd2011.bl">
+<gml:pos>32.858560452 130.749443439</gml:pos>
+</gml:Point>
+</pos>
+<type>町村・指定都市の区</type>
+<name>菊陽町</name>
+<admCode>43404</admCode>
+</AdmPt>
+</Dataset>

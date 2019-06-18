@@ -1,0 +1,5033 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0101</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<Cstline gml:id="K14_4699211760_1">
+<fid>46992-11760-s-230</fid>
+<lfSpanFr gml:id="K14_4699211760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666676763 130.539037204
+32.666667041 130.539029426
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_2">
+<fid>46992-11760-s-231</fid>
+<lfSpanFr gml:id="K14_4699211760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666750430 130.539121066
+32.666777156 130.539091236
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_3">
+<fid>46992-11760-s-232</fid>
+<lfSpanFr gml:id="K14_4699211760_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.668569885 130.541542289
+32.668369939 130.541326203
+32.667892298 130.540747334
+32.667155365 130.539671990
+32.667250564 130.539525878
+32.667046595 130.539248596
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_4">
+<fid>46992-11760-s-233</fid>
+<lfSpanFr gml:id="K14_4699211760_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.667046595 130.539248596
+32.667942074 130.538045649
+32.669034879 130.536581917
+32.668995855 130.536535796
+32.667801520 130.538169289
+32.666900338 130.539393807
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_5">
+<fid>46992-11760-s-234</fid>
+<lfSpanFr gml:id="K14_4699211760_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666777156 130.539091236
+32.667940294 130.537507462
+32.667916956 130.537480410
+32.667226926 130.538401248
+32.666829740 130.538926441
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_6">
+<fid>46992-11760-s-236</fid>
+<lfSpanFr gml:id="K14_4699211760_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666824392 130.539263018
+32.666750430 130.539121066
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_7">
+<fid>46992-11760-s-237</fid>
+<lfSpanFr gml:id="K14_4699211760_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666900338 130.539393807
+32.666824392 130.539263018
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_8">
+<fid>46992-11760-s-238</fid>
+<lfSpanFr gml:id="K14_4699211760_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.669799216 130.541368257
+32.669653705 130.541281629
+32.669528148 130.541228983
+32.668991494 130.541166585
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_9">
+<fid>46992-11760-s-239</fid>
+<lfSpanFr gml:id="K14_4699211760_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.670094393 130.541666667
+32.669996359 130.541544965
+32.669910557 130.541457197
+32.669799216 130.541368257
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_10">
+<fid>46992-11760-s-240</fid>
+<lfSpanFr gml:id="K14_4699211760_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.668991494 130.541166585
+32.670045988 130.539941186
+32.669994766 130.539887741
+32.668569885 130.541542289
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_11">
+<fid>46992-11760-s-241</fid>
+<lfSpanFr gml:id="K14_4699211760_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666667041 130.539029426
+32.666666667 130.539029127
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699211760_12">
+<fid>46992-11760-s-304</fid>
+<lfSpanFr gml:id="K14_4699211760_12-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699211760_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699211760_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.666829740 130.538926441
+32.666740811 130.539007675
+32.666676763 130.539037204
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511760_1">
+<fid>46995-11760-s-1045</fid>
+<lfSpanFr gml:id="K14_4699511760_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675000000 130.545126895
+32.674989390 130.545121376
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511760_2">
+<fid>46995-11760-s-1046</fid>
+<lfSpanFr gml:id="K14_4699511760_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674186222 130.544373918
+32.674113973 130.544413168
+32.674099862 130.544416001
+32.674066917 130.544337111
+32.674061417 130.544264666
+32.674020139 130.544209221
+32.673951000 130.544142248
+32.673869806 130.544123219
+32.673846416 130.544010302
+32.673678527 130.543853354
+32.673576027 130.543879881
+32.673561221 130.543792436
+32.673468471 130.543665268
+32.673393499 130.543620934
+32.673304721 130.543629655
+32.673283721 130.543551321
+32.673237971 130.543476876
+32.673202554 130.543437181
+32.673124110 130.543409068
+32.673113443 130.543345929
+32.672989943 130.543213649
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511760_3">
+<fid>46995-11760-s-1047</fid>
+<lfSpanFr gml:id="K14_4699511760_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511760_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511760_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.672989943 130.543213649
+32.672951748 130.543195010
+32.672854054 130.543236704
+32.672835471 130.543234676
+32.672719887 130.543078451
+32.672669303 130.543055395
+32.672601192 130.543055589
+32.672588803 130.543044255
+32.672584692 130.542992449
+32.672555109 130.542938616
+32.672418164 130.542822669
+32.672359331 130.542822279
+32.672283775 130.542852251
+32.672273442 130.542817445
+32.672255219 130.542796001
+32.672099664 130.542729026
+32.672048136 130.542736609
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511760_4">
+<fid>46995-11760-s-1048</fid>
+<lfSpanFr gml:id="K14_4699511760_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511760_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511760_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.674989390 130.545121376
+32.674916613 130.545120069
+32.674906696 130.545046124
+32.674854668 130.544930706
+32.674756307 130.544848288
+32.674688946 130.544855704
+32.674692779 130.544799787
+32.674670029 130.544751176
+32.674536917 130.544608034
+32.674473612 130.544609117
+32.674404667 130.544624894
+32.674393862 130.544539005
+32.674267167 130.544387947
+32.674186222 130.544373918
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511760_5">
+<fid>46995-11760-s-1049</fid>
+<lfSpanFr gml:id="K14_4699511760_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511760_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511760_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.670504943 130.542176332
+32.670095982 130.541668639
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511760_6">
+<fid>46995-11760-s-1050</fid>
+<lfSpanFr gml:id="K14_4699511760_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511760_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511760_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.672048136 130.542736609
+32.672026469 130.542679136
+32.671953191 130.542623691
+32.671867858 130.542587884
+32.671715108 130.542608716
+32.671670747 130.542503910
+32.671651469 130.542489743
+32.671539441 130.542467491
+32.671472358 130.542505935
+32.671456525 130.542458602
+32.671371219 130.542376211
+32.671282802 130.542342210
+32.671187858 130.542366709
+32.671152774 130.542298320
+32.671036830 130.542215957
+32.670990052 130.542216762
+32.670938108 130.542241039
+32.670910108 130.542240039
+32.670833719 130.542149538
+32.670734996 130.542154398
+32.670661719 130.542129092
+32.670610802 130.542133758
+32.670504943 130.542176332
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511760_7">
+<fid>46995-11760-s-1051</fid>
+<lfSpanFr gml:id="K14_4699511760_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511760_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511760_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.670095982 130.541668639
+32.670094393 130.541666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511763_1">
+<fid>46995-11763-s-289</fid>
+<lfSpanFr gml:id="K14_4699511763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.681885300 130.550000000
+32.681886306 130.549899966
+32.681754749 130.549728770
+32.681447497 130.549418181
+32.681151968 130.549427177
+32.680429768 130.548965776
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511763_2">
+<fid>46995-11763-s-290</fid>
+<lfSpanFr gml:id="K14_4699511763_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511763_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511763_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.679208704 130.548177617
+32.678807367 130.547904055
+32.676433626 130.546345820
+32.676281819 130.546238761
+32.676201624 130.546199510
+32.676101512 130.546191509
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511763_3">
+<fid>46995-11763-s-291</fid>
+<lfSpanFr gml:id="K14_4699511763_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511763_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511763_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.676101512 130.546191509
+32.675815427 130.546269810
+32.675675760 130.546355420
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511763_4">
+<fid>46995-11763-s-292</fid>
+<lfSpanFr gml:id="K14_4699511763_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511763_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511763_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.680429768 130.548965776
+32.679208704 130.548177617
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511763_5">
+<fid>46995-11763-s-293</fid>
+<lfSpanFr gml:id="K14_4699511763_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511763_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511763_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675706621 130.546237225
+32.675707982 130.546172031
+32.675678231 130.546108141
+32.675593314 130.546055306
+32.675549619 130.545910471
+32.675520119 130.545883165
+32.675453646 130.545855748
+32.675419867 130.545745219
+32.675371645 130.545674606
+32.675251366 130.545667716
+32.675262616 130.545588215
+32.675233115 130.545471881
+32.675152253 130.545381629
+32.675106059 130.545361740
+32.675110558 130.545320934
+32.675047502 130.545164182
+32.675016641 130.545135543
+32.675000390 130.545127098
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511763_6">
+<fid>46995-11763-s-294</fid>
+<lfSpanFr gml:id="K14_4699511763_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511763_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511763_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675675760 130.546355420
+32.675706621 130.546237225
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511763_7">
+<fid>46995-11763-s-295</fid>
+<lfSpanFr gml:id="K14_4699511763_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511763_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511763_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.682095873 130.550000000
+32.682098668 130.549840941
+32.682031112 130.549839496
+32.682028262 130.550000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699511763_8">
+<fid>46995-11763-s-296</fid>
+<lfSpanFr gml:id="K14_4699511763_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699511763_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699511763_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.675000390 130.545127098
+32.675000000 130.545126895
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811763_1">
+<fid>46998-11763-s-936</fid>
+<lfSpanFr gml:id="K14_4699811763_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811763_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811763_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.683333333 130.550829707
+32.682516143 130.550307535
+32.682345864 130.550182975
+32.682268364 130.550202058
+32.682248253 130.550229225
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811763_2">
+<fid>46998-11763-s-937</fid>
+<lfSpanFr gml:id="K14_4699811763_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811763_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811763_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.682028223 130.550002163
+32.682026307 130.550109553
+32.682201503 130.550288169
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811763_3">
+<fid>46998-11763-s-938</fid>
+<lfSpanFr gml:id="K14_4699811763_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811763_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811763_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.682248253 130.550229225
+32.682094585 130.550072554
+32.682095835 130.550002164
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811763_4">
+<fid>46998-11763-s-939</fid>
+<lfSpanFr gml:id="K14_4699811763_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811763_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811763_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.682201503 130.550288169
+32.682026002 130.550523003
+32.681880918 130.550437917
+32.681885278 130.550002161
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811763_5">
+<fid>46998-11763-s-940</fid>
+<lfSpanFr gml:id="K14_4699811763_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811763_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811763_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.681885278 130.550002161
+32.681885300 130.550000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811763_6">
+<fid>46998-11763-s-941</fid>
+<lfSpanFr gml:id="K14_4699811763_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811763_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811763_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.682095835 130.550002164
+32.682095873 130.550000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811763_7">
+<fid>46998-11763-s-942</fid>
+<lfSpanFr gml:id="K14_4699811763_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811763_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811763_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.682028262 130.550000000
+32.682028223 130.550002163
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_1">
+<fid>46998-11766-s-647</fid>
+<lfSpanFr gml:id="K14_4699811766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688531301 130.555804543
+32.688435606 130.555593733
+32.688223856 130.555260865
+32.688130856 130.555141918
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_2">
+<fid>46998-11766-s-648</fid>
+<lfSpanFr gml:id="K14_4699811766_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.686521406 130.552877008
+32.685991266 130.552525024
+32.685239903 130.552047953
+32.683333788 130.550829997
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_3">
+<fid>46998-11766-s-649</fid>
+<lfSpanFr gml:id="K14_4699811766_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.687564825 130.553933618
+32.687551297 130.553903395
+32.687370408 130.553988005
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_4">
+<fid>46998-11766-s-650</fid>
+<lfSpanFr gml:id="K14_4699811766_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688090161 130.555083417
+32.688140493 130.554559939
+32.688105188 130.554552299
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_5">
+<fid>46998-11766-s-651</fid>
+<lfSpanFr gml:id="K14_4699811766_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.687319936 130.553964893
+32.687048963 130.553524411
+32.686704795 130.553046345
+32.686617822 130.552955982
+32.686521406 130.552877008
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_6">
+<fid>46998-11766-s-652</fid>
+<lfSpanFr gml:id="K14_4699811766_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.687370408 130.553988005
+32.687342269 130.554001171
+32.687319936 130.553964893
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_7">
+<fid>46998-11766-s-653</fid>
+<lfSpanFr gml:id="K14_4699811766_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.689828194 130.558333333
+32.689466389 130.557772691
+32.689330332 130.557515103
+32.688531301 130.555804543
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_8">
+<fid>46998-11766-s-654</fid>
+<lfSpanFr gml:id="K14_4699811766_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688105188 130.554552299
+32.688112688 130.554429520
+32.688091298 130.554334796
+32.688017965 130.554208405
+32.687865742 130.554035067
+32.687724909 130.553935064
+32.687657131 130.553921730
+32.687564825 130.553933618
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_9">
+<fid>46998-11766-s-656</fid>
+<lfSpanFr gml:id="K14_4699811766_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.683333788 130.550829997
+32.683333333 130.550829707
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4699811766_10">
+<fid>46998-11766-s-949</fid>
+<lfSpanFr gml:id="K14_4699811766_10-1">
+<gml:timePosition>2018-07-26</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4699811766_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4699811766_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.688130856 130.555141918
+32.688089605 130.555089139
+32.688090161 130.555083417
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111766_1">
+<fid>47001-11766-s-639</fid>
+<lfSpanFr gml:id="K14_4700111766_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111766_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111766_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.690654114 130.559605619
+32.690641337 130.559593369
+32.689829723 130.558335703
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111766_2">
+<fid>47001-11766-s-640</fid>
+<lfSpanFr gml:id="K14_4700111766_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111766_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111766_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691666667 130.560576270
+32.690799198 130.559744706
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111766_3">
+<fid>47001-11766-s-641</fid>
+<lfSpanFr gml:id="K14_4700111766_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111766_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111766_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.690655003 130.559606480
+32.690654114 130.559605619
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111766_4">
+<fid>47001-11766-s-642</fid>
+<lfSpanFr gml:id="K14_4700111766_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111766_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111766_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.690799198 130.559744706
+32.690655003 130.559606480
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111766_5">
+<fid>47001-11766-s-643</fid>
+<lfSpanFr gml:id="K14_4700111766_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111766_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111766_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.689829723 130.558335703
+32.689828194 130.558333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_1">
+<fid>47001-11769-s-664</fid>
+<lfSpanFr gml:id="K14_4700111769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.697605328 130.566389335
+32.696681492 130.566027567
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_2">
+<fid>47001-11769-s-665</fid>
+<lfSpanFr gml:id="K14_4700111769_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694911430 130.562987050
+32.695455763 130.562439464
+32.695881459 130.562621583
+32.695905848 130.562548971
+32.695510124 130.562386020
+32.694626149 130.561056492
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_3">
+<fid>47001-11769-s-666</fid>
+<lfSpanFr gml:id="K14_4700111769_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.695382127 130.565165287
+32.695336072 130.565075229
+32.695286349 130.565100868
+32.695003014 130.563991707
+32.694937903 130.564016623
+32.695216432 130.565136368
+32.695121905 130.565425704
+32.694801376 130.565238558
+32.694511181 130.565024273
+32.694451903 130.564975633
+32.694535514 130.564872382
+32.694619764 130.564818021
+32.694681376 130.564792272
+32.694966376 130.564817053
+32.694972821 130.564740608
+32.694679820 130.564712576
+32.694596264 130.564739298
+32.694490931 130.564801575
+32.694395875 130.564929770
+32.694375459 130.564912242
+32.693943291 130.564459201
+32.694539513 130.563891005
+32.694808403 130.564038261
+32.694842875 130.563968649
+32.694600541 130.563832644
+32.694630236 130.563803560
+32.693551316 130.562150521
+32.693886066 130.561825021
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_4">
+<fid>47001-11769-s-667</fid>
+<lfSpanFr gml:id="K14_4700111769_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694410288 130.561169796
+32.693859177 130.561701630
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_5">
+<fid>47001-11769-s-668</fid>
+<lfSpanFr gml:id="K14_4700111769_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.698240558 130.566666667
+32.698024802 130.566567149
+32.697812996 130.566475451
+32.697605328 130.566389335
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_6">
+<fid>47001-11769-s-669</fid>
+<lfSpanFr gml:id="K14_4700111769_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.693950982 130.561823355
+32.694728874 130.562983159
+32.694797652 130.563096772
+32.694911430 130.562987050
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_7">
+<fid>47001-11769-s-670</fid>
+<lfSpanFr gml:id="K14_4700111769_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.693886066 130.561825021
+32.693926038 130.561786159
+32.693950982 130.561823355
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_8">
+<fid>47001-11769-s-671</fid>
+<lfSpanFr gml:id="K14_4700111769_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691711283 130.560619034
+32.691667144 130.560576728
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_9">
+<fid>47001-11769-s-672</fid>
+<lfSpanFr gml:id="K14_4700111769_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.693859177 130.561701630
+32.693824510 130.561735102
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_10">
+<fid>47001-11769-s-673</fid>
+<lfSpanFr gml:id="K14_4700111769_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.693105481 130.561477562
+32.692198450 130.560126256
+32.691873172 130.560431284
+32.691867144 130.560496590
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_11">
+<fid>47001-11769-s-674</fid>
+<lfSpanFr gml:id="K14_4700111769_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.693824510 130.561735102
+32.693509649 130.562038936
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_12">
+<fid>47001-11769-s-675</fid>
+<lfSpanFr gml:id="K14_4700111769_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.696681492 130.566027567
+32.696546325 130.565797284
+32.696354658 130.565603945
+32.696050212 130.565403938
+32.695858712 130.565311601
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_13">
+<fid>47001-11769-s-676</fid>
+<lfSpanFr gml:id="K14_4700111769_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.693509649 130.562038936
+32.693493038 130.562054963
+32.693105481 130.561477562
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_14">
+<fid>47001-11769-s-677</fid>
+<lfSpanFr gml:id="K14_4700111769_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691867144 130.560496590
+32.691866422 130.560504423
+32.691830367 130.560517673
+32.691716394 130.560623923
+32.691711283 130.560619034
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_15">
+<fid>47001-11769-s-678</fid>
+<lfSpanFr gml:id="K14_4700111769_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.695858712 130.565311601
+32.696612712 130.564687571
+32.696571129 130.564626181
+32.695779823 130.565273543
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_16">
+<fid>47001-11769-s-679</fid>
+<lfSpanFr gml:id="K14_4700111769_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.695779823 130.565273543
+32.695746045 130.565257265
+32.695509378 130.565183927
+32.695382127 130.565165287
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_17">
+<fid>47001-11769-s-680</fid>
+<lfSpanFr gml:id="K14_4700111769_17-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_17-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_17-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.694626149 130.561056492
+32.695017621 130.560684964
+32.694971121 130.560625518
+32.694575288 130.561000796
+32.694410288 130.561169796
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700111769_18">
+<fid>47001-11769-s-681</fid>
+<lfSpanFr gml:id="K14_4700111769_18-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700111769_18-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700111769_18-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.691667144 130.560576728
+32.691666667 130.560576270
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411769_1">
+<fid>47004-11769-s-621</fid>
+<lfSpanFr gml:id="K14_4700411769_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411769_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411769_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700000000 130.569700864
+32.699613004 130.568702651
+32.699299224 130.567923022
+32.699221890 130.567795630
+32.698936305 130.567372147
+32.698686415 130.567066944
+32.698548359 130.566917134
+32.698422247 130.566801631
+32.698278247 130.566684043
+32.698246191 130.566669265
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411769_2">
+<fid>47004-11769-s-622</fid>
+<lfSpanFr gml:id="K14_4700411769_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411769_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411769_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.698246191 130.566669265
+32.698240558 130.566666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_1">
+<fid>47004-11772-s-236</fid>
+<lfSpanFr gml:id="K14_4700411772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701337852 130.572661740
+32.701330713 130.572500738
+32.701329824 130.572499376
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_2">
+<fid>47004-11772-s-237</fid>
+<lfSpanFr gml:id="K14_4700411772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701555720 130.575000000
+32.701537136 130.574918893
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_3">
+<fid>47004-11772-s-238</fid>
+<lfSpanFr gml:id="K14_4700411772_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700942183 130.572342453
+32.700810348 130.571836220
+32.700629486 130.571324542
+32.700000508 130.569702174
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_4">
+<fid>47004-11772-s-239</fid>
+<lfSpanFr gml:id="K14_4700411772_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701222909 130.573568033
+32.701212604 130.573523782
+32.701370271 130.573492478
+32.701362242 130.573419671
+32.701400326 130.573409171
+32.701237296 130.572666628
+32.701337852 130.572661740
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_5">
+<fid>47004-11772-s-240</fid>
+<lfSpanFr gml:id="K14_4700411772_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701537136 130.574918893
+32.701526663 130.574873170
+32.701564108 130.574861448
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_6">
+<fid>47004-11772-s-241</fid>
+<lfSpanFr gml:id="K14_4700411772_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701564108 130.574861448
+32.701839414 130.574775255
+32.701947720 130.574705255
+32.701679077 130.573521509
+32.701240854 130.573645256
+32.701230437 130.573600478
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_7">
+<fid>47004-11772-s-242</fid>
+<lfSpanFr gml:id="K14_4700411772_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701251907 130.572409957
+32.701202740 130.572374678
+32.701078573 130.572341343
+32.700942183 130.572342453
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_8">
+<fid>47004-11772-s-243</fid>
+<lfSpanFr gml:id="K14_4700411772_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701329824 130.572499376
+32.701287185 130.572434680
+32.701251907 130.572409957
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_9">
+<fid>47004-11772-s-244</fid>
+<lfSpanFr gml:id="K14_4700411772_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701230437 130.573600478
+32.701222909 130.573568033
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_10">
+<fid>47004-11772-s-245</fid>
+<lfSpanFr gml:id="K14_4700411772_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>0</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701927439 130.573354481
+32.701994967 130.573374038
+32.702054411 130.573117367
+32.701940465 130.572612135
+32.701651408 130.572209625
+32.701516684 130.572075788
+32.701556101 130.571980564
+32.701992658 130.571817066
+32.701968352 130.571738009
+32.701510017 130.571914590
+32.701442101 130.572095315
+32.701592463 130.572261681
+32.701881104 130.572646079
+32.701982966 130.573116533
+32.701927439 130.573354481
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700411772_11">
+<fid>47004-11772-s-246</fid>
+<lfSpanFr gml:id="K14_4700411772_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700411772_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700411772_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.700000508 130.569702174
+32.700000000 130.569700864
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_1">
+<fid>47007-11772-s-472</fid>
+<lfSpanFr gml:id="K14_4700711772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703033790 130.579910124
+32.702723123 130.579690201
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_2">
+<fid>47007-11772-s-473</fid>
+<lfSpanFr gml:id="K14_4700711772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.704265243 130.583333333
+32.704119366 130.582642399
+32.703905504 130.582687092
+32.703769811 130.582050748
+32.703762839 130.582030581
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_3">
+<fid>47007-11772-s-474</fid>
+<lfSpanFr gml:id="K14_4700711772_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703459672 130.582036244
+32.703252977 130.582096104
+32.703241644 130.582050353
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_4">
+<fid>47007-11772-s-475</fid>
+<lfSpanFr gml:id="K14_4700711772_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.702673817 130.579655311
+32.702078824 130.577188823
+32.701580247 130.575106952
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_5">
+<fid>47007-11772-s-476</fid>
+<lfSpanFr gml:id="K14_4700711772_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701580247 130.575106952
+32.701556358 130.575002784
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_6">
+<fid>47007-11772-s-477</fid>
+<lfSpanFr gml:id="K14_4700711772_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703639200 130.581982162
+32.703592728 130.581997912
+32.703459672 130.582036244
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_7">
+<fid>47007-11772-s-478</fid>
+<lfSpanFr gml:id="K14_4700711772_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.702682734 130.579661617
+32.702675373 130.579656422
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_8">
+<fid>47007-11772-s-479</fid>
+<lfSpanFr gml:id="K14_4700711772_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.702723123 130.579690201
+32.702682734 130.579661617
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_9">
+<fid>47007-11772-s-480</fid>
+<lfSpanFr gml:id="K14_4700711772_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703206061 130.581888351
+32.703595034 130.581776547
+32.703640534 130.581768492
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_10">
+<fid>47007-11772-s-481</fid>
+<lfSpanFr gml:id="K14_4700711772_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.702675373 130.579656422
+32.702673817 130.579655311
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_11">
+<fid>47007-11772-s-482</fid>
+<lfSpanFr gml:id="K14_4700711772_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703743868 130.581785271
+32.703812562 130.581798966
+32.704328146 130.582065559
+32.704520979 130.582155757
+32.704711199 130.582926659
+32.704778060 130.582904826
+32.704575758 130.582094173
+32.704348063 130.581977419
+32.704441787 130.581566080
+32.704445954 130.581448495
+32.704422149 130.581361688
+32.704211816 130.580996625
+32.704094955 130.580883011
+32.705818149 130.575106860
+32.705751844 130.575081053
+32.704047678 130.580808454
+32.704021789 130.580698202
+32.704003040 130.580540894
+32.704003041 130.580296390
+32.703994708 130.580178777
+32.703961986 130.580121359
+32.703892986 130.580076580
+32.703163484 130.579978904
+32.703033790 130.579910124
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_12">
+<fid>47007-11772-s-483</fid>
+<lfSpanFr gml:id="K14_4700711772_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703645450 130.581980051
+32.703639200 130.581982162
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_13">
+<fid>47007-11772-s-484</fid>
+<lfSpanFr gml:id="K14_4700711772_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703762839 130.582030581
+32.703738284 130.581959774
+32.703645450 130.581980051
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_14">
+<fid>47007-11772-s-485</fid>
+<lfSpanFr gml:id="K14_4700711772_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703640534 130.581768492
+32.703743868 130.581785271
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_15">
+<fid>47007-11772-s-486</fid>
+<lfSpanFr gml:id="K14_4700711772_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703241644 130.582050353
+32.703201783 130.581889628
+32.703206061 130.581888351
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4700711772_16">
+<fid>47007-11772-s-487</fid>
+<lfSpanFr gml:id="K14_4700711772_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4700711772_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4700711772_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.701556358 130.575002784
+32.701555720 130.575000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_1">
+<fid>47010-11772-s-767</fid>
+<lfSpanFr gml:id="K14_4701011772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706591779 130.590704489
+32.706516251 130.590711877
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_2">
+<fid>47010-11772-s-768</fid>
+<lfSpanFr gml:id="K14_4701011772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.705605003 130.590299724
+32.705523475 130.590237777
+32.705317615 130.590020772
+32.704356927 130.588451683
+32.704109158 130.586194646
+32.704111824 130.586171063
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_3">
+<fid>47010-11772-s-769</fid>
+<lfSpanFr gml:id="K14_4701011772_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.703638583 130.583715160
+32.704304390 130.583518803
+32.704265863 130.583336272
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_4">
+<fid>47010-11772-s-770</fid>
+<lfSpanFr gml:id="K14_4701011772_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708333333 130.589818316
+32.707979809 130.590161326
+32.707566891 130.590472827
+32.707403863 130.590563132
+32.707139807 130.590633659
+32.706954112 130.590674047
+32.706591779 130.590704489
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_5">
+<fid>47010-11772-s-771</fid>
+<lfSpanFr gml:id="K14_4701011772_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706516251 130.590711877
+32.706462640 130.590717099
+32.706454307 130.590711293
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_6">
+<fid>47010-11772-s-772</fid>
+<lfSpanFr gml:id="K14_4701011772_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706454307 130.590711293
+32.706446057 130.590705543
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_7">
+<fid>47010-11772-s-773</fid>
+<lfSpanFr gml:id="K14_4701011772_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.704056215 130.585685666
+32.704058271 130.585662305
+32.704036938 130.585486358
+32.703638583 130.583715160
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_8">
+<fid>47010-11772-s-774</fid>
+<lfSpanFr gml:id="K14_4701011772_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706446057 130.590705543
+32.706321640 130.590618929
+32.705760280 130.590385476
+32.705605003 130.590299724
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_9">
+<fid>47010-11772-s-775</fid>
+<lfSpanFr gml:id="K14_4701011772_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.704111824 130.586171063
+32.704187102 130.586182758
+32.704240047 130.586181370
+32.704282297 130.586110314
+32.704287658 130.586072146
+32.704339714 130.586012646
+32.704345659 130.585905200
+32.704299548 130.585863366
+32.704295076 130.585820671
+32.704223993 130.585682779
+32.704186799 130.585658806
+32.704142160 130.585673500
+32.704056215 130.585685666
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_10">
+<fid>47010-11772-s-776</fid>
+<lfSpanFr gml:id="K14_4701011772_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>0</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.705027260 130.588629442
+32.705515562 130.589530572
+32.705579868 130.589490933
+32.705094066 130.588585914
+32.705027260 130.588629442
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_11">
+<fid>47010-11772-s-777</fid>
+<lfSpanFr gml:id="K14_4701011772_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706761219 130.591523253
+32.706787706 130.591443279
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_12">
+<fid>47010-11772-s-778</fid>
+<lfSpanFr gml:id="K14_4701011772_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.707214330 130.591452394
+32.707541520 130.591666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_13">
+<fid>47010-11772-s-779</fid>
+<lfSpanFr gml:id="K14_4701011772_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706920465 130.591666667
+32.706895691 130.591651367
+32.706761219 130.591523253
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_14">
+<fid>47010-11772-s-780</fid>
+<lfSpanFr gml:id="K14_4701011772_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706814192 130.591363306
+32.706825776 130.591255527
+32.707065192 130.591367808
+32.707214330 130.591452394
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_15">
+<fid>47010-11772-s-781</fid>
+<lfSpanFr gml:id="K14_4701011772_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706787706 130.591443279
+32.706814192 130.591363306
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701011772_16">
+<fid>47010-11772-s-782</fid>
+<lfSpanFr gml:id="K14_4701011772_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011772_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011772_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.704265863 130.583336272
+32.704265243 130.583333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011775_1">
+<fid>47010-11775-s-115</fid>
+<lfSpanFr gml:id="K14_4701011775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708910785 130.591666667
+32.709034305 130.591510163
+32.709063472 130.591542469
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011775_2">
+<fid>47010-11775-s-116</fid>
+<lfSpanFr gml:id="K14_4701011775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708453452 130.589701768
+32.708333812 130.589817852
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011775_3">
+<fid>47010-11775-s-117</fid>
+<lfSpanFr gml:id="K14_4701011775_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011775_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011775_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.709033279 130.591156019
+32.708993641 130.591158351
+32.709123921 130.590798181
+32.709217951 130.590513288
+32.709219119 130.590240284
+32.709192370 130.590131421
+32.709043621 130.589865415
+32.708915704 130.589741162
+32.708774676 130.589674659
+32.708587619 130.589668352
+32.708453452 130.589701768
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011775_4">
+<fid>47010-11775-s-118</fid>
+<lfSpanFr gml:id="K14_4701011775_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011775_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011775_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712318545 130.591314252
+32.712307156 130.591207583
+32.712245212 130.591140915
+32.712205768 130.591134248
+32.712171879 130.591114247
+32.712160491 130.591000911
+32.712036601 130.590954520
+32.712002712 130.590954520
+32.711991601 130.590941186
+32.711963268 130.590947853
+32.711912434 130.590974519
+32.711929378 130.590994242
+32.711918267 130.591034243
+32.711918266 130.591127578
+32.711923821 130.591167578
+32.711985766 130.591234247
+32.711997154 130.591267581
+32.711985766 130.591274248
+32.711991598 130.591380916
+32.712036598 130.591407584
+32.712064654 130.591434251
+32.712160488 130.591420919
+32.712211321 130.591467587
+32.712284654 130.591487588
+32.712307155 130.591414254
+32.712318545 130.591314252
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011775_5">
+<fid>47010-11775-s-119</fid>
+<lfSpanFr gml:id="K14_4701011775_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011775_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011775_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.709063472 130.591542469
+32.709175580 130.591666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011775_6">
+<fid>47010-11775-s-120</fid>
+<lfSpanFr gml:id="K14_4701011775_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011775_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011775_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.709492033 130.591666667
+32.709491557 130.591604947
+32.709449891 130.591534224
+32.709390696 130.591476666
+32.709402308 130.591390887
+32.709379308 130.591322858
+32.709356697 130.591296246
+32.709272975 130.591250578
+32.709201585 130.591263161
+32.709134336 130.591174964
+32.709086141 130.591152908
+32.709033279 130.591156019
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701011775_7">
+<fid>47010-11775-s-121</fid>
+<lfSpanFr gml:id="K14_4701011775_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701011775_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701011775_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708333812 130.589817852
+32.708333333 130.589818316
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311772_1">
+<fid>47013-11772-s-1172</fid>
+<lfSpanFr gml:id="K14_4701311772_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311772_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311772_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708333333 130.592706503
+32.708286489 130.592770979
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311772_2">
+<fid>47013-11772-s-1173</fid>
+<lfSpanFr gml:id="K14_4701311772_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311772_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311772_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.707388853 130.592392466
+32.707427271 130.592198324
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701311772_3">
+<fid>47013-11772-s-1174</fid>
+<lfSpanFr gml:id="K14_4701311772_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311772_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311772_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.707427271 130.592198324
+32.707465688 130.592004183
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701311772_4">
+<fid>47013-11772-s-1175</fid>
+<lfSpanFr gml:id="K14_4701311772_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311772_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311772_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708286489 130.592770979
+32.708220628 130.592746506
+32.708164072 130.592767006
+32.707707519 130.592506859
+32.707388853 130.592392466
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311772_5">
+<fid>47013-11772-s-1176</fid>
+<lfSpanFr gml:id="K14_4701311772_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311772_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311772_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.707546246 130.591669762
+32.707627912 130.591723236
+32.707914105 130.591931491
+32.708333333 130.591908492
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311772_6">
+<fid>47013-11772-s-1177</fid>
+<lfSpanFr gml:id="K14_4701311772_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311772_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311772_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.707465688 130.592004183
+32.707471633 130.591887987
+32.707003968 130.591718230
+32.706925468 130.591669756
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311772_7">
+<fid>47013-11772-s-1178</fid>
+<lfSpanFr gml:id="K14_4701311772_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311772_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311772_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.707541520 130.591666667
+32.707546246 130.591669762
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311772_8">
+<fid>47013-11772-s-1179</fid>
+<lfSpanFr gml:id="K14_4701311772_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311772_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311772_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.706925468 130.591669756
+32.706920465 130.591666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_1">
+<fid>47013-11775-s-334</fid>
+<lfSpanFr gml:id="K14_4701311775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712313643 130.600000000
+32.712252374 130.599781898
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_2">
+<fid>47013-11775-s-335</fid>
+<lfSpanFr gml:id="K14_4701311775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708583883 130.592080833
+32.708908331 130.591669775
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_3">
+<fid>47013-11775-s-336</fid>
+<lfSpanFr gml:id="K14_4701311775_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712022934 130.599087660
+32.711341308 130.596895335
+32.711068588 130.596517991
+32.710373063 130.595607633
+32.709652206 130.594662192
+32.709029736 130.593836032
+32.709182098 130.593693560
+32.709136710 130.593630558
+32.708982402 130.593767753
+32.708336822 130.592842425
+32.708457046 130.592676007
+32.708399129 130.592619478
+32.708340989 130.592695979
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_4">
+<fid>47013-11775-s-337</fid>
+<lfSpanFr gml:id="K14_4701311775_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712135849 130.599450779
+32.712022934 130.599087660
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_5">
+<fid>47013-11775-s-338</fid>
+<lfSpanFr gml:id="K14_4701311775_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.709178388 130.591669778
+32.709393082 130.591907590
+32.709627165 130.592170319
+32.709175489 130.593334471
+32.709242851 130.593370361
+32.709339019 130.593133469
+32.709554047 130.593242641
+32.709584409 130.593161334
+32.709363103 130.593054163
+32.709707304 130.592150264
+32.709432277 130.591828061
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_6">
+<fid>47013-11775-s-339</fid>
+<lfSpanFr gml:id="K14_4701311775_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712252374 130.599781898
+32.712455263 130.599851708
+32.712480625 130.599778068
+32.712224014 130.599680923
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_7">
+<fid>47013-11775-s-340</fid>
+<lfSpanFr gml:id="K14_4701311775_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.709432277 130.591828061
+32.709467445 130.591756672
+32.709492140 130.591680532
+32.709492056 130.591669782
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_8">
+<fid>47013-11775-s-341</fid>
+<lfSpanFr gml:id="K14_4701311775_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708340989 130.592695979
+32.708333795 130.592705868
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_9">
+<fid>47013-11775-s-342</fid>
+<lfSpanFr gml:id="K14_4701311775_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712224014 130.599680923
+32.712179876 130.599560226
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_10">
+<fid>47013-11775-s-343</fid>
+<lfSpanFr gml:id="K14_4701311775_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712179876 130.599560226
+32.712135849 130.599450779
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_11">
+<fid>47013-11775-s-344</fid>
+<lfSpanFr gml:id="K14_4701311775_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708333799 130.591908467
+32.708411550 130.591904190
+32.708524966 130.592109889
+32.708583883 130.592080833
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_12">
+<fid>47013-11775-s-345</fid>
+<lfSpanFr gml:id="K14_4701311775_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708908331 130.591669775
+32.708910785 130.591666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_13">
+<fid>47013-11775-s-346</fid>
+<lfSpanFr gml:id="K14_4701311775_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.709175580 130.591666667
+32.709178388 130.591669778
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_14">
+<fid>47013-11775-s-347</fid>
+<lfSpanFr gml:id="K14_4701311775_14-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_14-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_14-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.709492056 130.591669782
+32.709492033 130.591666667
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_15">
+<fid>47013-11775-s-348</fid>
+<lfSpanFr gml:id="K14_4701311775_15-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_15-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_15-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708333795 130.592705868
+32.708333333 130.592706503
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701311775_16">
+<fid>47013-11775-s-349</fid>
+<lfSpanFr gml:id="K14_4701311775_16-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701311775_16-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701311775_16-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.708333333 130.591908492
+32.708333799 130.591908467
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611775_1">
+<fid>47016-11775-s-711</fid>
+<lfSpanFr gml:id="K14_4701611775_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611775_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611775_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712594601 130.601257479
+32.712588573 130.601165284
+32.712213762 130.600186070
+32.712343262 130.600105404
+32.712314568 130.600003291
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611775_2">
+<fid>47016-11775-s-712</fid>
+<lfSpanFr gml:id="K14_4701611775_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611775_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611775_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716666667 130.607718436
+32.715787005 130.607557772
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611775_3">
+<fid>47016-11775-s-745</fid>
+<lfSpanFr gml:id="K14_4701611775_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611775_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611775_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.715787005 130.607557772
+32.715404908 130.607487985
+32.712987320 130.607046427
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611775_4">
+<fid>47016-11775-s-772</fid>
+<lfSpanFr gml:id="K14_4701611775_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611775_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611775_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712314568 130.600003291
+32.712313643 130.600000000
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611775_5">
+<fid>47016-11775-s-784</fid>
+<lfSpanFr gml:id="K14_4701611775_5-1">
+<gml:timePosition>2018-02-09</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611775_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611775_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.712987320 130.607046427
+32.712900396 130.605662291
+32.712594601 130.601257479
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_1">
+<fid>47016-11778-s-593</fid>
+<lfSpanFr gml:id="K14_4701611778_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.725000000 130.605535971
+32.724965261 130.605530946
+32.724669812 130.605490528
+32.724348084 130.605450026
+32.724071274 130.605408885
+32.723770102 130.605364217
+32.723416791 130.605313076
+32.723090202 130.605263740
+32.722797225 130.605221266
+32.722510942 130.605177403
+32.722203215 130.605134374
+32.721927766 130.605094094
+32.721757152 130.605071371
+32.721652623 130.605150788
+32.721618150 130.605144204
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_2">
+<fid>47016-11778-s-594</fid>
+<lfSpanFr gml:id="K14_4701611778_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.717822514 130.607929539
+32.716667133 130.607718521
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_3">
+<fid>47016-11778-s-595</fid>
+<lfSpanFr gml:id="K14_4701611778_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.721618150 130.605144204
+32.721570677 130.605135371
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_4">
+<fid>47016-11778-s-596</fid>
+<lfSpanFr gml:id="K14_4701611778_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718225657 130.607391926
+32.718226602 130.607441621
+32.718225935 130.607457316
+32.718223268 130.607471288
+32.718220407 130.607480371
+32.718215018 130.607485733
+32.718204657 130.607490260
+32.718158795 130.607496010
+32.718142823 130.607499704
+32.718131128 130.607506704
+32.718124489 130.607513121
+32.718117572 130.607525732
+32.718109239 130.607545399
+32.718058294 130.607631066
+32.718039572 130.607642455
+32.718022766 130.607657261
+32.717962321 130.607738178
+32.717904709 130.607805511
+32.717851986 130.607899623
+32.717833069 130.607930873
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_5">
+<fid>47016-11778-s-597</fid>
+<lfSpanFr gml:id="K14_4701611778_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.717833069 130.607930873
+32.717822514 130.607929539
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_6">
+<fid>47016-11778-s-606</fid>
+<lfSpanFr gml:id="K14_4701611778_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718256435 130.607230925
+32.718225657 130.607391926
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_7">
+<fid>47016-11778-s-722</fid>
+<lfSpanFr gml:id="K14_4701611778_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.721570677 130.605135371
+32.721569510 130.605135148
+32.721510509 130.605129315
+32.721471925 130.605129064
+32.721438369 130.605129536
+32.721421952 130.605132481
+32.721401979 130.605139509
+32.721382840 130.605112619
+32.721347312 130.605142397
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_8">
+<fid>47016-11778-s-744</fid>
+<lfSpanFr gml:id="K14_4701611778_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.716667133 130.607718521
+32.716666667 130.607718436
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_9">
+<fid>47016-11778-s-759</fid>
+<lfSpanFr gml:id="K14_4701611778_9-1">
+<gml:timePosition>2018-02-09</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.721347312 130.605142397
+32.721030724 130.605407647
+32.720487328 130.605902565
+32.719845125 130.606472927
+32.719252034 130.606996234
+32.719207977 130.607034345
+32.718914390 130.607288401
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611778_10">
+<fid>47016-11778-s-760</fid>
+<lfSpanFr gml:id="K14_4701611778_10-1">
+<gml:timePosition>2018-02-09</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611778_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611778_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718914390 130.607288401
+32.718891862 130.607260984
+32.718853639 130.607213789
+32.718824999 130.607196205
+32.718793777 130.607184511
+32.718754276 130.607182427
+32.718677747 130.607166871
+32.718674052 130.607166149
+32.718171044 130.607064118
+32.718164155 130.607135841
+32.718165711 130.607143313
+32.718172127 130.607149563
+32.718184517 130.607155813
+32.718260240 130.607176175
+32.718256435 130.607230925
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611781_1">
+<fid>47016-11781-s-1048</fid>
+<lfSpanFr gml:id="K14_4701611781_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611781_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611781_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.729885587 130.606222531
+32.729588303 130.606179557
+32.729328936 130.606144417
+32.729054209 130.606106915
+32.728786425 130.606069136
+32.728506280 130.606028968
+32.728250692 130.605993383
+32.727975880 130.605953853
+32.727721708 130.605919213
+32.727441230 130.605878961
+32.727134835 130.605835487
+32.726839079 130.605795930
+32.726541183 130.605752428
+32.726273483 130.605714038
+32.725955449 130.605671786
+32.725583302 130.605620200
+32.725275462 130.605575976
+32.725000595 130.605536057
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611781_2">
+<fid>47016-11781-s-1050</fid>
+<lfSpanFr gml:id="K14_4701611781_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611781_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611781_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730014617 130.606242032
+32.729885587 130.606222531
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611781_3">
+<fid>47016-11781-s-1222</fid>
+<lfSpanFr gml:id="K14_4701611781_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611781_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611781_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.733333333 130.604361979
+32.733279156 130.604344175
+32.733062040 130.604271312
+32.732867147 130.604211561
+32.732639392 130.604137781
+32.732434110 130.604073169
+32.732232272 130.604009195
+32.732189466 130.603995528
+32.732014351 130.603939416
+32.731787762 130.603865414
+32.731606314 130.603807329
+32.731463505 130.603761440
+32.731342725 130.603725578
+32.731354475 130.603675161
+32.731339030 130.603670133
+32.731327197 130.603721078
+32.731247556 130.603692605
+32.731205333 130.603681271
+32.731172221 130.603678549
+32.731148249 130.603680882
+32.731127776 130.603687271
+32.731109970 130.603697382
+32.731093692 130.603716132
+32.731083219 130.603737715
+32.731076608 130.603762076
+32.731070497 130.603794632
+32.731022302 130.604156440
+32.731055386 130.604177940
+32.730997774 130.604635721
+32.730958274 130.604641971
+32.730921662 130.604953250
+32.730876856 130.605301891
+32.730831467 130.605638921
+32.730806800 130.605825311
+32.730808411 130.605843228
+32.730814384 130.605857617
+32.730821634 130.605865700
+32.730834634 130.605872478
+32.730773661 130.606351370
+32.730445960 130.606304479
+32.730216427 130.606271339
+32.730034007 130.606243226
+32.730014617 130.606242032
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611781_4">
+<fid>47016-11781-s-1272</fid>
+<lfSpanFr gml:id="K14_4701611781_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611781_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611781_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.725000595 130.605536057
+32.725000000 130.605535971
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611784_1">
+<fid>47016-11784-s-910</fid>
+<lfSpanFr gml:id="K14_4701611784_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611784_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611784_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.741666667 130.607028803
+32.741629265 130.607017122
+32.741089338 130.606846424
+32.741078893 130.606844868
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611784_2">
+<fid>47016-11784-s-911</fid>
+<lfSpanFr gml:id="K14_4701611784_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611784_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611784_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.741078893 130.606844868
+32.740908973 130.606788311
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611784_3">
+<fid>47016-11784-s-912</fid>
+<lfSpanFr gml:id="K14_4701611784_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611784_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611784_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.734928689 130.604867076
+32.734862160 130.604842298
+32.734656350 130.604781018
+32.734425346 130.604708517
+32.734181507 130.604631904
+32.733960364 130.604562569
+32.733743082 130.604493873
+32.733491577 130.604413982
+32.733334101 130.604362231
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611784_4">
+<fid>47016-11784-s-913</fid>
+<lfSpanFr gml:id="K14_4701611784_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611784_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611784_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.740908973 130.606788311
+32.740491299 130.606656976
+32.740102152 130.606532778
+32.739736006 130.606415387
+32.739373194 130.606299301
+32.738980436 130.606175215
+32.738603095 130.606056935
+32.738400619 130.605993823
+32.738388063 130.605989406
+32.738382924 130.605987489
+32.737977305 130.605853236
+32.737726634 130.605772818
+32.737162511 130.605589731
+32.736863617 130.605492895
+32.736510387 130.605379198
+32.736153991 130.605272362
+32.736141686 130.605252584
+32.735846124 130.605161054
+32.735561785 130.605070747
+32.735108693 130.604922744
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611784_5">
+<fid>47016-11784-s-919</fid>
+<lfSpanFr gml:id="K14_4701611784_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611784_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611784_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.735108693 130.604922744
+32.734928689 130.604867076
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611784_6">
+<fid>47016-11784-s-1163</fid>
+<lfSpanFr gml:id="K14_4701611784_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611784_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611784_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.733334101 130.604362231
+32.733333333 130.604361979
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_1">
+<fid>47016-11787-s-739</fid>
+<lfSpanFr gml:id="K14_4701611787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745725109 130.606250249
+32.745729498 130.606275082
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_2">
+<fid>47016-11787-s-740</fid>
+<lfSpanFr gml:id="K14_4701611787_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.743952176 130.606461754
+32.743929315 130.606413087
+32.743832036 130.606478921
+32.743038862 130.607016259
+32.742689525 130.607252872
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_3">
+<fid>47016-11787-s-741</fid>
+<lfSpanFr gml:id="K14_4701611787_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.744190651 130.606410225
+32.744132345 130.606050556
+32.745121827 130.605347771
+32.745112160 130.605313243
+32.745144966 130.605300409
+32.744959076 130.604609849
+32.744865075 130.604650600
+32.745055104 130.605351049
+32.744062900 130.606053001
+32.744112178 130.606354447
+32.743952176 130.606461754
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_4">
+<fid>47016-11787-s-742</fid>
+<lfSpanFr gml:id="K14_4701611787_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.742689525 130.607252872
+32.742584413 130.607319511
+32.742559301 130.607334234
+32.742339161 130.607274261
+32.742344633 130.607243733
+32.742023186 130.607140039
+32.741667599 130.607029094
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_5">
+<fid>47016-11787-s-743</fid>
+<lfSpanFr gml:id="K14_4701611787_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745729498 130.606275082
+32.745784388 130.606564640
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_6">
+<fid>47016-11787-s-744</fid>
+<lfSpanFr gml:id="K14_4701611787_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745375522 130.606672669
+32.745342328 130.606494807
+32.745231078 130.605897914
+32.745424440 130.605846691
+32.745419746 130.605816746
+32.745223383 130.605865525
+32.745204661 130.605759968
+32.745195105 130.605762357
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_7">
+<fid>47016-11787-s-745</fid>
+<lfSpanFr gml:id="K14_4701611787_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745784388 130.606564640
+32.745815777 130.606730253
+32.746012139 130.607828206
+32.746040333 130.608020902
+32.746055250 130.608148236
+32.746056722 130.608158709
+32.746062222 130.608213737
+32.746062417 130.608254182
+32.746065660 130.608333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_8">
+<fid>47016-11787-s-746</fid>
+<lfSpanFr gml:id="K14_4701611787_8-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_8-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745056102 130.608139598
+32.745049324 130.608132598
+32.745171381 130.607917263
+32.745288632 130.607719650
+32.745327049 130.607601233
+32.745305993 130.607588621
+32.745373883 130.607413759
+32.745392883 130.607427981
+32.745401022 130.607407453
+32.745380855 130.607396231
+32.745449578 130.607222618
+32.745468106 130.607236091
+32.745478495 130.607215785
+32.745437495 130.607194174
+32.745455912 130.607138840
+32.745460106 130.607126006
+32.745428912 130.606959033
+32.745375522 130.606672669
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_9">
+<fid>47016-11787-s-845</fid>
+<lfSpanFr gml:id="K14_4701611787_9-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_9-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.750000000 130.605074229
+32.749970260 130.605075921
+32.749697063 130.605095700
+32.749426116 130.605112701
+32.749136808 130.605132424
+32.748837472 130.605153926
+32.748569414 130.605173565
+32.748328078 130.605192122
+32.748152604 130.605204011
+32.748138826 130.605204706
+32.747773212 130.605231179
+32.747423487 130.605257153
+32.747079900 130.605278626
+32.746777120 130.605299822
+32.746462200 130.605321489
+32.746203531 130.605337462
+32.746189642 130.605339879
+32.746183253 130.605344268
+32.746175892 130.605356907
+32.746167947 130.605383296
+32.746164031 130.605429519
+32.746164920 130.605454269
+32.746076836 130.605460408
+32.745928001 130.605470881
+32.745880556 130.605474187
+32.745874917 130.605431853
+32.745871334 130.605405631
+32.745867028 130.605387825
+32.745859973 130.605376325
+32.745852195 130.605370908
+32.745842806 130.605366686
+32.745830806 130.605365464
+32.745731805 130.605371881
+32.745721804 130.605372881
+32.745669860 130.605378436
+32.745657359 130.605382770
+32.745651248 130.605391853
+32.745647221 130.605404687
+32.745645832 130.605423464
+32.745646276 130.605447798
+32.745647221 130.605484826
+32.745573942 130.605440326
+32.745560553 130.605431104
+32.745552581 130.605421743
+32.745547609 130.605413659
+32.745544164 130.605402354
+32.745515497 130.605295686
+32.745313552 130.604543403
+32.745297607 130.604549459
+32.745528386 130.605408743
+32.745532747 130.605423131
+32.745539914 130.605434604
+32.745550331 130.605446826
+32.745565886 130.605457659
+32.745601831 130.605479465
+32.745582331 130.605558105
+32.745582442 130.605567383
+32.745599470 130.605590994
+32.745602442 130.605614577
+32.745604026 130.605627800
+32.745606776 130.605649966
+32.745615720 130.605648439
+32.745618609 130.605647994
+32.745631720 130.605724995
+32.745725109 130.606250249
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_10">
+<fid>47016-11787-s-846</fid>
+<lfSpanFr gml:id="K14_4701611787_10-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_10-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745195105 130.605762357
+32.745190938 130.605751468
+32.745180549 130.605748746
+32.745164160 130.605753524
+32.745148854 130.605764163
+32.745136466 130.605783080
+32.745132521 130.605793663
+32.745129493 130.605805636
+32.745125243 130.605825719
+32.745117354 130.605846469
+32.745105188 130.605873942
+32.745094076 130.605895858
+32.745079715 130.605922164
+32.745075187 130.605937776
+32.745073242 130.605954970
+32.745071965 130.605975776
+32.745073381 130.605996137
+32.745075965 130.606018221
+32.745081298 130.606044887
+32.745083854 130.606084999
+32.745086659 130.606116027
+32.745105382 130.606221583
+32.745116576 130.606280889
+32.745127465 130.606338139
+32.745136409 130.606397001
+32.745146048 130.606453835
+32.745157159 130.606518224
+32.745163187 130.606567391
+32.745169937 130.606617836
+32.745174965 130.606669364
+32.745168048 130.606674837
+32.745118964 130.606698226
+32.745080047 130.606717365
+32.745041242 130.606735782
+32.745014408 130.606746059
+32.744979574 130.606736809
+32.744952880 130.606736921
+32.744942629 130.606747643
+32.744937574 130.606772532
+32.744936379 130.606853311
+32.744933352 130.606894950
+32.744926657 130.606943200
+32.744884740 130.606718337
+32.744709266 130.606758477
+32.744660294 130.606467391
+32.744474848 130.606511948
+32.744476959 130.606525059
+32.744429125 130.606536476
+32.744427097 130.606523476
+32.744218484 130.606573588
+32.744190651 130.606410225
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_11">
+<fid>47016-11787-s-847</fid>
+<lfSpanFr gml:id="K14_4701611787_11-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_11-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_11-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745158602 130.608209376
+32.745107352 130.608174487
+32.745056102 130.608139598
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_12">
+<fid>47016-11787-s-848</fid>
+<lfSpanFr gml:id="K14_4701611787_12-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_12-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_12-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745683233 130.608333333
+32.745685580 130.608320599
+32.745522106 130.608210015
+32.745549939 130.608168292
+32.745592718 130.608092014
+32.745707053 130.607912762
+32.745670885 130.607883484
+32.745552606 130.608071153
+32.745492634 130.608184959
+32.745473744 130.608225598
+32.745446633 130.608208432
+32.745413299 130.608311349
+32.745386771 130.608301627
+32.745158602 130.608209376
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701611787_13">
+<fid>47016-11787-s-886</fid>
+<lfSpanFr gml:id="K14_4701611787_13-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701611787_13-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701611787_13-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.741667599 130.607029094
+32.741666667 130.607028803
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701911787_1">
+<fid>47019-11787-s-3506</fid>
+<lfSpanFr gml:id="K14_4701911787_1-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701911787_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701911787_1-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746065806 130.608336877
+32.746070139 130.608442489
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701911787_2">
+<fid>47019-11787-s-3507</fid>
+<lfSpanFr gml:id="K14_4701911787_2-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701911787_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701911787_2-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745733052 130.608382933
+32.745689163 130.608364127
+32.745678579 130.608359683
+32.745678413 130.608359572
+32.745682580 130.608336877
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701911787_3">
+<fid>47019-11787-s-3508</fid>
+<lfSpanFr gml:id="K14_4701911787_3-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701911787_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701911787_3-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745826664 130.608474934
+32.745799719 130.608477295
+32.745798747 130.608462572
+32.745796469 130.608454794
+32.745794108 130.608448600
+32.745790858 130.608442544
+32.745786608 130.608437322
+32.745781608 130.608432128
+32.745773386 130.608427155
+32.745736219 130.608415683
+32.745733136 130.608414628
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701911787_4">
+<fid>47019-11787-s-3845</fid>
+<lfSpanFr gml:id="K14_4701911787_4-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701911787_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701911787_4-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745733136 130.608414628
+32.745732136 130.608414294
+32.745733108 130.608406933
+32.745736108 130.608384183
+32.745733052 130.608382933
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701911787_5">
+<fid>47019-11787-s-3846</fid>
+<lfSpanFr gml:id="K14_4701911787_5-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701911787_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>25000</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701911787_5-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746070139 130.608442489
+32.745948401 130.608458711
+32.745826664 130.608474934
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>その他</type>
+</Cstline>
+<Cstline gml:id="K14_4701911787_6">
+<fid>47019-11787-s-4043</fid>
+<lfSpanFr gml:id="K14_4701911787_6-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701911787_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701911787_6-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746065660 130.608333333
+32.746065806 130.608336877
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+<Cstline gml:id="K14_4701911787_7">
+<fid>47019-11787-s-4044</fid>
+<lfSpanFr gml:id="K14_4701911787_7-1">
+<gml:timePosition>2017-09-25</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K14_4701911787_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<loc>
+<gml:Curve gml:id="K14_4701911787_7-g" srsName="fguuid:jgd2011.bl">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745682580 130.608336877
+32.745683233 130.608333333
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</loc>
+<type>海岸線</type>
+</Cstline>
+</Dataset>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xsi:schemaLocation="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema FGD_GMLSchema.xsd"
+	xmlns:gml="http://www.opengis.net/gml/3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://fgd.gsi.go.jp/spec/2008/FGD_GMLSchema"
+	gml:id="Dataset1">
+  <gml:description>基盤地図情報メタデータ ID=fmdid:19-0101</gml:description>
+  <gml:name>基盤地図情報ダウンロードデータ（GML版）</gml:name>
+<WStrA gml:id="K28_4698011760_1">
+<fid>20181205-47019-11787-s-3634</fid>
+<lfSpanFr gml:id="K28_4698011760_1-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_1-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_1-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_1-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.746043564 130.609029201
+32.746003625 130.609032577
+32.746005337 130.609061062
+32.746006958 130.609089333
+32.746046988 130.609085957
+32.746043564 130.609029201
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_2">
+<fid>20181205-47019-11787-s-3635</fid>
+<lfSpanFr gml:id="K28_4698011760_2-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_2-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_2-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_2-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.745874963 130.60909866
+32.745914722 130.609095285
+32.745913015 130.609068401
+32.745911119 130.609038850
+32.745911119 130.609038637
+32.745881276 130.609041115
+32.745871540 130.609041905
+32.745871269 130.609041906
+32.745874393 130.609089379
+32.745874963 130.60909866
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_3">
+<fid>20181205-47022-11778-s-3959</fid>
+<lfSpanFr gml:id="K28_4698011760_3-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_3-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_3-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_3-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.717166385 130.618375252
+32.717160341 130.618404081
+32.717184712 130.618411231
+32.717190846 130.618382402
+32.717182993 130.618380089
+32.717174238 130.618377566
+32.717166385 130.618375252
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_4">
+<fid>20181205-47022-11778-s-3958</fid>
+<lfSpanFr gml:id="K28_4698011760_4-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_4-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_4-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_4-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.717213851 130.618149320
+32.717221614 130.618151634
+32.717230369 130.618154157
+32.717238222 130.618156470
+32.717244266 130.618127641
+32.717219895 130.618120491
+32.717213851 130.618149320
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_5">
+<fid>20181205-47016-11778-s-639</fid>
+<lfSpanFr gml:id="K28_4698011760_5-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_5-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_5-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_5-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718459981 130.607665378
+32.718477606 130.607649513
+32.718473619 130.607643236
+32.718468182 130.607634832
+32.718464194 130.607628556
+32.718453942 130.607637775
+32.718452324 130.607639276
+32.718446568 130.607644528
+32.718459981 130.607665378
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_6">
+<fid>20181205-47016-11778-s-638</fid>
+<lfSpanFr gml:id="K28_4698011760_6-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_6-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_6-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_6-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.718502624 130.607603745
+32.718508061 130.607612256
+32.718512049 130.607618425
+32.718529674 130.60760256
+32.718516262 130.607581710
+32.718509787 130.607587499
+32.718498636 130.607597575
+32.718502624 130.607603745
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_7">
+<fid>20181205-47022-11781-s-3781</fid>
+<lfSpanFr gml:id="K28_4698011760_7-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_7-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_7-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_7-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.726100764 130.620289825
+32.726093474 130.620294870
+32.726103728 130.620315738
+32.726121367 130.620303607
+32.726111113 130.620282740
+32.726103824 130.620287785
+32.726100764 130.620289825
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_8">
+<fid>20181205-47022-11781-s-3782</fid>
+<lfSpanFr gml:id="K28_4698011760_8-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_8-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_8-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_8-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.726072513 130.620252177
+32.726079802 130.620247132
+32.726082862 130.620245092
+32.726090151 130.620240047
+32.726079898 130.620219286
+32.726062259 130.620231310
+32.726072513 130.620252177
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_9">
+<fid>20181205-47016-11781-s-1107</fid>
+<lfSpanFr gml:id="K28_4698011760_9-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_9-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_9-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_9-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730061912 130.606514841
+32.730047117 130.606513199
+32.730046943 130.606515121
+32.730045729 130.606530596
+32.730053126 130.606531418
+32.730060524 130.606532239
+32.730061739 130.606517189
+32.730061912 130.606514841
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+<WStrA gml:id="K28_4698011760_10">
+<fid>20181205-47016-11781-s-1106</fid>
+<lfSpanFr gml:id="K28_4698011760_10-1">
+<gml:timePosition>2018-12-05</gml:timePosition>
+</lfSpanFr>
+<devDate gml:id="K28_4698011760_10-2">
+<gml:timePosition>2018-12-07</gml:timePosition>
+</devDate>
+<orgGILvl>2500</orgGILvl>
+<vis>表示</vis>
+<area>
+<gml:Surface gml:id="K28_4698011760_10-g" srsName="fguuid:jgd2011.bl">
+<gml:patches>
+<gml:PolygonPatch>
+<gml:exterior>
+<gml:Ring>
+<gml:curveMember>
+<gml:Curve gml:id="K28_4698011760_10-3">
+<gml:segments>
+<gml:LineStringSegment>
+<gml:posList>
+32.730054408 130.606594894
+32.730047010 130.606593859
+32.730039702 130.606592931
+32.730038132 130.606609688
+32.730052838 130.606611651
+32.730054408 130.606594894
+</gml:posList>
+</gml:LineStringSegment>
+</gml:segments>
+</gml:Curve>
+</gml:curveMember>
+</gml:Ring>
+</gml:exterior>
+</gml:PolygonPatch>
+</gml:patches>
+</gml:Surface>
+</area>
+<type>水門</type>
+</WStrA>
+</Dataset>
